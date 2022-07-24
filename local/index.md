@@ -31,7 +31,7 @@ To reach ITBB from Lisbon you have to take A5 and leave the road at the Carcavel
 
 <img src="https://www.itqb.unl.pt/contacts/mapa.jpg">
 
-# Location on Maps
+# Location on the Map
 <iframe src="https://maps.google.com/maps?q=ITQB%20NOVA&t=&z=13&ie=UTF8&iwloc=&output=embed" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ### GPS Coordinates
