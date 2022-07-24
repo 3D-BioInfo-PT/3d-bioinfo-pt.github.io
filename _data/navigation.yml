@@ -3,22 +3,22 @@
 #- title: Início
 #  url: /
 
-- title: Acerca
+- title: About
   url: /acerca/
 
-- title: Localização
+- title: LOcation
   url: /local/
 
-- title: Programa
+- title: Program
   url: /programa/
 
-- title: Registo
+- title: Register
   url: /registo/
 
-- title: Livro de Resumos
+- title: Book of Abstracts
   url: /images/abstracts_2021.pdf
 
-- title: Edições Anteriores
+- title: Previous Editions
   url: /edicoes_anteriores/
 
 #- title: Workshop HADDOCK
