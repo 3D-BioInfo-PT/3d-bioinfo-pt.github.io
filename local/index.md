@@ -8,9 +8,11 @@ comments: false
 image:
   feature: dcv_image.png
 ---
-
+<!--
 O EJIBCE 2021 terá lugar na [Faculdade de Ciências e Tecnologia da Universidade de Coimbra](https://www.uc.pt/en/fctuc), no anfiteatro I do Departamento de Ciências da Vida.
-
+-->
+The 2022 3D-BioInfo-PT will take place at [ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier](https://www.itqb.unl.pt/).
+<!--
 ### Morada
 Faculdade de Ciências e Tecnologia da Universidade de Coimbra
 
@@ -19,11 +21,30 @@ Calçada Martim de Freitas
 3000-456 Coimbra
 
 Portugal
+-->
 
+### Address
+ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier
+
+Av. da República
+
+2780-157 Oeiras
+
+Portugal
+<!--
 # Como chegar?
 O acesso à FCTUC é rápido, particularmente para quem chega de comboio à estação de Coimbra A, sendo possível caminhar o resto da distância, ou também recorrer a automóvel, autocarros, táxi ou trotinetes!
+-->
+## How to get there?
 
+#Train
+ITQB NOVA's complex main gate is located nearby to the Oeiras train station (around 1 km walk). 
 
+#By car
+To reach ITBB from Lisbon you have to take A5 and leave the road at the Carcavelos access. Then, follow the signs to Nova Oeiras.
+
+<img src="https://www.itqb.unl.pt/contacts/mapa.jpg">
+<!--
 ### Autocarro
 
 [Serviços Municipalizados de Transportes Urbanos de Coimbra](https://www.smtuc.pt/en/):
@@ -35,9 +56,23 @@ O acesso à FCTUC é rápido, particularmente para quem chega de comboio à esta
 [Praça de Táxis](https://coimbra.empresasportugal.net/taxi-stand/praca-de-taxis-rodoviaria/)
 
 [Politáxis Coimbra](http://www.politaxis.pt/)
-
+-->
+<!--
 # Localização no Mapa
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.09002382905!2d-8.424475784610461!3d40.20706037939009!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd22f9a07de99ec3%3A0x2ccfec8c3b4d8553!2sDepartamento%20de%20Ci%C3%AAncias%20da%20Vida%20-%20Universidade%20de%20Coimbra!5e0!3m2!1sen!2spt!4v1633991764427!5m2!1sen!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+-->
+# Location on Maps
+<iframe src="https://www.google.pt/maps/place/ITQB+NOVA/@38.695871,-9.3241532,17z/data=!3m1!4b1!4m5!3m4!1s0xd1ec8d4568219b5:0xbf2846d20e90fa22!8m2!3d38.695871!4d-9.3219645?hl=pt-PT" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
+<!--
 ### Coordenadas GPS
 40.207314,-8.422212
+-->
+### GPS Coordinates
+Main gate:
+latitude: 38° 41' 38" (38.694 N) 
+longitude: 9° 19' 7" (-9.318 W) 
+
+Back gate:
+latitude: 38° 41' 45'' (38.696 N)
+longitude: 9° 19' 19'' (-9.322 W)
