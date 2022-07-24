@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Location
-excerpt: "Informações Gerais de Localização do EJIBCE 2021"
+excerpt: "General information regarding 2022 3D-BioData-PT's location."
 tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCTUC]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
