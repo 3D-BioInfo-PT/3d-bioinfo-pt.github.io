@@ -21,10 +21,12 @@ Portugal
 
 ## How to get there?
 
-#Train
+# Train
+
 ITQB NOVA's complex main gate is located nearby to the Oeiras train station (around 1 km walk).  
 
-#By car
+# By car
+
 To reach ITBB from Lisbon you have to take A5 and leave the road at the Carcavelos access. Then, follow the signs to Nova Oeiras.
 
 <img src="https://www.itqb.unl.pt/contacts/mapa.jpg">
