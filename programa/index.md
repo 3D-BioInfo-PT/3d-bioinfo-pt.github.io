@@ -9,14 +9,14 @@ image:
   credit: EJIBCE 2013
 ---
 
-### Workshop: September 21st and 22nd, 2022, at ITQB
+# Workshop: September 21st and 22nd, 2022, at ITQB
 
-# Description
+## Description
 
-# Program
+## Program
 [Download](/images/Program_workshop_2022.pdf)
 
-# Location
+## Location
 The 2022 3D-BioInfo-PT will take place at [ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier](https://www.itqb.unl.pt/) (Oeiras, Portugal).
 ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier
 Av. da República
@@ -32,19 +32,23 @@ longitude: 9° 19' 19'' (-9.322 W)
 
 <iframe src="https://maps.google.com/maps?q=ITQB%20NOVA&t=&z=13&ie=UTF8&iwloc=&output=embed" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-# How to get there?
-<b>By Train</b>: ITQB NOVA's complex main gate is located nearby to the Oeiras train station (around 1 km walk).  
-<b>By car</b>: To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavelos access. Then, follow the signs to Nova Oeiras.
+## How to get there?
+
+### By Train
+ITQB NOVA's complex main gate is located nearby to the Oeiras train station (around 1 km walk). 
+
+### By car
+To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavelos access. Then, follow the signs to Nova Oeiras.
 <img src="https://www.itqb.unl.pt/contacts/mapa.jpg">
 
-# Registration 
-Please fill this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeNnCrdssmhnatfJjnmoiWlbzXVZ8BursmvUvUOEMkTPN_c0A/viewform?usp=sf_link)">Registration form</a>. 
+## Registration 
+Inscriptions will be opened soon! Please fill this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeNnCrdssmhnatfJjnmoiWlbzXVZ8BursmvUvUOEMkTPN_c0A/viewform?usp=sf_link)" target="_blank">Registration form</a>. 
 
-### Conference: December 19th through 21st, 2022
+# Conference: December 19th through 21st, 2022
 
 <b>MORE INFORMATION SOON!</b>
 
-### Past editions
+# Past editions
 
 <a href="/edicoes_anteriores/">Previous Editions (then known as EJIBCE)</a>.
 
