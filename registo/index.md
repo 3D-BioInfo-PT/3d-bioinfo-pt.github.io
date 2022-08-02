@@ -8,5 +8,5 @@ comments: false
 image:
   feature: feature-REGISTO.jpg
 ---
-Please fill the following Google form: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeNnCrdssmhnatfJjnmoiWlbzXVZ8BursmvUvUOEMkTPN_c0A/viewform?usp=sf_link)">Registrartion form</a>.
+Please fill the following Google form: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeNnCrdssmhnatfJjnmoiWlbzXVZ8BursmvUvUOEMkTPN_c0A/viewform?usp=sf_link)">Registration form</a>.
 
