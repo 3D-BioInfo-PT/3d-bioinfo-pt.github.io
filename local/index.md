@@ -8,7 +8,7 @@ comments: false
 image:
   feature: feature_2022.jpeg
 ---
-The 2022 3D-BioInfo-PT will take place at [ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier](https://www.itqb.unl.pt/).
+The 2022 3D-BioInfo-PT will take place at [ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier](https://www.itqb.unl.pt/) (Oeiras, Portugal).
 
 ### Address
 ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier
