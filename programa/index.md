@@ -40,7 +40,7 @@ longitude: 9° 19' 19'' (-9.322 W)
   </div>
 
   <div class="right">
-    <img src="https://www.itqb.unl.pt/contacts/mapa.jpg">
+    <img src="https://www.itqb.unl.pt/contacts/mapa.jpg" width="600" height="450" style="border:0;">
   </div>
 </div>
 
