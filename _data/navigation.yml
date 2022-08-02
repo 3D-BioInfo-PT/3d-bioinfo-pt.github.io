@@ -6,20 +6,20 @@
 - title: About
   url: /acerca/
 
-- title: Location
-  url: /local/
+#- title: Location
+#  url: /local/
 
-- title: Program
+- title: Events
   url: /programa/
 
-- title: Register
-  url: /registo/
+#- title: Register
+#  url: /registo/
 
 #- title: Book of Abstracts
 #  url: /images/abstracts_2021.pdf
 
-- title: Previous Editions
-  url: /edicoes_anteriores/
+#- title: Previous Editions
+#  url: /edicoes_anteriores/
 
 #- title: Workshop HADDOCK
 #  url: /images/workshop_haddock.pdf
