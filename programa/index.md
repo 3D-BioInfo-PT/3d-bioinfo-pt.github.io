@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Events"
+title: "Next Events"
 tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCTUC]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: feature-PESSOAS.jpg
+  feature: feature_2022.jpeg
   credit: EJIBCE 2013
 ---
 
@@ -44,7 +44,7 @@ To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavel
 ## Registration 
 Inscriptions will be opened soon! Please fill this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeNnCrdssmhnatfJjnmoiWlbzXVZ8BursmvUvUOEMkTPN_c0A/viewform?usp=sf_link)" target="_blank">Registration form</a>. 
 
-# Conference: December 19th through 21st, 2022
+# Conference: December 19th through 21st, 2022, at ITQB
 
 <b>MORE INFORMATION SOON!</b>
 
