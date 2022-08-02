@@ -10,19 +10,17 @@ image:
   credit: EJIBCE 2013
 ---
 
-O Encontro de Jovens Investigadores de Biologia Computacional Estrutural (EJIBCE) tem como objectivo
-reunir a comunidade científica portuguesa nesta área num encontro livre de encargos, de forma a
-proporcionar um espaço de discussão e partilha sem compromissos. Esta oitava edição alimenta-se do sucesso das edições anteriores, no Porto, em Lisboa, em Coimbra e em Oeiras que reuniram mais de 60 participantes num total de mais de 10 comunicações orais, por edição.
+The Young Researchers of Computational and Structural Biology Meeting (3D-BioInfo-PT) aims at reuniting the portuguese scientific community of this scientific area in a free of charge meeting by giving a space for discussion and sharing without commitment. This 8th edition feeds of the previous editions' sucess on Porto, Lisboa, Coimbra and Oeiras which reunited more than 60 participants in a total of more than 10 oral presentations per edition. 
 
-## Missão & Objectivos
-A partilha e discussão de ideias são as sementes para uma comunidade científica forte. Dada a presente situação pandémica, torna-se cada vez mais necessário dinamizar e estimular um espírito de abertura e colaboração entre os vários grupos de investigação em Portugal. Entre outros fatores, este panorama veio mostrar o contributo e crescente necessidade de investigadores capazes de rentabilizar os recursos computacionais para a geração de respostas rápidas, eficazes e racionais a problemas reais, urgentes e incotornáveis.
+## Mission and Goals
+The sharing and discussion of ideas are the seeds for a strong scientific community. Due to the current pandemic situation it's ever more necessary to dynamize and stimulate a open and colaborative spirit amoung the several research groups in Portugal. Between several factors this panorama has shown the contribution and growing necessity of researchers to be able to monetize computational resources to generate quick, efficient and racional answers to real, urgent and unavoidable problems.
 
-Este contacto com Portugal torna-se importante no momento de voltar ao país após um doutoramento, um pós-doutoramento, ou qualquer outro período prolongado no estrangeiro. Por outro lado, há quem queira continuar no estrangeiro mas simultaneamente cultivar uma relação de proximidade com a ciência em Portugal. Mas, que grupos existem na área da Biologia Computacional Estrutural em Portugal? E que investigação é levada a cabo nesses grupos? As perguntas surgem naturalmente e as respostas nem sempre são simples de encontrar.
+This contact with Portugal becomes important from the moment people get back after a Doctorate, a PhD, or any other long period spent abroad. From another side, there are also people that wish to be abroad yet still maintain and cultivate a relationship of proximity with science in Portugal. But what groups exist in the Estructural and Computational Biology field in Portugal? And do those groups research? Question arise naturally and the answers are not always so simple to find. 
 
-Esta iniciativa pretende dar resposta a algumas destas perguntas. Pretende dar a conhecer o que de melhor se faz na área da Biologia Computacional Estrutural em Portugal, e por outro lado, dar a conhecer o que estudam investigadores portugueses radicados no estrangeiro. Desta forma, queremos proporcionar um espaço onde se possam divulgar e discutir projectos e resultados, com vista a estimular colaborações (a nível nacional e internacional) e a alargar os horizontes da Biologia Computacional Estrutural em Português.
+This initiative wants to give an answer to some of these questions. Also wants to show the best of Computational and Structural Biology in Portugal and also give to know what do portuguese researchers study spread abroad. This way we want to give a place where projects and results can be shared and discussed in order to stimulize colaborations (both national and internationally) and amplify the Computational and Structural Biology horizons. 
 
-## Termo de Responsabilidade
-Todo o material e serviços nesta página web são prestados sem qualquer garantia. O conteúdo publicado nestas páginas pode conter erros pelos quais a organização não se responsabiliza. O conteúdo está também sujeito a mudanças periódicas sem direito a pré-aviso. Quaisquer dúvidas e questões devem ser endereçadas à organização por correio electrónico (ejibce@gmail.com). O registo neste evento implica a aceitação destas condições.
+## Responsability Term
+All the material and services in this web page as given without any guarantee. The publicited content in these pages may contain errors for which the organization is not responsible. The content is also subject to periodic changes without giving any pre-warning. Any doubts or questions can be adressed to the organization via the eletronic mail (ejibce@gmail.com). The registry on this event implies the agreement over these conditions. 
 
-## Contacto
+## Contact
 ejibce@gmail.com
