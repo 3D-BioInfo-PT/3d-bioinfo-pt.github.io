@@ -9,7 +9,7 @@ image:
   credit: EJIBCE 2013
 ---
 
-# Workshop: September 21st and 22nd, 2022, at ITQB
+# Workshop: September 22nd and 23rd, 2022, at ITQB
 
 ## Description
 
