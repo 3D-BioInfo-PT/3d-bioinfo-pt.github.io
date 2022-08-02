@@ -81,3 +81,13 @@
     background: #5DA95C;
     color: white;
 }
+
+
+.splitscreen {
+  display: flex;
+}
+
+.splitscreen .left,
+.splitscreen .right {
+  flex: 1;
+}
