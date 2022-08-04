@@ -11,6 +11,8 @@ image:
 
 # Workshop: September 22nd and 23rd, 2022, at ITQB
 
+[All info here!](/workshop/)
+
 ## Description
 
 ## Program
