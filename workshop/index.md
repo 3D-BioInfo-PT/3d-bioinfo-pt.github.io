@@ -32,6 +32,8 @@ longitude: 9° 19' 7" (-9.318 W)
 latitude: 38° 41' 45'' (38.696 N)
 longitude: 9° 19' 19'' (-9.322 W)
 
+<link rel="stylesheet" href="style.css">
+
 <div class="splitscreen">
   <div class="left">
     <iframe src="https://maps.google.com/maps?q=ITQB%20NOVA&t=&z=13&ie=UTF8&iwloc=&output=embed" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
