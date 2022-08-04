@@ -9,14 +9,17 @@ image:
   credit: EJIBCE 2013
 ---
 
+<hr>
 # Workshop: September 22nd and 23rd, 2022, at ITQB
 
 [All info here!](/workshop/)
 
+<hr>
 # Conference: December 19th through 21st, 2022, at ITQB
 
 <b>MORE INFORMATION SOON!</b>
 
+<hr>
 # Past editions
 
 <a href="/edicoes_anteriores/">Previous Editions (then known as EJIBCE)</a>.
