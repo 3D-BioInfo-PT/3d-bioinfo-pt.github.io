@@ -1,6 +1,6 @@
 ---
 layout: acerca
-title: Acerca
+title: About
 excerpt: "Informações Gerais sobre o EJIBCE 2021"
 tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST]
 modified: 2014-08-08T20:53:07.573882-04:00
