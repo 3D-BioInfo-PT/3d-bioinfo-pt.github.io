@@ -10,7 +10,7 @@ image:
   credit: EJIBCE 2013
 ---
 
-The Young Researchers of Computational and Structural Biology Meeting (3D-BioInfo-PT) aims at reuniting the portuguese scientific community of this scientific area in a free of charge meeting by giving a space for discussion and sharing without commitment. This 8th edition feeds of the previous editions' sucess on Porto, Lisboa, Coimbra and Oeiras which reunited more than 60 participants in a total of more than 10 oral presentations per edition. 
+The 3D-BioInfo-PT aims at reuniting the portuguese scientific community of this scientific area in a free of charge meeting by giving a space for discussion and sharing without commitment. This 8th edition feeds of the previous editions' sucess on Porto, Lisboa, Coimbra and Oeiras which reunited more than 60 participants in a total of more than 10 oral presentations per edition. 
 
 ## Mission and Goals
 The sharing and discussion of ideas are the seeds for a strong scientific community. Due to the current pandemic situation it's ever more necessary to dynamize and stimulate a open and colaborative spirit amoung the several research groups in Portugal. Between several factors this panorama has shown the contribution and growing necessity of researchers to be able to monetize computational resources to generate quick, efficient and racional answers to real, urgent and unavoidable problems.
