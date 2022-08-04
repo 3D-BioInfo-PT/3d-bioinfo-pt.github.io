@@ -17,12 +17,13 @@ image:
 ## Location
 The 2022 3D-BioInfo-PT will take place at [ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier](https://www.itqb.unl.pt/) (Oeiras, Portugal).
 
-
 Av. da República
 
 2780-157 Oeiras
 
 Portugal
+
+### GPS coordinates
 
 <b>Main gate</b>:
 latitude: 38° 41' 38" (38.694 N) 
@@ -43,7 +44,6 @@ longitude: 9° 19' 19'' (-9.322 W)
     <img src="https://www.itqb.unl.pt/contacts/mapa.jpg" width="600" height="450" style="border:0;">
   </div>
 </div>
-
 
 ## How to get there?
 
