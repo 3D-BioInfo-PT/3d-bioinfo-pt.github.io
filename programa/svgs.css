@@ -14,6 +14,10 @@
 filter: invert(88%) sepia(21%) saturate(935%) hue-rotate(123deg) brightness(85%) contrast(97%);
 }
 
+.meeting{
+filter: invert(44%) sepia(60%) saturate(300%) hue-rotate(98deg) brightness(92%) contrast(78%);
+}
+
 .logo {
   background-color: green;
   -webkit-mask: url(logo.svg) no-repeat center;
