@@ -1,9 +1,7 @@
 ---
 layout: home_mod
-excerpt: "Página Inicial do site para o Encontro de Jovens Investigadores em Biologia Computacional Estrutural"
-tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCTUC]
+excerpt: "Website of 3D-BioInfo-PT, the Portuguese community of Structural Bioinformatics researchers"
+tags: [EJIBCE, FCT, SPB, ANBIOQ, 3DBPT]
 image:
-  feature: feature-2021.png
+  feature: 3d-bioinfo-pt-banner_paths.svg
 ---
-
-Financed by national funds thought FCT – Fundação para a Ciência e a Tecnologia, I.P., under projects LA/P/0058/2020, UIDB/04539/2020, UIDP/04539/2020.
