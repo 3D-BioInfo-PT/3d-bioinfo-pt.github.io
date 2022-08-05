@@ -10,7 +10,11 @@
   filter: brightness(0.5) sepia(1) hue-rotate(140deg) saturate(6);
 }
 
-.svg_green {
+.workshop{
+filter: invert(88%) sepia(21%) saturate(935%) hue-rotate(123deg) brightness(85%) contrast(97%);
+}
+
+.logo {
   background-color: green;
   -webkit-mask: url(logo.svg) no-repeat center;
   mask: url(logo.svg) no-repeat center;
