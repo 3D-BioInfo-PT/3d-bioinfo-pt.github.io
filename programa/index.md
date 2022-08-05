@@ -12,7 +12,9 @@ image:
 <hr>
 # Workshop: September 22nd and 23rd, 2022, at ITQB
 
-[All info here!](/workshop/)
+<a href="/workshop/" title="Click for more information!">
+  <img alt="Qries" src="/images/workshop1-2022.svg">
+</a>
 
 <hr>
 # Conference: December 19th through 21st, 2022, at ITQB
