@@ -6,7 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
   feature: feature_2022.jpeg
-  credit: EJIBCE 2013
+  credit: 3D-BioInfo-PT 2022
 ---
 
 ## Description
