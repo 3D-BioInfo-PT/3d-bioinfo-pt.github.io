@@ -21,7 +21,7 @@ image:
 <hr>
 # Conference: December 19th through 21st, 2022, at ITQB
 
-<img alt="Qries" title="More information Soon!" src="/images/meeting-2022.svg" class="meeting">
+<img alt="Qries" title="More information Soon!" src="/images/meeting-2022.svg">
 
 <hr>
 # Past editions
