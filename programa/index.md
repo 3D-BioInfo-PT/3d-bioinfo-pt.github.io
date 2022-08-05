@@ -9,17 +9,19 @@ image:
   credit: 3D-BioInfo-PT 2022
 ---
 
+<link rel="stylesheet" href="svgs.css">
+
 <hr>
 # Workshop: September 22nd and 23rd, 2022, at ITQB
 
 <a href="/workshop/" title="Click for more information!">
-  <img alt="Qries" src="/images/workshop1-2022.svg">
+  <img alt="Qries" src="/images/workshop1-2022.svg" class="workshop">
 </a>
 
 <hr>
 # Conference: December 19th through 21st, 2022, at ITQB
 
-<img alt="Qries" title="More information Soon!" src="/images/meeting-2022.svg">
+<img alt="Qries" title="More information Soon!" src="/images/meeting-2022.svg" class="meeting">
 
 <hr>
 # Past editions
