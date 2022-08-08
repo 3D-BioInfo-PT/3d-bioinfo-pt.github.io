@@ -1,20 +1,24 @@
 # Keep avatars at 200 px width
 
--   name: UC
-    url: https://www.uc.pt/en
-    avatar: /images/sponsors/logo_UC.jpg
+-   name: Biodata.pt
+    url: https://www.biodata.pt/
+    avatar: /images/BioData.png
 
--   name: CNC-UC
-    url: https://www.cnc.uc.pt/en/
-    avatar: /images/sponsors/logo_CNC.png
+-   name: Elixir Portugal
+    url: https://elixir-europe.org/about-us/who-we-are/nodes/portugal
+    avatar: /images/elixir_portugal.png
+
+#-   name: CNC-UC
+#    url: https://www.cnc.uc.pt/en/
+#    avatar: /images/sponsors/logo_CNC.png
     
--   name: CIBB
-    url: https://www.cibb.uc.pt/
-    avatar: /images/sponsors/logo_CIBB.png
+#-   name: CIBB
+#    url: https://www.cibb.uc.pt/
+#    avatar: /images/sponsors/logo_CIBB.png
 
--   name: Wallfuture
-    url: https://www.wallfuture.com/
-    avatar: /images/sponsors/logo_wallfuture.png
+#-   name: Wallfuture
+#    url: https://www.wallfuture.com/
+#    avatar: /images/sponsors/logo_wallfuture.png
     
 
 #-   name: CNC
