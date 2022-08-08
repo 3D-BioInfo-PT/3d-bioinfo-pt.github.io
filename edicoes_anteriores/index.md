@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Previuos Editions
+title: EJIBCE Editions
 excerpt: "Edições Anteriores do EJIBCE"
 tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCTUC]
 modified: 2014-08-08T20:53:07.573882-04:00
@@ -10,7 +10,7 @@ image:
   credit: EJIBCE 2018
 ---
 
-On this section you can find the Book of Abstracts of the past editions of this meeting (then known as EJIBCE).
+Here you can find the Book of Abstracts of the past editions of the EJIBCE meeting.
 
 ## Book of Abstracts EJIBCE 2021
 Coimbra, December 20th, 2021
