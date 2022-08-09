@@ -16,7 +16,7 @@ image:
 
 Chief among the goals of 3D-BioInfo-PT is the organization of community meetings, providing a space that promotes open discussion and sharing. The annual meetings have become an important event in the community's calendar, strengthening the community locally and also its ties to researchers working outside of Portugal. Several successful editions of the annual meeting have taken place &mdash; in Porto, Lisboa, Coimbra and Oeiras &mdash; having brought together over 60 participants per edition. 
 
-Since its inception under Biodata.pt, 3D-BioInfo-PT has also focused on organizing dissemination and teaching events. These include the [3D BioTalks](https://www.biodata.pt/node/395) seminar cycle and a yearly hands-on [workshop cycle](programa/) aimed at different levels of expertise, for users within and outside the community.
+Since its inception under Biodata.pt, 3D-BioInfo-PT has also focused on organizing dissemination and teaching events. These include the [3D BioTalks](https://www.biodata.pt/node/395) seminar cycle and a yearly hands-on [workshop cycle](/events) aimed at different levels of expertise, for users within and outside the community.
 
 To more inclusively reach the community, namely the younger researchers, 3D-BioInfo-PT strives to make meeting and workshop attendance free of charge. The growing participation in community events is a testament to the importance of this strategy.
 

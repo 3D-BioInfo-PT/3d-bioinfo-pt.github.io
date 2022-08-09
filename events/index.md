@@ -11,7 +11,7 @@ comments: false
 <hr>
 # Introductory Workshop: September 22nd and 23rd, 2022, at ITQB-NOVA
 
-<a href="/workshop/" title="Click for more information!">
+<a href="/workshops/workshop_9_2022.html" title="Click for more information!">
   <img alt="Qries" src="/images/workshop1-2022.svg" class="workshop">
 </a>
 
