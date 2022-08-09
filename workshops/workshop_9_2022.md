@@ -5,8 +5,7 @@ tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCTUC]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: feature_2022.jpeg
-  credit: 3D-BioInfo-PT 2022
+  feature: itqb_2022.jpeg
 ---
 
 ## Description
