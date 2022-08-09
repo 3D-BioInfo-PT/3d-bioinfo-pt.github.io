@@ -1,5 +1,5 @@
 ---
-layout: home_mod
+layout: home
 excerpt: "Website of 3D-BioInfo-PT, the Portuguese community of Structural Bioinformatics researchers"
 tags: [EJIBCE, FCT, SPB, ANBIOQ, 3DBPT]
 image:
