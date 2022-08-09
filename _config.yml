@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            EJIBCE
+title:            3D-BioInfo-PT
 locale:           pt_PT
 url:
 
@@ -25,24 +25,24 @@ kramdown:
 
 # Site owner
 owner:
-  name: EJIBCE
-  avatar: avatar-ejibce.jpg
-  bio: "Encontro de Jovens Investigadores em Biologia Computacional Estrutural"
-  email: ejibce@gmail.com
+  name: 3D-BioInfo-PT
+  avatar: favicon.svg
+  bio: "The Portuguese community of Structural Bioinformatics researchers"
+  email:
   disqus-shortname:
-  twitter: ejibce
-  facebook: encontrojibce
+  twitter:
+  facebook:
   google:
     plus: #username
-    analytics: UA-68861519-1
+    analytics:
     verify:
     ad-client:
     ad-slot:
-    maps: https://goo.gl/maps/CYKLmdfnjkK2
+    maps:
   bing-verify:
   github:
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: 5109054
+  linkedin:
   xing: #username
   instagram: #username
   lastfm: #username
