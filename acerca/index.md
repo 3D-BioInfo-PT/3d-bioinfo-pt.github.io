@@ -22,7 +22,7 @@ To more inclusively reach the community, namely the younger researchers, 3D-BioI
 
 ## History
 
-3D-BioInfo-PT was established in 2022 as a community within the larger Biodata.pt infrastructure. Before that, annual community meetings had been organized since 2013 as [EJIBCE &ndash; *Encontro de Jovens Investigadores em Biologia Estrutural Computacional*](http://ejibce.github.io/).
+3D-BioInfo-PT was established in 2022 as a community within the larger Biodata.pt infrastructure. Before that, annual community meetings had been organized since 2013 as [EJIBCE &ndash; *Encontro de Jovens Investigadores em Biologia Computacional Estrutural*](http://ejibce.github.io/).
 
 ## Organization & Contact
 

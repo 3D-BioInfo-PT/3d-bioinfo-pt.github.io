@@ -11,14 +11,12 @@
 }
 
 .workshop{
- 
     fill: red;
     background-color:white;
-  
 }
 
 .meeting{
-filter: invert(44%) sepia(60%) saturate(300%) hue-rotate(98deg) brightness(92%) contrast(78%);
+    filter: invert(44%) sepia(60%) saturate(300%) hue-rotate(98deg) brightness(92%) contrast(78%);
 }
 
 .logo {
