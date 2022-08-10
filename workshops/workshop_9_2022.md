@@ -22,12 +22,10 @@ The workshop will offer training on
 [Access the program here!](/images/Program_workshop_2022.pdf)
 
 ## Location
-The 2022 3D-BioInfo-PT Introductory Workshop will take place at [ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier](https://www.itqb.unl.pt/) (Oeiras, Portugal).
+The 2022 3D-BioInfo-PT Introductory Workshop will take place at [ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier](https://www.itqb.unl.pt/).
 
-Av. da República
-
-2780-157 Oeiras
-
+Av. da República  
+2780-157 Oeiras  
 Portugal
 
 ### GPS coordinates
