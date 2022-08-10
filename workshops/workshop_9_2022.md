@@ -11,11 +11,18 @@ image:
 ## Registration 
 Registration will be open soon! Please fill this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeNnCrdssmhnatfJjnmoiWlbzXVZ8BursmvUvUOEMkTPN_c0A/viewform?usp=sf_link)" target="_blank">Registration form</a>. 
 
-## Program
-[Access it here!](/images/Program_workshop_2022.pdf)
+## Topics and Program
+
+The workshop will offer training on
+1. Working with Linux
+1. Molecular visualization
+1. Molecular docking
+1. QM energy evaluation and optimization
+
+[Access the program here!](/images/Program_workshop_2022.pdf)
 
 ## Location
-The 2022 3D-BioInfo-PT will take place at [ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier](https://www.itqb.unl.pt/) (Oeiras, Portugal).
+The 2022 3D-BioInfo-PT Introductory Workshop will take place at [ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier](https://www.itqb.unl.pt/) (Oeiras, Portugal).
 
 Av. da República
 
@@ -28,10 +35,6 @@ Portugal
 <b>Main gate</b>:
 latitude: 38° 41' 38" (38.694 N) 
 longitude: 9° 19' 7" (-9.318 W) 
-
-<b>Rear gate</b>:
-latitude: 38° 41' 45'' (38.696 N)
-longitude: 9° 19' 19'' (-9.322 W)
 
 <hr>
 ## How to get there?
