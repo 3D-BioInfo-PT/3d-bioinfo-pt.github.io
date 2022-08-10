@@ -8,8 +8,6 @@ image:
   feature: itqb_2022.jpeg
 ---
 
-## Description
-
 ## Registration 
 Registration will be open soon! Please fill this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeNnCrdssmhnatfJjnmoiWlbzXVZ8BursmvUvUOEMkTPN_c0A/viewform?usp=sf_link)" target="_blank">Registration form</a>. 
 
