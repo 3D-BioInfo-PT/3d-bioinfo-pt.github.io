@@ -18,12 +18,12 @@ comments: false
 <hr>
 # Intermediate Workshop: December 19th and 20th, 2022, at ITQB-NOVA
 
-<img alt="Qries" title="More information Soon!" src="/images/workshop2-2022.svg" class="workshop" style="max-width: 650px; filter: invert(100%) sepia(100%) saturate(300%) hue-rotate(290deg) invert(100%);">
+<img alt="Qries" title="More information soon!" src="/images/workshop2-2022.svg" class="workshop" style="max-width: 650px; filter: invert(100%) sepia(100%) saturate(300%) hue-rotate(290deg) invert(100%);">
 
 <hr>
 # Annual Meeting: December 21st, 2022, at ITQB-NOVA
 
-<img alt="Qries" title="More information Soon!" src="/images/meeting-2022.svg" style="max-width: 650px; filter: invert(100%) sepia(100%) saturate(300%) hue-rotate(0deg) invert(100%);">
+<img alt="Qries" title="More information soon!" src="/images/meeting-2022.svg" style="max-width: 650px; filter: invert(100%) sepia(100%) saturate(300%) hue-rotate(0deg) invert(100%);">
 
 <hr>
 # Past events
