@@ -13,7 +13,7 @@ Registration will be open soon! Please fill this <a href="https://docs.google.co
 
 ## Topics and Program
 
-The workshop will offer training on
+The workshop will offer training on:
 1. Working with Linux
 1. Molecular visualization
 1. Molecular docking
