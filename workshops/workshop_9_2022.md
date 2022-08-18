@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Introductory Workshop: September 22nd and 23rd, 2022"
+title: "Introductory Workshop: September 22nd and 23rd, 2022 at ITQB-NOVA"
 tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCTUC]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
@@ -8,20 +8,34 @@ image:
   feature: itqb_2022.jpeg
 ---
 
-## Registration 
-Registration will be open soon! Please fill this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeNnCrdssmhnatfJjnmoiWlbzXVZ8BursmvUvUOEMkTPN_c0A/viewform?usp=sf_link)" target="_blank">Registration form</a>. 
+## Registration
+
+The workshop is free of charge but requires registration. Please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSeNnCrdssmhnatfJjnmoiWlbzXVZ8BursmvUvUOEMkTPN_c0A/viewform) by September 12.
 
 ## Topics and Program
 
-The workshop will offer training on
+The workshop will offer beginner-level training on
 1. Working with Linux
 1. Molecular visualization
 1. Molecular docking
+1. Molecular dynamics
 1. QM energy evaluation and optimization
 
 [Access the program here!](/images/Program_workshop_2022.pdf)
 
+## Lecturers
+
+Bruno L. Victor -- FCUL
+Irina Moreira -- CNC UC
+Manuel N. Melo -- ITQB NOVA
+Miguel Machuqueiro -- FCUL
+Paulo Costa -- FCUL
+Paulo Martel -- UAlg
+Rita Melo -- IST
+Sérgio F. Sousa -- FCUP
+
 ## Location
+
 The 2022 3D-BioInfo-PT Introductory Workshop will take place at [ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier](https://www.itqb.unl.pt/).
 
 Av. da República  
