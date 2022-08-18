@@ -10,7 +10,7 @@ image:
 
 ## Registration
 
-The workshop is free of charge but requires registration. Please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSeNnCrdssmhnatfJjnmoiWlbzXVZ8BursmvUvUOEMkTPN_c0A/viewform) by September 12.
+The workshop is free of charge but requires registration. Please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSeNnCrdssmhnatfJjnmoiWlbzXVZ8BursmvUvUOEMkTPN_c0A/viewform){:target="_blank"} by September 12.
 
 ## Topics and Program
 
@@ -21,7 +21,7 @@ The workshop will offer initiation training on
 - Molecular dynamics
 - QM energy evaluation and optimization
 
-[Access the program here!](/images/Program_workshop_2022.pdf)
+[Access the program here!](/images/Program_workshop_2022.pdf){:target="_blank"}
 
 ## Lecturers
 
