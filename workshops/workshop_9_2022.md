@@ -14,7 +14,7 @@ The workshop is free of charge but requires registration. Please fill [this form
 
 ## Topics and Program
 
-The workshop will offer beginner-level training on
+The workshop will offer initiation training on
 1. Working with Linux
 1. Molecular visualization
 1. Molecular docking
