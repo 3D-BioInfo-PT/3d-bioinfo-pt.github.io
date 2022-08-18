@@ -15,11 +15,11 @@ The workshop is free of charge but requires registration. Please fill [this form
 ## Topics and Program
 
 The workshop will offer initiation training on
-1. Working with Linux
-1. Molecular visualization
-1. Molecular docking
-1. Molecular dynamics
-1. QM energy evaluation and optimization
+- Working with Linux
+- Molecular visualization
+- Molecular docking
+- Molecular dynamics
+- QM energy evaluation and optimization
 
 [Access the program here!](/images/Program_workshop_2022.pdf)
 
