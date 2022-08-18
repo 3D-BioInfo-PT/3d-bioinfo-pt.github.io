@@ -25,14 +25,14 @@ The workshop will offer initiation training on
 
 ## Lecturers
 
-Bruno L. Victor -- FCUL
-Irina Moreira -- CNC UC
-Manuel N. Melo -- ITQB NOVA
-Miguel Machuqueiro -- FCUL
-Paulo Costa -- FCUL
-Paulo Martel -- UAlg
-Rita Melo -- IST
-Sérgio F. Sousa -- FCUP
+- Bruno L. Victor -- FCUL
+- Irina Moreira -- CNC UC
+- Manuel N. Melo -- ITQB NOVA
+- Miguel Machuqueiro -- FCUL
+- Paulo Costa -- FCUL
+- Paulo Martel -- UAlg
+- Rita Melo -- IST
+- Sérgio F. Sousa -- FCUP
 
 ## Location
 
