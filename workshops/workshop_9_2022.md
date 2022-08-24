@@ -32,7 +32,7 @@ The workshop will offer initiation training on
 - Paulo Costa -- FCUL
 - Paulo Martel -- UAlg
 - Rita Melo -- IST
-- Sérgio F. Sousa -- FCUP
+- Sérgio F. Sousa -- UCIBIO
 
 ## Location
 
