@@ -61,16 +61,15 @@ To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavel
 
 # Partners
 
-<div class="row">
-  <div class="column">
-    <img src="/images/BioData.png" alt="BioData.pt" width="200" height="150" style="display:flex;flex:33.33%;padding:5px;">
+<div style="display:flex">
+  <div style="flex:33.33%;padding:5px;">
+    <img src="/images/BioData.png" alt="BioData.pt" width="200" height="150">
   </div>
-  <div class="column">
-    <img src="/images/elixir_portugal.png" alt="Elixir Portugal" width="200" height="150" style="display:flex;flex:33.33%;padding:5px;">
+  <div style="flex:33.33%;padding:5px;">
+    <img src="/images/elixir_portugal.png" alt="Elixir Portugal" width="200" height="150">
   </div>
-  <div class="column">
-    <img src="/images/CM_Oeiras.jpg" alt="Câmara Municipal de Oeiras" width="200" height="150" style="display:flex;flex:33.33%;padding:5px;">
+  <div style="flex:33.33%;padding:5px;">
+    <img src="/images/CM_Oeiras.jpg" alt="Câmara Municipal de Oeiras" width="200" height="150">
   </div>
 </div>
 
-<img src="/images/CM_Oeiras.jpg" width="600" height="450" style="border:0;">
