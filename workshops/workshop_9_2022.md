@@ -8,10 +8,6 @@ image:
   feature: itqb_2022.jpeg
 ---
 
-<head>
-  <link rel="stylesheet" href="workshops/style.css">
-</head>
-
 ## Registration
 
 The workshop is free of charge but requires registration. Please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSeNnCrdssmhnatfJjnmoiWlbzXVZ8BursmvUvUOEMkTPN_c0A/viewform){:target="_blank"} by September 12th.
@@ -67,13 +63,13 @@ To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavel
 
 <div class="row">
   <div class="column">
-    <img src="/images/BioData.png" alt="BioData.pt" width="200" height="150">
+    <img src="/images/BioData.png" alt="BioData.pt" width="200" height="150" style="display:flex;flex:33.33%;padding:5px;">
   </div>
   <div class="column">
-    <img src="/images/elixir_portugal.png" alt="Elixir Portugal" width="200" height="150">
+    <img src="/images/elixir_portugal.png" alt="Elixir Portugal" width="200" height="150" style="display:flex;flex:33.33%;padding:5px;">
   </div>
   <div class="column">
-    <img src="/images/CM_Oeiras.jpg" alt="Câmara Municipal de Oeiras" width="200" height="150">
+    <img src="/images/CM_Oeiras.jpg" alt="Câmara Municipal de Oeiras" width="200" height="150" style="display:flex;flex:33.33%;padding:5px;">
   </div>
 </div>
 
