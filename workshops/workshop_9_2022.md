@@ -8,6 +8,10 @@ image:
   feature: itqb_2022.jpeg
 ---
 
+<head>
+  <link rel="stylesheet" href="workshops/style.css">
+</head>
+
 ## Registration
 
 The workshop is free of charge but requires registration. Please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSeNnCrdssmhnatfJjnmoiWlbzXVZ8BursmvUvUOEMkTPN_c0A/viewform){:target="_blank"} by September 12th.
