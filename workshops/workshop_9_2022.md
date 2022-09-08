@@ -58,3 +58,7 @@ ITQB NOVA's complex main gate is located nearby to the Oeiras train station (aro
 
 ### By car
 To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavelos access. Then, follow the signs to Nova Oeiras.
+
+# Partners
+
+<img src="/images/CM_Oeiras.png" width="600" height="450" style="border:0;">
