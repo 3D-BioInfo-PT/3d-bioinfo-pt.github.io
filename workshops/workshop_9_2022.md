@@ -61,4 +61,4 @@ To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavel
 
 # Partners
 
-<img src="/images/CM_Oeiras.png" width="600" height="450" style="border:0;">
+<img src="/images/CM_Oeiras_branco.png.png" width="600" height="450" style="border:0;">
