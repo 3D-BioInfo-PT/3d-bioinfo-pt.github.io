@@ -61,7 +61,7 @@ To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavel
 
 # Partners
 
-<div style="display:flex;align-items:center,height:160px;">
+<div style="display:flex;align-items:center;justify-content:center;height:160px;">
   <div style="flex:30%;padding:5px;">
     <img src="/images/BioData.png" alt="BioData.pt" width="200" height="150">
   </div>
