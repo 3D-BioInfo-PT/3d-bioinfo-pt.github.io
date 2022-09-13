@@ -61,17 +61,17 @@ To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavel
 
 # Partners
 
-<div style="display:flex">
-  <div style="flex:25%;padding:5px;display:block;display: block;margin-left:auto;margin-right: auto;">
+<div style="display:flex;align-items:flex-end,height:160px;">
+  <div style="flex:25%;padding:5px;display:block;display:block;margin-left:auto;margin-right:auto;">
     <img src="/images/BioData.png" alt="BioData.pt" width="200" height="150">
   </div>
-  <div style="flex:25%;padding:5px;display:block;display: block;margin-left:auto;margin-right: auto;">
+  <div style="flex:25%;padding:5px;display:block;display:block;margin-left:auto;margin-right:auto;">
     <img src="/images/elixir_portugal.png" alt="Elixir Portugal" width="200" height="150">
   </div>
-  <div style="flex:25%;padding:5px;display:block;display: block;margin-left:auto;margin-right: auto;">
+  <div style="flex:25%;padding:5px;display:block;display:block;margin-left:auto;margin-right:auto;">
     <img src="/images/CM_Oeiras.jpg" alt="Câmara Municipal de Oeiras" width="200" height="150">
   </div>
-  <div style="flex:25%;padding:5px;display:block;display: block;margin-left:auto;margin-right: auto;">
+  <div style="flex:25%;padding:5px;display:block;display:block;margin-left:auto;margin-right:auto;">
     <img src="/images/logo_nicola.jpg" alt="Nicola Cafés" width="150" height="150">
   </div>
 </div>
