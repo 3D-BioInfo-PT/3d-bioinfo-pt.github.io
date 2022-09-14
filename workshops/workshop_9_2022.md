@@ -71,7 +71,7 @@ To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavel
     <img src="/images/elixir_portugal.png" alt="Elixir Portugal" width="200" height="150">
   </div>
   <div style="flex:30%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
-    <img src="/images/CM_Oeiras.jpg" alt="Câmara Municipal de Oeiras" width="200" height="150">
+    <img src="/images/CM_Oeiras.jpg" alt="Câmara Municipal de Oeiras" width="300" height="250">
   </div>
   <div style="flex:10%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
     <img src="/images/logo_nicola.jpg" alt="Nicola Cafés" width="150" height="150">
