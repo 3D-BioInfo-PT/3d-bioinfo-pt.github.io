@@ -11,7 +11,10 @@
 -   name: Câmara Municipal de Oeiras 
     url: https://www.oeiras.pt/
     avatar: /images/CM_Oeiras_extended.png
-
+    
+-   name: Wall Future 
+    url: https://www.wallfuture.com/
+    avatar: /images/wall_future.png
 #-   name: CNC-UC
 #    url: https://www.cnc.uc.pt/en/
 #    avatar: /images/sponsors/logo_CNC.png
