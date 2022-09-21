@@ -64,20 +64,23 @@ To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavel
 # Partners
 
 <div style="display:flex;align-items:center;justify-content:center;height:160px;">
-  <div style="flex:18%;padding:5px;">
-    <img src="/images/BioData.png" alt="BioData.pt" width="200" height="150">
+  <div style="flex:20%;padding:5px;">
+    <a href="https://www.biodata.pt/"><img src="/images/BioData.png" alt="BioData.pt" width="200" height="150"></a>
   </div>
-  <div style="flex:18%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
-    <img src="/images/elixir_portugal.png" alt="Elixir Portugal" width="200" height="150">
+  <div style="flex:15%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+    <a href="https://elixir-europe.org/about-us/who-we-are/nodes/portugal"><img src="/images/elixir_portugal.png" alt="Elixir Portugal" width="200" height="150"></a>
   </div>
-  <div style="flex:24%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
-    <img src="/images/CM_Oeiras.jpg" alt="Câmara Municipal de Oeiras" width="300" height="250">
+  <div style="flex:20%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+    <a href="https://www.oeiras.pt/"><img src="/images/CM_Oeiras.jpg" alt="Câmara Municipal de Oeiras" width="300" height="250"></a>
   </div>
-    <div style="flex:24%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
-    <img src="/images/wall_future.png" alt="Wall Future" width="200">
+  <div style="flex:15%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+    <a href="https://www.wallfuture.com/"><img src="/images/wall_future.png" alt="Wall Future" width="200"></a>
   </div>
-  <div style="flex:16%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
-    <img src="/images/logo_nicola.jpg" alt="Nicola Cafés" width="125" height="125">
+  <div style="flex:15%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+    <a href="https://nicola.pt/"><img src="/images/logo_nicola.jpg" alt="Nicola Cafés" width="125" height="125"></a>
+  </div>
+   <div style="flex:15%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+    <a href="https://pt-pt.facebook.com/people/Pastelaria-Zineira/100063471177012/"><img src="/images/zineira.png" alt="Pastelaria Zineira" width="125" height="125"></a>
   </div>
 </div>
 
