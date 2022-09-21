@@ -50,7 +50,6 @@ Portugal
 latitude: 38° 41' 38" (38.694 N) 
 longitude: 9° 19' 7" (-9.318 W) 
 
-<hr>
 ## How to get there?
 
 <img src="https://www.itqb.unl.pt/contacts/mapa.jpg" width="600" height="450" style="border:0;">
