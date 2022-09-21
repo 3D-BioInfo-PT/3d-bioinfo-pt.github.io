@@ -69,16 +69,16 @@ To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavel
   <div style="flex:20%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
     <a href="https://elixir-europe.org/about-us/who-we-are/nodes/portugal" target="_blank"><img src="/images/elixir_portugal.png" alt="Elixir Portugal" width="200" height="150"></a>
   </div>
-  <div style="flex:15%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+  <div style="flex:17.5%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
     <a href="https://www.oeiras.pt/" target="_blank"><img src="/images/CM_Oeiras.jpg" alt="Câmara Municipal de Oeiras" width="300" height="250"></a>
   </div>
-  <div style="flex:15%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+  <div style="flex:17.5%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
     <a href="https://www.wallfuture.com/" target="_blank"><img src="/images/wall_future.png" alt="Wall Future" width="200"></a>
   </div>
-  <div style="flex:15%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+  <div style="flex:10%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
     <a href="https://nicola.pt/" target="_blank"><img src="/images/logo_nicola.jpg" alt="Nicola Cafés" width="125" height="125"></a>
   </div>
-   <div style="flex:15%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+   <div style="flex:10%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
     <a href="https://pt-pt.facebook.com/people/Pastelaria-Zineira/100063471177012/" target="_blank"><img src="/images/zineira.png" alt="Pastelaria Zineira" width="125" height="125"></a>
   </div>
 </div>
