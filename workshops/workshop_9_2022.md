@@ -64,16 +64,16 @@ To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavel
 # Partners
 
 <div style="display:flex;align-items:center;justify-content:center;height:160px;">
-  <div style="flex:15%;padding:5px;">
+  <div style="flex:20%;padding:5px;">
     <a href="https://www.biodata.pt/" target="_blank"><img src="/images/BioData.png" alt="BioData.pt" width="200" height="150"></a>
   </div>
-  <div style="flex:15%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+  <div style="flex:20%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
     <a href="https://elixir-europe.org/about-us/who-we-are/nodes/portugal" target="_blank"><img src="/images/elixir_portugal.png" alt="Elixir Portugal" width="200" height="150"></a>
   </div>
-  <div style="flex:20%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+  <div style="flex:15%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
     <a href="https://www.oeiras.pt/" target="_blank"><img src="/images/CM_Oeiras.jpg" alt="Câmara Municipal de Oeiras" width="300" height="250"></a>
   </div>
-  <div style="flex:20%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+  <div style="flex:15%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
     <a href="https://www.wallfuture.com/" target="_blank"><img src="/images/wall_future.png" alt="Wall Future" width="200"></a>
   </div>
   <div style="flex:15%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
