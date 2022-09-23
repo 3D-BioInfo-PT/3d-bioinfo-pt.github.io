@@ -29,6 +29,7 @@ The workshop will offer initiation training on
 
 - Bruno L. Victor -- FCUL
 - Irina Moreira -- CNC UC
+- Fernando N. Nunes -- ITQB NOVA (assistant lecturer)
 - Manuel N. Melo -- ITQB NOVA
 - Miguel Machuqueiro -- FCUL
 - Paulo Costa -- FCUL
