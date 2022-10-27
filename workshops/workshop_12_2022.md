@@ -28,7 +28,7 @@ SOON TO BE ANNOUNCED!
 
 ## Location
 
-The 2022 3D-BioInfo-PT Introductory Workshop will take place at [ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier](https://www.itqb.unl.pt/).
+The 2022 3D-BioInfo-PT Intermediate Workshop will take place at [ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier](https://www.itqb.unl.pt/).
 
 Av. da República  
 2780-157 Oeiras  
