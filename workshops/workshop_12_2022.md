@@ -68,5 +68,4 @@ To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavel
   <div style="flex:12.5%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
     <a href="https://nicola.pt/" target="_blank"><img src="/images/logo_nicola.jpg" alt="Nicola Cafés" width="125" height="125"></a>
   </div>
-  </div>
 </div>
