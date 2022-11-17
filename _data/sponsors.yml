@@ -1,4 +1,4 @@
-# Keep avatars at 200 px width
+# Logos are given a default 200 px width
 
 -   name: Biodata.pt
     url: https://www.biodata.pt/
@@ -7,6 +7,7 @@
 -   name: Elixir Portugal
     url: https://elixir-europe.org/about-us/who-we-are/nodes/portugal
     avatar: /images/elixir_portugal.png
+    width: 410
     
 -   name: Câmara Municipal de Oeiras 
     url: https://www.oeiras.pt/
@@ -15,18 +16,22 @@
 -   name: ITQB NOVA
     url: https://www.itqb.unl.pt/
     avatar: /images/itqb_nova.png
+    width: 300
 
 -   name: Sociedade Portuguesa de Bioquímica
     url: https://www.spb.pt/
     avatar: /images/spb.jpg   
+    width: 125
 
 -   name: Sociedade Portuguesa de Biofísica
     url: https://www.spbf.pt/
     avatar: /images/spbf.png    
+    width: 125
     
--   name: Wall Future 
+-   name: Wallfuture 
     url: https://www.wallfuture.com/
     avatar: /images/wall_future.png
+    width: 250
     
 #-   name: CNC-UC
 #    url: https://www.cnc.uc.pt/en/
