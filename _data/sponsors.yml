@@ -3,6 +3,7 @@
 -   name: Biodata.pt
     url: https://www.biodata.pt/
     avatar: /images/BioData.png
+    width: 80
 
 -   name: Elixir Portugal
     url: https://elixir-europe.org/about-us/who-we-are/nodes/portugal
@@ -11,27 +12,25 @@
 -   name: Câmara Municipal de Oeiras 
     url: https://www.oeiras.pt/
     avatar: /images/CM_Oeiras_extended.png
-    width: 80
+    width: 60
 
 -   name: ITQB NOVA
     url: https://www.itqb.unl.pt/
     avatar: /images/itqb_nova.png
-    width: 150
 
 -   name: Sociedade Portuguesa de Bioquímica
     url: https://www.spb.pt/
     avatar: /images/spb.jpg   
-    width: 80
+    width: 60
 
 -   name: Sociedade Portuguesa de Biofísica
     url: https://www.spbf.pt/
     avatar: /images/spbf.png    
-    width: 80
+    width: 60
     
 -   name: Wallfuture 
     url: https://www.wallfuture.com/
     avatar: /images/wall_future.png
-    width: 150
     
 #-   name: CNC-UC
 #    url: https://www.cnc.uc.pt/en/
