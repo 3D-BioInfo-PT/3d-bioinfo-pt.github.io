@@ -17,7 +17,7 @@
     {% for member in site.data.sponsors %}
         <li>
             <a href="{{ member.url }}" target="_blank">
-                <img class="avatar" src="{{ member.avatar }}" width="{{ member.width | default: 200 }}px" />
+                <img class="avatar" src="{{ member.avatar }}" style="width: {{ member.width | default: 100 }}%" />
             </a>
         </li>
     {% endfor %}
