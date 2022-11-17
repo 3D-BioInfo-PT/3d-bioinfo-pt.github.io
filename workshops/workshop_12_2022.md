@@ -68,4 +68,13 @@ To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavel
   <div style="flex:12.5%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
     <a href="https://nicola.pt/" target="_blank"><img src="/images/logo_nicola.jpg" alt="Nicola Cafés" width="125" height="125"></a>
   </div>
+  <div style="flex:12.5%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+    <a href="https://www.itqb.unl.pt/" target="_blank"><img src="/images/itqb_nova.png" alt="ITQB NOVA" width="125" height="125"></a>
+  </div>
+  <div style="flex:12.5%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+    <a href="https://www.spb.pt/" target="_blank"><img src="/images/spb.jpg" alt="Sociedade Portuguesa de Bioquímica" width="125" height="125"></a>
+  </div>
+  <div style="flex:12.5%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+    <a href="https://www.spbf.pt/" target="_blank"><img src="/images/spbf.png" alt="Sociedade Portuguesa de Biofísica" width="125" height="125"></a>
+  </div>
 </div>
