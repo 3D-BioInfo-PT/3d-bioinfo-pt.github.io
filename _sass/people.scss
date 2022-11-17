@@ -94,12 +94,16 @@ ul.rig.columns-8 li {
 }
 
 
-ul.rig.sponsorcolumns  li {
-    width: 12%;
+ul.rig.sponsorcolumns li {
+    width: 14%;
     padding: 0.2%;
 	margin: 0;
     min-width: 80px;
     max-width: 200px;
+}
+
+ul.rig.sponsorcolumns img {
+    display: inline-block;
 }
 
 @media (max-width: 480px) {
