@@ -93,17 +93,17 @@ ul.rig.columns-8 li {
 	width: 10%; /* this value + 2.5 should = 12.5% */
 }
 
-
 ul.rig.sponsorcolumns li {
     width: 14%;
     padding: 0.2%;
 	margin: 0;
     min-width: 80px;
     max-width: 200px;
+    display: inline-block;
 }
 
 ul.rig.sponsorcolumns img {
-    display: inline-block;
+    display: block;
 }
 
 @media (max-width: 480px) {
