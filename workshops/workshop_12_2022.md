@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Introductory Workshop: December 19th and 20th, 2022 at ITQB-NOVA"
+title: "Intermediate Workshop: December 19th and 20th, 2022 at ITQB-NOVA"
 tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCTUC]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
@@ -66,7 +66,7 @@ To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavel
     <a href="https://www.spbf.pt/" target="_blank"><img src="/images/spbf.png" alt="Sociedade Portuguesa de Biofísica" width="125" height="125"></a>
   </div>
   <div style="flex:12.5%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
-    <a href="https://www.itqb.unl.pt/" target="_blank"><img src="/images/itqb_nova.png" alt="ITQB NOVA" width="350"></a>
+    <a href="https://www.itqb.unl.pt/" target="_blank"><img src="/images/itqb_nova.png" alt="ITQB NOVA" width="400"></a>
   </div>
 </div>
 
@@ -79,7 +79,5 @@ To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavel
   </div>
   <div style="flex:12.5%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
     <a href="https://nicola.pt/" target="_blank"><img src="/images/logo_nicola.jpg" alt="Nicola Cafés" width="125" height="125"></a>
-  </div>
-  
-  
+  </div>  
 </div>
