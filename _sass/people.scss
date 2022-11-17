@@ -94,11 +94,9 @@ ul.rig.columns-8 li {
 }
 
 
-ul.rig.sponsorcolumns li {
-	width: 10%;
-    min-width: 100px;
-    max-width: 400px;
-
+ul.rig.sponsorcolumns {
+    display: flex;
+    justify-content: space-between;
 }
 
 @media (max-width: 480px) {

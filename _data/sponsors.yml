@@ -3,16 +3,17 @@
 -   name: Biodata.pt
     url: https://www.biodata.pt/
     avatar: /images/BioData.png
-    width: 170
+    width: 140
 
 -   name: Elixir Portugal
     url: https://elixir-europe.org/about-us/who-we-are/nodes/portugal
     avatar: /images/elixir_portugal.png
-    width: 400
+    width: 310
     
 -   name: Câmara Municipal de Oeiras 
     url: https://www.oeiras.pt/
     avatar: /images/CM_Oeiras_extended.png
+    width: 310
 
 -   name: ITQB NOVA
     url: https://www.itqb.unl.pt/
