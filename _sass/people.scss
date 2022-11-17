@@ -88,9 +88,17 @@ ul.rig.columns-5 li {
 ul.rig.columns-6 li {
 	width: 14.2%; /* this value + 2.5 should = 16.7% */
 }
-/* class for 6 columns */
+/* class for 8 columns */
 ul.rig.columns-8 li {
 	width: 10%; /* this value + 2.5 should = 12.5% */
+}
+
+
+ul.rig.sponsorcolumns li {
+	width: 10%;
+    min-width: 100px;
+    max-width: 400px;
+
 }
 
 @media (max-width: 480px) {
