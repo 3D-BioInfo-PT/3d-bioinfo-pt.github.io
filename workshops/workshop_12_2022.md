@@ -53,31 +53,31 @@ To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavel
 # Partners
 
 <div style="display:flex;align-items:center;justify-content:center;">
-  <div style="flex:17.5%;padding:5px;">
+  <div style="padding:5px;margin-left: 25px;margin-right: auto;display: flex;">
     <a href="https://www.biodata.pt/" target="_blank"><img src="/images/BioData.png" alt="BioData.pt" width="200" height="150"></a>
   </div>
-  <div style="flex:12.5%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+  <div style="padding: 5px;display: flex;margin-right: auto;margin-left: 150px;">
     <a href="https://elixir-europe.org/about-us/who-we-are/nodes/portugal" target="_blank"><img src="/images/elixir_portugal.png" alt="Elixir Portugal" width="200" height="150"></a>
   </div>
-  <div style="flex:12.5%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+  <div style="padding: 5px;padding-left: 5px;display: flex;margin-left: auto;margin-right: auto;padding-left: 80px;">
     <a href="https://www.spb.pt/" target="_blank"><img src="/images/spb.jpg" alt="Sociedade Portuguesa de Bioquímica" width="125" height="125"></a>
   </div>
-  <div style="flex:12.5%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+  <div style="padding: 5px;display: flex;margin-left: auto;margin-right: 0;">
     <a href="https://www.spbf.pt/" target="_blank"><img src="/images/spbf.png" alt="Sociedade Portuguesa de Biofísica" width="125" height="125"></a>
   </div>
 </div>
 
 <div style="display:flex;align-items:center;justify-content:center;">
-  <div style="flex:12.5%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+  <div style="padding: 5px;display: flex;margin-left: 0;margin-right: auto;width: 250px;">
     <a href="https://www.itqb.unl.pt/" target="_blank"><img src="/images/itqb_nova.png" alt="ITQB NOVA" width="400"></a>
   </div>
-  <div style="flex:25%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+  <div style="padding: 5px;display: flex;margin-left: auto;margin-right: auto;">
     <a href="https://www.oeiras.pt/" target="_blank"><img src="/images/CM_Oeiras.jpg" alt="Câmara Municipal de Oeiras" width="300" height="250"></a>
   </div>
-  <div style="flex:20%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+  <div style="padding: 5px;display: flex;margin-left: auto;margin-right: auto;">
     <a href="https://www.wallfuture.com/" target="_blank"><img src="/images/wall_future.png" alt="Wall Future" width="200"></a>
   </div>
-  <div style="flex:12.5%;padding:5px;display:block;margin-left:auto;margin-right:auto;">
+  <div style="padding: 5px;display: flex;margin-left: auto;margin-right: 0;">
     <a href="https://nicola.pt/" target="_blank"><img src="/images/logo_nicola.jpg" alt="Nicola Cafés" width="125" height="125"></a>
   </div>  
 </div>
