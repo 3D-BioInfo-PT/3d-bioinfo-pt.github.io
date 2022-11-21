@@ -14,7 +14,7 @@ image:
 
 [whatever]: Registration is now closed.
 
-The workshop is free of charge but requires registration. Please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSfEqN6Jy_cmgnFF7bDBn0GB0o-INR8m25LM2GqUGiKHqPfNxQ/viewform?usp=sf_link){:target="_blank"} by December 7th.
+The meeting is free of charge but requires registration. Please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSfEqN6Jy_cmgnFF7bDBn0GB0o-INR8m25LM2GqUGiKHqPfNxQ/viewform?usp=sf_link){:target="_blank"} by December 7th.
 
 ## Topics and Program
 
