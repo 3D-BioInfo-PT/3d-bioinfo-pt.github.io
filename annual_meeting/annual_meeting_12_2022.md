@@ -16,7 +16,7 @@ image:
 
 The meeting is free of charge but requires registration. Please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSfEqN6Jy_cmgnFF7bDBn0GB0o-INR8m25LM2GqUGiKHqPfNxQ/viewform?usp=sf_link){:target="_blank"} by December 7th.
 
-## Topics and Program
+## Program
 
 SOON TO BE ANNOUNCED!
 
@@ -28,13 +28,15 @@ SOON TO BE ANNOUNCED!
 
 Pedro Beltrão, from the ETH Zurich.
 
+&nbsp;
+
 <img src="/annual_meeting/CSousa.png" alt="Carla Sousa" width="150"/>
 
 Carla Sousa, from the Helmholtz Institute for Pharmaceutical Research Saarland.
 
 ## Location
 
-The 2022 3D-BioInfo-PT Annaul Meeting will take place at [ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier](https://www.itqb.unl.pt/).
+The 2022 3D-BioInfo-PT Annual Meeting will take place at [ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier](https://www.itqb.unl.pt/).
 
 Av. da República  
 2780-157 Oeiras  
