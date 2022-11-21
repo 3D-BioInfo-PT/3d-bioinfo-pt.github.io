@@ -22,9 +22,13 @@ SOON TO BE ANNOUNCED!
 
 [whatever]: [Access the program here!](/images/Program_workshop_2022.pdf){:target="_blank"}
 
-## Lecturers
+## Keynote Speakers
 
-SOON TO BE ANNOUNCED!
+![Pedro Beltrão](/annual_meeting/PBeltrao.png)
+Pedro Beltrão, from the ETH Zurich.
+
+![Carla Sousa](/annual_meeting/CSousa.png)
+Carla Sousa, from the Helmholtz Institute for Pharmaceutical Research Saarland.
 
 ## Location
 

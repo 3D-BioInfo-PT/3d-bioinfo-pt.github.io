@@ -18,13 +18,20 @@ The workshop is free of charge but requires registration. Please fill [this form
 
 ## Topics and Program
 
-SOON TO BE ANNOUNCED!
+This intermediate workshop will cover the following sessions:
+- Machine Learning Demystified
+- Membrane Atomistic and Coarse-grain Molecular Dynamics
+- 3D Protein Structure Building using Comparative Modeling / Alphafold
+- Compound Databases and Computational Virtual Screenings
 
-[whatever]: [Access the program here!](/images/Program_workshop_2022.pdf){:target="_blank"}
+A detailed program will be made available soon.
 
 ## Lecturers
 
-SOON TO BE ANNOUNCED!
+Francisco Fernandes (INESC-ID)
+Manuel N. Melo (ITQB-NOVA)
+Bruno L. Victor (Ciências ULisboa)
+Irina Moreira (UCoimbra) and Rita Melo (IST)
 
 ## Location
 
