@@ -28,10 +28,10 @@ A detailed program will be made available soon.
 
 ## Lecturers
 
-Francisco Fernandes (INESC-ID)
-Manuel N. Melo (ITQB-NOVA)
-Bruno L. Victor (Ciências ULisboa)
-Irina Moreira (UCoimbra) and Rita Melo (IST)
+- Francisco Fernandes (INESC-ID)
+- Manuel N. Melo (ITQB-NOVA)
+- Bruno L. Victor (Ciências ULisboa)
+- Irina Moreira (UCoimbra) and Rita Melo (IST)
 
 ## Location
 
