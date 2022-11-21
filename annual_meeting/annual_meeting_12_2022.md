@@ -24,10 +24,10 @@ SOON TO BE ANNOUNCED!
 
 ## Keynote Speakers
 
-![Pedro Beltrão](/annual_meeting/PBeltrao.png)
+<img src="/annual_meeting/PBeltrao.png" alt="Pedro Beltrão" width="200"/>
 Pedro Beltrão, from the ETH Zurich.
 
-![Carla Sousa](/annual_meeting/CSousa.png)
+<img src="/annual_meeting/CSousa.png" alt="Carla Sousa" width="200"/>
 Carla Sousa, from the Helmholtz Institute for Pharmaceutical Research Saarland.
 
 ## Location
