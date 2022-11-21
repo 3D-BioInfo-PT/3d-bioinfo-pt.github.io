@@ -10,7 +10,7 @@ image:
 
 ## Registration
 
-SOON TO BE ANNOUNCED!
+[whatever]: SOON TO BE ANNOUNCED!
 
 [whatever]: Registration is now closed.
 
