@@ -10,11 +10,11 @@ image:
 
 ## Registration
 
-SOON TO BE ANNOUNCED!
+[whatever]: SOON TO BE ANNOUNCED!
 
 [whatever]: Registration is now closed.
 
-[whatever]: The workshop is free of charge but requires registration. Please fill [this form](https://docs.google.com/forms/d/1SQEH1T1GXUyLYawEAfX8wZlSfEjpMlCXMKi9cKgio-w/edit){:target="_blank"} by December 7th.
+The workshop is free of charge but requires registration. Please fill [this form](https://docs.google.com/forms/d/1SQEH1T1GXUyLYawEAfX8wZlSfEjpMlCXMKi9cKgio-w/edit){:target="_blank"} by December 7th.
 
 ## Topics and Program
 
