@@ -30,8 +30,8 @@ A detailed program will be made available soon.
 
 - Francisco Fernandes (INESC-ID)
 - Manuel N. Melo (ITQB-NOVA)
-- Bruno L. Victor (Ciências ULisboa)
 - Irina Moreira (UCoimbra) and Rita Melo (IST)
+- Bruno L. Victor and Paulo Costa (Ciências ULisboa)
 
 ## Location
 
