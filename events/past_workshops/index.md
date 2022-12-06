@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Upcoming Events"
+title: "Past Events"
 tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, ITQB]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
