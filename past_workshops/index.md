@@ -6,7 +6,7 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-<link rel="stylesheet" href="svgs.css">
+<link rel="stylesheet" href="../events/svgs.css">
 
 <hr>
 Introductory Workshop: September 22nd and 23rd, 2022, at ITQB-NOVA
