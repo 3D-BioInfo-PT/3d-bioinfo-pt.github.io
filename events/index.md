@@ -31,6 +31,8 @@ comments: false
 <hr>
 # Past events
 
+<a href="/edicoes_anteriores/past_3d_biodata_events.md">Past 3D-BioInfo-PT events.</a>.
+
 <a href="/edicoes_anteriores/">EJIBCE Meetings</a> (prior to the establishment of the 3D-BioInfo-PT community).
 
 
