@@ -8,9 +8,9 @@ image:
   feature: itqb_2022.jpeg
 ---
 
-## Registration
+[whatever]: ## Registration
 
-Registration is now closed.
+[whatever]: Registration is now closed.
 
 [whatever]: The workshop is free of charge but requires registration. Please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSeNnCrdssmhnatfJjnmoiWlbzXVZ8BursmvUvUOEMkTPN_c0A/viewform){:target="_blank"} by September 12th.
 
@@ -36,6 +36,9 @@ The workshop will offer initiation training on
 - Paulo Martel -- UAlg
 - Rita Melo -- IST
 - Sérgio F. Sousa -- UCIBIO
+
+## Photos
+See the events' images [here!](https://3d-bioinfo-pt.github.io/edicoes_anteriores/introductory_workshop_2022.html){:target="_blank"}
 
 ## Location
 
