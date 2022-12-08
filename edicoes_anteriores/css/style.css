@@ -1228,6 +1228,79 @@ ol {
 	}
 }
 
+@media only screen and (min-width: 1351px) and (max-width: 1472px) {
+	
+	.h2-phone {
+		font-size: 32px;
+	}
+	
+	
+	
+	.partners {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		margin-left: 0;
+		margin-right: 0;
+	}
+	
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1350px) {
+	
+	.header-txt {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin: 0;
+	}
+	
+	.h2-phone {
+		font-size: 28px;
+	}
+	
+	
+	
+	.partners {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		margin-left: 0;
+		margin-right: 0;
+	}
+	
+	.partners-columns {
+		display: flex;
+		padding: 5px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	
+	.biodata,
+	.elixir,
+	.cm-oeiras,
+	.itqb,
+	.wall-future,
+	.nicola,
+	.zineira {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	.cm-oeiras {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	
+	.nicola {
+		padding-right: 0;
+	}
+	
+	.elixir {
+		margin-left: 100px;
+	}
+}
+
 /* Medium screen : 992px. */
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
