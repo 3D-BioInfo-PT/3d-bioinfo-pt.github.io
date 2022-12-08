@@ -1430,6 +1430,8 @@ ol {
 		align-items: center;
 		justify-content: center;
 		flex-direction: column;
+		margin-left: 0;
+		margin-right: 0;
 	}
 	
 	.partners-columns {
