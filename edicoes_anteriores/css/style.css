@@ -1255,6 +1255,61 @@ ol {
 	.blog-post img {
 		padding: 0;
 	}
+	
+	.header-txt {
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+		align-items: center;
+		margin: 0;
+		margin-bottom: 80px;
+		margin-top: 50px;
+	}
+	
+	.h2-phone {
+		font-size: 35px;
+	}
+	
+	
+	
+	.partners {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		margin-left: 0;
+		margin-right: 0;
+	}
+	
+	.partners-columns {
+		display: flex;
+		padding: 5px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+	
+	.biodata,
+	.elixir,
+	.cm-oeiras,
+	.itqb,
+	.wall-future,
+	.nicola,
+	.zineira {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	.cm-oeiras {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	
+	.nicola {
+		padding-right: 0;
+	}
+	
+	.elixir {
+		margin-left: 100px;
+	}
 }
 
 /* Tablet :768px. */
@@ -1304,6 +1359,57 @@ ol {
 	}
 	.contact-text {
 		margin-bottom: 50px;
+	}
+	
+	.header-txt {
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+		align-items: center;
+		margin: 0;
+		margin-bottom: 80px;
+	}
+	
+	.h2-phone {
+		font-size: 35px;
+	}
+	
+	
+	
+	.partners {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+		margin-left: 0;
+		margin-right: 0;
+		gap: 50px;
+		margin-top: 50px;
+	}
+	
+	.partners-columns {
+		display: flex;
+		padding: 5px;
+	}
+	
+	.biodata,
+	.elixir,
+	.cm-oeiras,
+	.itqb,
+	.wall-future,
+	.nicola,
+	.zineira {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	.cm-oeiras {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	
+	.nicola {
+		padding-right: 0;
 	}
 }
 
@@ -1393,6 +1499,55 @@ ol {
 	}
 	.search-model-form input {
 		width: 100%;
+	}
+	
+	.header-txt {
+		display: flex;
+		justify-content: center;
+		flex-direction: column;
+		align-items: center;
+		margin: 0;
+		margin-bottom: 80px;
+	}
+	
+	.h2-phone {
+		font-size: 25px;
+	}
+	
+	
+	
+	.partners {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex-direction: column;
+		margin-left: 0;
+		margin-right: 0;
+	}
+	
+	.partners-columns {
+		display: flex;
+		padding: 5px;
+	}
+	
+	.biodata,
+	.elixir,
+	.cm-oeiras,
+	.itqb,
+	.wall-future,
+	.nicola,
+	.zineira {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	.cm-oeiras {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	
+	.nicola {
+		padding-right: 0;
 	}
 }
 
