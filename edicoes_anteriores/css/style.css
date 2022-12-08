@@ -1253,6 +1253,8 @@ ol {
 		justify-content: center;
 		align-items: center;
 		margin: 0;
+		margin-bottom: 80px;
+		margin-top: 50px;
 	}
 	
 	.h2-phone {
