@@ -1435,8 +1435,15 @@ ol {
 	.partners-columns {
 		display: flex;
 		padding: 5px;
-		margin-left: auto;
-		margin-right: auto;
 	}
 	
-}
+	#biodata,
+	#elixir,
+	#cm-oeiras,
+	#itqb,
+	#wall-future,
+	#nicola,		
+	#zineira {
+		margin-left: auto;
+		margin-right:auto;
+	}
