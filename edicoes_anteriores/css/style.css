@@ -510,6 +510,7 @@ ol {
 	justify-content: center;
 	align-items: center;
 	gap: 10px;
+	margin: 100px;
 }
 
 .slicknav_menu {
@@ -845,7 +846,7 @@ ol {
 ---------------------*/
 
 .portfolio-section {
-	padding-top: 120px;
+	padding-top: 0;
 }
 
 .portfolio-filter {
