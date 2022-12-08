@@ -1169,32 +1169,32 @@ ol {
 	margin-right: auto;
 }
  
-#biodata {
+.biodata {
 	margin-left: 25px;
 }
 
-#elixir {
+.elixir {
 	margin-left: 150px;
 }
 
-#cm-oeiras {
+.cm-oeiras {
 	padding-left: 80px;
 	padding-right: 80px;
 }
 
-#itqb {
+.itqb {
 	margin-right: 25px;
 }
 
-#wall-future {
+.wall-future {
 	margin-left: 25px;
 }
 
-#nicola {
+.nicola {
 	padding-right: 90px;
 }
 
-#zineira {
+.zineira {
 	margin-right: 65px;
 }
 
@@ -1435,16 +1435,8 @@ ol {
 	.partners-columns {
 		display: flex;
 		padding: 5px;
+		margin-left: auto;
+		margin-right: auto;
 	}
 	
-	#biodata,
-	#elixir,
-	#cm-oeiras,
-	#itqb,
-	#wall-future,
-	#nicola,		
-	#zineira {
-		margin-left: auto;
-		margin-right:auto;
-	}
 }
