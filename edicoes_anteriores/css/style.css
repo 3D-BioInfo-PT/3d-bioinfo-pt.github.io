@@ -1150,6 +1150,55 @@ ol {
 	padding-top: 130px;
 }
 
+/*----------------
+ Partners
+----------------*/
+
+.partners {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+.partners-columns {
+	display: flex;
+	padding: 5px;
+	margin-left: auto;
+	margin-right: auto;
+}
+ 
+#biodata {
+	margin-left: 25px;
+}
+
+#elixir {
+	margin-left: 150px;
+}
+
+#cm-oeiras {
+	padding-left: 80px;
+	padding-right: 80px;
+}
+
+#itqb {
+	margin-right: 25px;
+}
+
+#wall-future {
+	margin-left: 25px;
+}
+
+#nicola {
+	padding-right: 90px;
+}
+
+#zineira {
+	margin-right: 65px;
+}
+
+
 /* ----------------
   Responsive
 ---------------------*/
