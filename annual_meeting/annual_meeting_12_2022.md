@@ -59,9 +59,11 @@ ITQB NOVA's complex main gate is located nearby to the Oeiras train station (aro
 To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavelos access. Then, follow the signs to Nova Oeiras.
 
 ### Accommodation
-[Hotel Moov Oeiras](https://hotelmoov.com/hoteis/lisboa/) (3.7km from ITQB-NOVA) is providing a 10% discount for participants, with the promocode 'BIOINFOPT'.
+[Hotel Moov Oeiras](https://hotelmoov.com/hoteis/lisboa/) (3.7km from ITQB-NOVA, with 470 and 471 buses as options to make the trip quicker) is providing a 10% discount for participants, with the promocode 'BIOINFOPT'.
 
-[Holliday In Oeiras](https://www.ihg.com/holidayinnexpress/hotels/br/pt/lisbon/lislo/hoteldetail) (3.9km from ITQB-NOVA) is providing special fees for our participants. For that, you should fill this [form](/accomodation/Holiday_Inn3D-BioInfo-PT.pdf) and sent it to [this contact](mailto:anasilva@continentalhotels.eu).
+[Holliday In Oeiras](https://www.ihg.com/holidayinnexpress/hotels/br/pt/lisbon/lislo/hoteldetail) (3.9km from ITQB-NOVA, with 470 and 471 buses as options to make the trip quicker) is providing special fees for our participants. For that, you should fill this [form](/accomodation/Holiday_Inn3D-BioInfo-PT.pdf) and sent it to [this contact](mailto:anasilva@continentalhotels.eu).
+
+[Riviera Hotel Carcavelos](https://www.rivierahotel.pt/) (3.2km from ITQB-NOVA, with the train as a option to make the trip quicker) is also providing specifial fees for attendees: Single room for 71,50 € and a Double one 82,50 €. Reservations through [this contact](mailto:reservas@rivierahotel.pt) using the promocode '3D-BioInfo-PT'.
 
 # Partners
 
