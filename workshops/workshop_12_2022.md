@@ -58,7 +58,9 @@ ITQB NOVA's complex main gate is located nearby to the Oeiras train station (aro
 To reach ITQB from Lisbon you have to take A5 and leave the road at the Carcavelos access. Then, follow the signs to Nova Oeiras.
 
 ### Accommodation
-[Hotel Moov Oeiras](https://hotelmoov.com/hoteis/lisboa/) is providing a 10% discount for workshop participants, with the promocode 'BIOINFOPT'.
+[Hotel Moov Oeiras](https://hotelmoov.com/hoteis/lisboa/) (3.7km from ITQB-NOVA) is providing a 10% discount for participants, with the promocode 'BIOINFOPT'.
+
+[Holliday In Oeiras](https://www.ihg.com/holidayinnexpress/hotels/br/pt/lisbon/lislo/hoteldetail) (3.9km from ITQB-NOVA) is providing special fees for our participants. For that, you should fill this [form](/accomodation/Holiday_Inn3D-BioInfo-PT.pdf) and sent it to [this contact](mailto:anasilva@continentalhotels.eu).
 
 # Partners
 
