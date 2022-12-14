@@ -30,7 +30,7 @@ A detailed program will be made available soon.
 
 - Francisco Fernandes (INESC-ID)
 - Manuel N. Melo (ITQB-NOVA)
-- Irina Moreira (UCoimbra) and Rita Melo (IST)
+- Rita Melo (IST) and Beatriz Caniceiro (UCoimbra) 
 - Bruno L. Victor and Paulo Costa (Ciências ULisboa)
 
 ## Location
