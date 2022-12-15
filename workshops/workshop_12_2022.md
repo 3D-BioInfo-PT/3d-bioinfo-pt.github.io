@@ -24,7 +24,7 @@ This intermediate workshop will cover the following sessions:
 - 3D Protein Structure Building using Comparative Modeling / Alphafold
 - Compound Databases and Computational Virtual Screenings
 
-A detailed program will be made available soon.
+[Access the program timetable here!](/workshops/Workshop12_2022Schedule.pdf){:target="_blank"}
 
 ## Lecturers
 

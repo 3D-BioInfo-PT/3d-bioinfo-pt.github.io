@@ -18,9 +18,7 @@ Registration is now closed.
 
 ## Program
 
-SOON TO BE ANNOUNCED!
-
-[whatever]: [Access the program here!](/images/Program_workshop_2022.pdf){:target="_blank"}
+[Access the program here!](/annual_meeting/Program_3DBIOINFOPT_Meeting.pdf){:target="_blank"}
 
 ## Keynote Speakers
 
