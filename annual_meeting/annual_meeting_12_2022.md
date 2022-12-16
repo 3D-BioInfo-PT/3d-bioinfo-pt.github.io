@@ -20,6 +20,8 @@ Registration is now closed.
 
 [Access the program here!](/annual_meeting/Program_3DBIOINFOPT_Meeting.pdf){:target="_blank"}
 
+Access the <b>Book of Abstracts</b> [here](Book_of_Abstracts_3D-BioInfo-PT_Meeting.pdf){:target="_blank"}!
+
 ## Keynote Speakers
 
 <img src="/annual_meeting/PBeltrao.png" alt="Pedro Beltrão" width="150"/>
