@@ -5,14 +5,14 @@ tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCTUC]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: itqb_2022.jpeg
+  feature: ../edicoes_anteriores/img/12-2022-meeting/IMG_7392.JPG
 ---
 
-## Registration
+[whatever]: ## Registration
 
 [whatever]: SOON TO BE ANNOUNCED!
 
-Registration is now closed.
+[whatever]: Registration is now closed.
 
 [whatever]: The meeting is free of charge but requires registration. Please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSfEqN6Jy_cmgnFF7bDBn0GB0o-INR8m25LM2GqUGiKHqPfNxQ/viewform?usp=sf_link){:target="_blank"} by December 7th.
 
