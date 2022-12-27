@@ -9,7 +9,7 @@ comments: false
 <link rel="stylesheet" href="svgs.css">
 
 [whatever]: <hr>
-[whatever]: Introductory Workshop: September 22nd and 23rd, 2022, at ITQB-NOVA
+[whatever]:  #Introductory Workshop: September 22nd and 23rd, 2022, at ITQB-NOVA
 
 [whatever]: <a href="/workshops/workshop_9_2022" title="Click for more information!">
 [whatever]:  <img alt="Qries" src="/images/workshop1-2022.svg" class="workshop" style="max-width: 650px; filter: invert(100%) sepia(100%) saturate(300%) hue-rotate(70deg) invert(100%);">
@@ -29,7 +29,7 @@ comments: false
 [whatever]: <img alt="Qries" title="More information soon!" src="/images/meeting-2022.svg" style="max-width: 650px; filter: invert(100%) sepia(100%) saturate(300%) hue-rotate(0deg) invert(100%);">
 [whatever]: </a>
 
-[whatever]: Advanced Workshop: date to be anounced in 2023.
+# Advanced Workshop: date to be anounced in 2023.
 MORE INFORMATION SOON!
 <hr>
 # Past events
