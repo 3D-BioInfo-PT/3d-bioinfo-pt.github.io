@@ -5,7 +5,7 @@ tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCTUC]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: itqb_2022.jpeg
+  feature: /edicoes_anteriores/img/09-2022-workshop/compressed/IMG_1163.jpg
 ---
 
 [whatever]: ## Registration
