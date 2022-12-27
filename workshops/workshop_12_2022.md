@@ -8,11 +8,11 @@ image:
   feature: ../edicoes_anteriores/img/12-2022-workshop/IMG_7103.JPG
 ---
 
-## Registration
+[whatever]: ## Registration
 
 [whatever]: SOON TO BE ANNOUNCED!
 
-Registration is now closed.
+[whatever]: Registration is now closed.
 
 [whatever]: The workshop is free of charge but requires registration. Please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLScXM0RsWPxSEBM2lyGYLyKLYRhc5rEbYCZ9I7mfu5zinzKBpQ/viewform?usp=sf_link){:target="_blank"} by December 7th.
 
