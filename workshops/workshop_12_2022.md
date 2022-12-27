@@ -33,6 +33,9 @@ This intermediate workshop will cover the following sessions:
 - Rita Melo (IST) and Beatriz Caniceiro (UCoimbra) 
 - Bruno L. Victor and Paulo Costa (Ciências ULisboa)
 
+## Photos
+See the events' images [here!](https://3d-bioinfo-pt.github.io/edicoes_anteriores/intermediate_workshop_2022.html){:target="_blank"}
+
 ## Location
 
 The 2022 3D-BioInfo-PT Intermediate Workshop will take place at [ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier](https://www.itqb.unl.pt/).
