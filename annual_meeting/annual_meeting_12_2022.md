@@ -34,6 +34,9 @@ Pedro Beltrão, from the ETH Zurich.
 
 Carla Sousa, from the Helmholtz Institute for Pharmaceutical Research Saarland.
 
+## Photos
+See the events' images [here!](https://3d-bioinfo-pt.github.io/edicoes_anteriores/annual-meeting-2022.html){:target="_blank"}
+
 ## Location
 
 The 2022 3D-BioInfo-PT Annual Meeting will take place at [ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier](https://www.itqb.unl.pt/).
