@@ -29,7 +29,7 @@ comments: false
 [whatever]: <img alt="Qries" title="More information soon!" src="/images/meeting-2022.svg" style="max-width: 650px; filter: invert(100%) sepia(100%) saturate(300%) hue-rotate(0deg) invert(100%);">
 [whatever]: </a>
 
-# Advanced Workshop: date to be anounced in 2023.
+# Advanced Workshop: May 25th and 26th, 2023.
 MORE INFORMATION SOON!
 <hr>
 # Past events
