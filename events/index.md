@@ -29,9 +29,12 @@ comments: false
 [whatever]: <img alt="Qries" title="More information soon!" src="/images/meeting-2022.svg" style="max-width: 650px; filter: invert(100%) sepia(100%) saturate(300%) hue-rotate(0deg) invert(100%);">
 [whatever]: </a>
 
-# Advanced Workshop: May 25th and 26th, 2023.
-MORE INFORMATION SOON!
+# Advanced Workshop: May 25th and 26th, 2023
+
+<a href="/workshops/workshop_05_2023">"Click for more information!"</a>
+
 <hr>
+
 # Past events
 
 <a href="past_workshops/">Past 3D-BioInfo-PT events</a>.
