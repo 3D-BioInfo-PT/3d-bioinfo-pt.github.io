@@ -20,14 +20,14 @@ SOON TO BE ANNOUNCED!
 
 This advanced workshop will cover the following sessions:
 
-[whatever]: [Access the program timetable here!](/workshops/Workshop12_2022Schedule.pdf){:target="_blank"}
+[whatever]: # [Access the program timetable here!](/workshops/Workshop12_2022Schedule.pdf){:target="_blank"}
 
 ## Lecturers
 
 - Irina Moreira, Luana Afonso and Catarina Marques-Pereira (UCoimbra)
 
-[whatever]: ## Photos
-[whatever]: See the events' images [here!](https://3d-bioinfo-pt.github.io/edicoes_anteriores/intermediate_workshop_2022.html){:target="_blank"}
+[whatever]: # Photos
+[whatever]: # See the events' images [here!](https://3d-bioinfo-pt.github.io/edicoes_anteriores/intermediate_workshop_2022.html){:target="_blank"}
 
 ## Location
 
@@ -41,19 +41,20 @@ Portugal
 
 ### GPS coordinates
 
-[whatever]: <b>Main gate</b>:
-[whatever]: latitude: 40° 12' 25.2" (40.207 N) 
-[whatever]: longitude: -8° 25' 19.2" (-8.422 W) 
+<b>Main gate</b>:
+latitude: 40° 12' 25.2" (40.207 N) 
+longitude: -8° 25' 19.2" (-8.422 W) 
 
 ## How to get there?
 
-[whatever]: <img src="https://www.itqb.unl.pt/contacts/mapa.jpg" width="600" height="450" style="border:0;">
 O acesso à FCTUC é rápido, particularmente para quem chega de comboio à estação de Coimbra A, sendo possível caminhar o resto da distância, ou também recorrer a automóvel, autocarros, táxi ou trotinetes!
 
 ### Bus 
 
-[Municipal Urban Transport Services of Coimbra (SMTUC)]. (https://www.smtuc.pt/en/):
+[Municipal Urban Transport Services of Coimbra (SMTUC)](https://www.smtuc.pt/en/):
+
  - from the Bus Terminal: Line 5 or 28
+
  - from the Coimbra-A: Line 103
 
 ### Taxi
@@ -66,38 +67,59 @@ O acesso à FCTUC é rápido, particularmente para quem chega de comboio à esta
 The organizing committee suggests the following hotels:
 
 [Ibis Hotel](http://www.ibis.com/discovering/ibis-hotel/index.pt.shtml) \**
+
 Avenida Emídio Navarro, n°70, Edifício Topázio – 3000-150 Coimbra
+
 Tel: +351 239 852 130
+
 Email: h1672@accor.com
 
 [Hotel Dona Inês](https://www.donaines.pt/) \***
+
 Rua Abel Dias Urbano, 12, 3000-001 Coimbra
+
 Tel: +351 239 855 800
+
 Email: eventos@donaines.pt
 
 [Hotel D. Luís](http://www.hoteldluis.pt/) \***
+
 Santa Clara, 3040-091 Coimbra
+
 Tel: +351 239 802 120
+
 Email: reservas@hoteldluis.pt
 
 [Hotel Coimbra Aeminium](https://www.melia.com/en/hotels/portugal/coimbra/hotel-coimbra-aeminium-by-melia) \**** 
+
 Av. Armando Gonçalves, 20, 3000-059 Coimbra
+
 Tel: +351 239 480 800
+
 Email: reservas.coimbra@melia.com
 
 [Vila Galé Coimbra](https://www.vilagale.com/br/hoteis/centro-de-portugal/vila-gale-coimbra) \****
+
 Rua Abel Dias Urbano, 20, 3000-001 Coimbra
+
 Tel: +351 239 240 000
+
 Email: coimbra@vilagale.com; coimbra.reservas@vilagale.com
 
 [Hotel Ibn-Arrik](https://www.ibn-arrik.pt/) \****
+
 Rua Alexandre Herculano, 18-24, 3000-019 Coimbra
+
 Tel: +351 239 822 600 ; +351 969 220 231
+
 Email: geral@ibn-arrik.pt
 
 [Tivoli Coimbra Hotel](https://www.tivolihotels.com/pt/tivoli-coimbra) \****
+
 Rua João Machado, nº 4, 3000-226 Coimbra
+
 Tel: +351 239 858 300
+
 Email: coimbra@tivolihotels.com
 
 # Partners
