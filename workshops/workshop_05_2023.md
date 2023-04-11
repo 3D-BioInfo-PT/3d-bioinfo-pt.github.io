@@ -5,7 +5,7 @@ tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCTUC]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: ../edicoes_anteriores/img/12-2022-workshop/IMG_7103.JPG
+  feature: ../images/dcv_image.png
 ---
 
 ## Registration
@@ -37,9 +37,7 @@ The 2023 3D-BioInfo-PT Advanced Workshop will take place at [Faculty of Science 
 Calçada Martim de Freitas  
 3000-456 Coimbra  
 Portugal  
-### GPS coordinates
-
-<b>Main gate</b>:  
+### GPS coordinates  
 Latitude: 40° 12' 25.2" (40.207 N)  
 Longitude: -8° 25' 19.2" (-8.422 W)  
 
@@ -47,8 +45,7 @@ Longitude: -8° 25' 19.2" (-8.422 W)
 
 The access to FCTUC is quick and easy , particularly to those who arrive at Coimbra-A train station.
 
-[whatever]: O acesso à FCTUC é rápido, particularmente para quem chega de comboio à estação de Coimbra A, sendo 
-possível caminhar o resto da distância, ou também recorrer a automóvel, autocarros, táxi ou trotinetes!
+[whatever]: O acesso à FCTUC é rápido, particularmente para quem chega de comboio à estação de Coimbra A, sendo possível caminhar o resto da distância, ou também recorrer a automóvel, autocarros, táxi ou trotinetes!
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.09002382905!2d-8.424475784610461!3d40.
 20706037939009!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.
@@ -63,8 +60,8 @@ data-dashlane-frameid="330712481793" width="600" height="450"></iframe>
 
 ### Taxi
 
-- [Praça de Táxis](https://coimbra.empresasportugal.net/taxi-stand/praca-de-taxis-rodoviaria/);  
-- [Politáxis Coimbra]. (http://www.politaxis.pt/).  
+- [Praça de Táxis](https://coimbra.empresasportugal.net/taxi-stand/praca-de-taxis-rodoviaria/)  
+- [Politáxis Coimbra](http://www.politaxis.pt/)  
 
 ## Accommodation
 The organizing committee suggests the following hotels:  

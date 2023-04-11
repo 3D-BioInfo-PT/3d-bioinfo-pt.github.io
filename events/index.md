@@ -31,7 +31,9 @@ comments: false
 
 # Advanced Workshop: May 25th and 26th, 2023
 
-<a href="/workshops/workshop_05_2023">"Click for more information!"</a>
+<a href="/workshops/workshop_05_2023" title="Click for more information!">
+<img alt="Qries" src="/images/workshop1-2023.svg" class="workshop" style="max-width: 650px; filter: invert(100%) sepia(100%) saturate(300%) hue-rotate(150deg) invert(100%);">
+</a>
 
 <hr>
 
