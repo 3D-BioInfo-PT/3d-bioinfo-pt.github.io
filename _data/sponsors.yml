@@ -3,49 +3,60 @@
 -   name: Biodata.pt
     url: https://www.biodata.pt/
     avatar: /images/BioData.png
-    width: 70
+    width: 130
 
 -   name: Elixir Portugal
     url: https://elixir-europe.org/about-us/who-we-are/nodes/portugal
     avatar: /images/elixir_portugal.png
-    width: 50
-    
--   name: Câmara Municipal de Oeiras 
-    url: https://www.oeiras.pt/
-    avatar: /images/CM_Oeiras_extended.png
-    width: 70
+    width: 100
 
--   name: ITQB NOVA
-    url: https://www.itqb.unl.pt/
-    avatar: /images/itqb_nova.png
-
--   name: Sociedade Portuguesa de Bioquímica
-    url: https://www.spb.pt/
-    avatar: /images/spb.jpg   
-    width: 50
-
--   name: Sociedade Portuguesa de Biofísica
-    url: https://www.spbf.pt/
-    avatar: /images/spbf.png    
-    width: 50
-    
 -   name: Wallfuture 
     url: https://www.wallfuture.com/
     avatar: /images/wall_future.png
-    
-#-   name: CNC-UC
-#    url: https://www.cnc.uc.pt/en/
-#    avatar: /images/sponsors/logo_CNC.png
-    
+    width: 150
+
+-   name: UC
+    url: http://www.uc.pt
+    avatar: /images/sponsors/logo_UC.jpg
+    width: 100
+
+-   name: CNC-UC
+    url: https://www.cnc.uc.pt/en/
+    avatar: /images/sponsors/logo_CNC.png
+    width: 150
+
+-   name: FCTUC
+    url: https://www.uc.pt/fctuc
+    avatar: /images/sponsors/logo_fctuc.jpg
+    width: 180
+
+#-   name: Câmara Municipal de Oeiras 
+#    url: https://www.oeiras.pt/
+#    avatar: /images/CM_Oeiras_extended.png
+#    width: 70
+#
+#-   name: ITQB NOVA
+#    url: https://www.itqb.unl.pt/
+#    avatar: /images/itqb_nova.png
+#
+#-   name: Sociedade Portuguesa de Bioquímica
+#    url: https://www.spb.pt/
+#    avatar: /images/spb.jpg   
+#    width: 50
+#
+#-   name: Sociedade Portuguesa de Biofísica
+#    url: https://www.spbf.pt/
+#    avatar: /images/spbf.png    
+#    width: 50
+#
 #-   name: CIBB
 #    url: https://www.cibb.uc.pt/
 #    avatar: /images/sponsors/logo_CIBB.png
-
+#
 #-   name: Wallfuture
 #    url: https://www.wallfuture.com/
 #    avatar: /images/sponsors/logo_wallfuture.png
-    
-
+#
 #-   name: CNC
 #    url: http://www.cnbc.pt/
 #    avatar: /images/sponsors/logo_CNC.jpg
@@ -53,10 +64,6 @@
 #-   name: FLAD
 #    url: http://www.flad.pt/
 #    avatar: /images/sponsors/logo_flad.jpg
-#
-#-   name: FCTUC
-#    url: https://www.uc.pt/fctuc
-#    avatar: /images/sponsors/logo_fctuc.jpg
 #
 #-   name: CQC
 #    url: http://www.uc.pt/fctuc/dquimica/Investigacao/CQC
@@ -85,10 +92,6 @@
 #-   name: Patents.pt
 #    url: http://www.patents.pt/
 #    avatar: /images/sponsors/logo_PATENTS.jpg
-#
-#-   name: UC
-#    url: http://www.uc.pt
-#    avatar: /images/sponsors/logo_UC.jpg
 #
 #-   name: JEST
 #    url: http://www.jest.pt/
