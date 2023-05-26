@@ -29,9 +29,9 @@ comments: false
 [whatever]: <img alt="Qries" title="More information soon!" src="/images/meeting-2022.svg" style="max-width: 650px; filter: invert(100%) sepia(100%) saturate(300%) hue-rotate(0deg) invert(100%);">
 [whatever]: </a>
 
-# Advanced Workshop: May 25th and 26th, 2023
+# Advanced Workshop: June 15th and 16th, 2023
 
-<a href="/workshops/workshop_05_2023" title="Click for more information!">
+<a href="/workshops/workshop_06_2023" title="Click for more information!">
 <img alt="Qries" src="/images/workshop1-2023.svg" class="workshop" style="max-width: 650px; filter: invert(100%) sepia(100%) saturate(300%) hue-rotate(150deg) invert(100%);">
 </a>
 

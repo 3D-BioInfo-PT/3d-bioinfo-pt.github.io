@@ -13,12 +13,40 @@
 {% endif %}
 
 <h2>Supported by</h2>
+
+<!--
 <ul class="rig sponsorcolumns">
     {% for member in site.data.sponsors %}
         <li>
             <a href="{{ member.url }}" target="_blank" style="width: {{ member.width | default: 100 }}%;">
-                <img class="avatar" src="{{ member.avatar }}" />
-            </a>
+            <img class="avatar" src="{{ member.avatar }}" /></a>
         </li>
     {% endfor %}
 </ul>
+-->
+
+<div style="display:flex;align-items:center;justify-content:center;">
+    <div style="padding:20px;">
+      <a href="https://www.biodata.pt/" target="_blank"><img src="/images/BioData.png" alt="BioData.pt" width="130"></a>
+    </div>
+  
+    <div style="padding:20px;">
+      <a href="https://elixir-europe.org/about-us/who-we-are/nodes/portugal" target="_blank"><img src="/images/elixir_portugal.png" alt="Elixir Portugal" width="120"></a>
+    </div>
+  
+    <div style="padding:20px;">
+      <a href="https://www.wallfuture.com/" target="_blank"><img src="/images/wall_future.png" alt="Wall Future" width="200"></a>
+    </div>
+  
+    <div style="padding:20px;">
+      <a href="http://www.uc.pt" target="_blank"><img src="/images/sponsors/logo_UC.jpg" alt="UC" width="130"></a>
+    </div>
+  
+    <div style="padding:20px;">
+      <a href="https://www.cnc.uc.pt/" target="_blank"><img src="/images/sponsors/logo_CNC.png" alt="CNC-UC" width="180"></a>
+    </div>
+    
+    <div style="padding:20px;">
+      <a href="https://www.uc.pt/fctuc/" target="_blank"><img src="/images/sponsors/logo_fctuc.jpg" alt="FCTUC" width="300"></a>
+    </div>
+  </div>
