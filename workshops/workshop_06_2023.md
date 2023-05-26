@@ -109,6 +109,17 @@ Rua João Machado, nº 4, 3000-226 Coimbra
 Tel: +351 239 858 300  
 Email: coimbra@tivolihotels.com
 
+# Local Organization Team
+
+- Irina Moreira
+- Beatriz Caniceiro
+- Carlos Barreto
+- Catarina Marques Pereira
+- Luana Afonso
+- Nícia Ferreira
+- Raquel Gouveia
+- Urszula Orzeł
+
 # Partners
 <div style="display:flex;align-items:center;justify-content:center;">
   <div style="padding:20px;">
