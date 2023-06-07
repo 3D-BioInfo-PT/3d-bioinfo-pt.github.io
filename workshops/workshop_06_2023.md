@@ -10,7 +10,7 @@ image:
 
 ## Registration
 
-The workshop is free of charge but requires registration. Please fill [this form](https://forms.gle/5n8Phw5HH5Yixxsq8){:target="_blank"} by June 7th.
+The workshop is free of charge but requires registration. Please fill [this form](https://forms.gle/5n8Phw5HH5Yixxsq8){:target="_blank"} by June 10th.
 
 [whatever]: Registration is now closed.
 
