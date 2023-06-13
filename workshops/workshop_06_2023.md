@@ -8,9 +8,9 @@ image:
   feature: ../images/dcv_image.png
 ---
 
-## Registration
+[whatever]: ## Registration
 
-The workshop is free of charge but requires registration. Please fill [this form](https://forms.gle/5n8Phw5HH5Yixxsq8){:target="_blank"} by June 7th.
+[whatever]: The workshop is free of charge but requires registration. Please fill [this form](https://forms.gle/5n8Phw5HH5Yixxsq8){:target="_blank"} by June 7th.
 
 [whatever]: Registration is now closed.
 
@@ -19,14 +19,11 @@ The workshop is free of charge but requires registration. Please fill [this form
 This advanced workshop will cover the following sessions:
 
 - MM/PBSA to estimate ligand-binding affinites;
-
 - Deep Learning for protein sequence and structure;
-
 - pKa calculations and constant-pH MD simulations of proteins;
-
 - Using MDanalysis for structural work, before and after simulation.
 
-[whatever]: [Access the program timetable here!](/workshops/Workshop12_2022Schedule.pdf){:target="_blank"}
+[Access the workshop timetable here!](/workshops/Workshop_06_2023_Schedule.pdf){:target="_blank"}
 
 ## Lecturers
 
