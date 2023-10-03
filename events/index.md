@@ -8,31 +8,11 @@ comments: false
 
 <link rel="stylesheet" href="svgs.css">
 
-[whatever]: <hr>
-[whatever]:  #Introductory Workshop: September 22nd and 23rd, 2022, at ITQB-NOVA
+<hr>
+# Introductory Workshop: October 20th, 2023
 
-[whatever]: <a href="/workshops/workshop_9_2022" title="Click for more information!">
-[whatever]:  <img alt="Qries" src="/images/workshop1-2022.svg" class="workshop" style="max-width: 650px; filter: invert(100%) sepia(100%) saturate(300%) hue-rotate(70deg) invert(100%);">
-[whatever]:</a>
-
-[whatever]: <hr>
-[whatever]: # <a name="#ws2"></a>Intermediate Workshop: December 19th and 20th, 2022, at ITQB-NOVA
-
-[whatever]: <a href="/workshops/workshop_12_2022" title="Click for more information!">
-[whatever]: <img alt="Qries" src="/images/workshop2-2022.svg" class="workshop" style="max-width: 650px; filter: invert(100%) sepia(100%) saturate(300%) hue-rotate(290deg) invert(100%);">
-[whatever]: </a>
-
-[whatever]: <hr>
-[whatever]: # <a name="#meeting"></a>Annual Meeting: December 21st, 2022, at ITQB-NOVA
-
-[whatever]: <a href="/annual_meeting/annual_meeting_12_2022" title="Click for more information!">
-[whatever]: <img alt="Qries" title="More information soon!" src="/images/meeting-2022.svg" style="max-width: 650px; filter: invert(100%) sepia(100%) saturate(300%) hue-rotate(0deg) invert(100%);">
-[whatever]: </a>
-
-# Advanced Workshop: June 15th and 16th, 2023
-
-<a href="/workshops/workshop_06_2023" title="Click for more information!">
-<img alt="Qries" src="/images/workshop1-2023.svg" class="workshop" style="max-width: 650px; filter: invert(100%) sepia(100%) saturate(300%) hue-rotate(150deg) invert(100%);">
+<a href="/workshops/workshop_10_2023" title="Click for more information!">
+<img alt="Qries" src="/images/workshop2-2023.svg" class="workshop" style="max-width: 650px; filter: invert(100%) sepia(100%) saturate(300%) hue-rotate(70deg) invert(100%);">
 </a>
 
 <hr>

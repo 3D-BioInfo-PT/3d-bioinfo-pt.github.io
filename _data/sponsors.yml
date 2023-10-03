@@ -3,32 +3,37 @@
 -   name: Biodata.pt
     url: https://www.biodata.pt/
     avatar: /images/BioData.png
-    width: 130
+    width: 15
 
 -   name: Elixir Portugal
     url: https://elixir-europe.org/about-us/who-we-are/nodes/portugal
     avatar: /images/elixir_portugal.png
-    width: 100
+    width: 15
 
 -   name: Wallfuture 
     url: https://www.wallfuture.com/
     avatar: /images/wall_future.png
-    width: 150
+    width: 15
 
 -   name: UC
     url: http://www.uc.pt
     avatar: /images/sponsors/logo_UC.jpg
-    width: 100
+    width: 15
 
 -   name: CNC-UC
     url: https://www.cnc.uc.pt/en/
     avatar: /images/sponsors/logo_CNC.png
-    width: 150
+    width: 15
 
 -   name: FCTUC
     url: https://www.uc.pt/fctuc
-    avatar: /images/sponsors/logo_fctuc.jpg
-    width: 180
+    avatar: /images/sponsors/logo_fctuc.png
+    width: 15
+
+-   name: Intermarche
+    url: https://www.intermarche.pt/lojas/coimbra/07916-santa-clara/
+    avatar: /images/sponsors/logo_intermarche.png
+    width: 15
 
 #-   name: Câmara Municipal de Oeiras 
 #    url: https://www.oeiras.pt/
