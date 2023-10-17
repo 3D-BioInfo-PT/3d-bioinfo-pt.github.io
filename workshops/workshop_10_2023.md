@@ -10,9 +10,9 @@ image:
 
 ## Registration
 
-The workshop is free of charge but requires registration. Please fill [this form](https://forms.gle/jkTVFSGKkYQhy2iL8){:target="_blank"} by October 13th.
+[whatever]: The workshop is free of charge but requires registration. Please fill [this form](https://forms.gle/jkTVFSGKkYQhy2iL8){:target="_blank"} by October 13th.
 
-[whatever]: Registration is now closed.
+Registration is now closed.
 
 ## Topics and Program
 
