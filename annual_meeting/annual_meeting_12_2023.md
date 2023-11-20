@@ -96,7 +96,7 @@ data-dashlane-frameid="330712481793" width="600" height="450"></iframe>
 
 <div style="display:flex;align-items:center;justify-content:center;">
   <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
-    <a href="https://ilof.tech/" target="_blank"><img src="/images/ILOF.jpg" alt="iLoF" width="200"></a>
+    <a href="https://ilof.tech/" target="_blank"><img src="/images/ILOF.jpg" alt="iLoF" width="120"></a>
   </div>
 
   <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
