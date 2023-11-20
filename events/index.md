@@ -9,10 +9,19 @@ comments: false
 <link rel="stylesheet" href="svgs.css">
 
 <hr>
-# Introductory Workshop: October 20th, 2023
+# Annual Meeting: December 18th, 2023
 
-<a href="/workshops/workshop_10_2023" title="Click for more information!">
-<img alt="Qries" src="/images/workshop2-2023.svg" class="workshop" style="max-width: 650px; filter: invert(100%) sepia(100%) saturate(300%) hue-rotate(70deg) invert(100%);">
+<a href="/annual_meeting/annual_meeting_12_2023" title="Click for more information!">
+<img alt="Qries" src="/images/meeting-2023.svg" class="workshop" style="max-width: 650px; filter: invert(100%) sepia(100%) 
+saturate(300%) hue-rotate(0deg) invert(100%);">
+</a>
+
+<hr>
+# Intermediate Workshop: December 19th, 2023
+
+<a href="/workshops/workshop_12_2023" title="Click for more information!">
+<img alt="Qries" src="/images/workshop3-2023.svg" class="workshop" style="max-width: 650px; filter: invert(100%) sepia(100%) 
+saturate(300%) hue-rotate(290deg) invert(100%);">
 </a>
 
 <hr>

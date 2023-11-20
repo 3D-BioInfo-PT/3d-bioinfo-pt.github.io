@@ -9,6 +9,14 @@ comments: false
 <link rel="stylesheet" href="/events/svgs.css">
 
 <hr>
+# Introductory Workshop: October 20th, 2023
+
+<a href="/workshops/workshop_10_2023" title="Click for more information!">
+<img alt="Qries" src="/images/workshop2-2023.svg" class="workshop" style="max-width: 650px; filter: invert(100%) sepia(100%) 
+saturate(300%) hue-rotate(70deg) invert(100%);">
+</a>
+
+<hr>
 # Advanced Workshop: June 15th and 16th, 2023
 
 <a href="/workshops/workshop_06_2023" title="Click for more information!">

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Introductory Workshop: October 20th 2023 at UCoimbra"
+title: "2nd Annual Meeting: December 18th 2023 at UCoimbra"
 tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCTUC]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
@@ -10,38 +10,41 @@ image:
 
 ## Registration
 
-[whatever]: The workshop is free of charge but requires registration. Please fill [this form](https://forms.gle/CYopvU2eS5nnh4jq5){:target="_blank"} by October 13th.
+The meeting is free but requires registration. Please fill [this form](https://forms.gle/RTmLsHNTm6LHn4Ju8){:target="_blank"} by December 11th.
 
-Registration is now closed.
+[whatever]: Registration is now closed.
 
 ## Topics and Program
 
-This begginer workshop will cover the following sessions:
+[Access the meeting program here!](/annual_meeting/3DBIOINFOPT_Meeting23_Program.pdf){:target="_blank"}
 
-- Working with Linux;
-- Molecular visualization;
-- Protein-protein docking;
-- QM energy evaluation and optimization.
+[whatever]: Access the <b>Book of Abstracts</b> [here](Book_Abstracts_3DBIOINFOPT_Meeting23.pdf){:target="_blank"}!
 
-[Access the workshop timetable here!](/workshops/Workshop_10_2023_Schedule.png){:target="_blank"}
+## Keynote Speakers
 
-## Lecturers
+<img src="/annual_meeting/RMelo.jpeg" alt="Rita Melo" width="150"/>  
+<b>Rita Melo</b>  
+Centro de Ciências e Tecnologias Nucleares, Instituto Superior Técnico, Universidade de Lisboa, Loures, Portugal.
 
-- Francisco Fernandes (INESC-ID)
-- Rita Paiva Melo (IST)
-- Nícia Rosário-Ferreira (CNC-UC)
-- Sérgio F. Sousa (UCIBIO)
+<img src="/annual_meeting/RJFerreira.jpg" alt="Ricardo J. Ferreira" width="150"/>  
+<b>Ricardo J. Ferreira</b>  
+Head of Computational Chemistry at Red Glead Discovery AB, Medicon Village, Lund, Sweden.
+
+<img src="/annual_meeting/HPenedones.jpg" alt="Hugo Penedones" width="150"/>  
+<b>Hugo Penedones</b>  
+Co-founder and CTO at Inductiva Research Labs, Porto, Portugal.
 
 [whatever]: Photos
 [whatever]: See the events' images [here!](https://3d-bioinfo-pt.github.io/edicoes_anteriores/intermediate_workshop_2022.html){:target="_blank"}
 
 ## Location
 
-The 2023 3D-BioInfo-PT Introductory Workshop will take place at [Faculty of Science and Tecnology at University of Coimbra](https://www.uc.pt/en/fctuc/).
+The 2023 3D-BioInfo-PT Annual Meeting will take place at [Faculty of Science and Tecnology at University of Coimbra](https://www.uc.pt/en/fctuc/).
 
 Calçada Martim de Freitas  
 3000-456 Coimbra  
 Portugal  
+
 ### GPS coordinates  
 Latitude: 40° 12' 25.2" (40.207 N)  
 Longitude: -8° 25' 19.2" (-8.422 W)  
@@ -83,15 +86,22 @@ data-dashlane-frameid="330712481793" width="600" height="450"></iframe>
   </div>
 
   <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
-    <a href="https://elixir-europe.org/about-us/who-we-are/nodes/portugal" target="_blank"><img src="/images/
-elixir_portugal.png" alt="Elixir Portugal" width="120"></a>
+    <a href="https://elixir-europe.org/about-us/who-we-are/nodes/portugal" target="_blank"><img src="/images/elixir_portugal.png" alt="Elixir Portugal" width="120"></a>
   </div>
 
   <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
-    <a href="https://www.wallfuture.com/" target="_blank"><img src="/images/wall_future.png" alt="Wall 
-Future" width="200"></a>
+    <a href="https://www.wallfuture.com/" target="_blank"><img src="/images/wall_future.png" alt="Wall Future" width="200"></a>
+  </div>
+</div>
+
+<div style="display:flex;align-items:center;justify-content:center;">
+  <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
+    <a href="https://ilof.tech/" target="_blank"><img src="/images/ILOF.jpg" alt="iLoF" width="200"></a>
   </div>
 
+  <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
+    <a target="_blank"><img src="/images/purrai.png" alt="purrAI" width="200"></a>
+  </div>
 </div>
 
 <div style="display:flex;align-items:center;justify-content:center;">

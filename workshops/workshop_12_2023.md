@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Introductory Workshop: October 20th 2023 at UCoimbra"
+title: "Intermediate Workshop: December 19th 2023 at UCoimbra"
 tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCTUC]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
@@ -10,34 +10,34 @@ image:
 
 ## Registration
 
-[whatever]: The workshop is free of charge but requires registration. Please fill [this form](https://forms.gle/CYopvU2eS5nnh4jq5){:target="_blank"} by October 13th.
+The workshop is free of charge but requires registration. Please fill [this form](https://forms.gle/JUNvVMqfTT9XTHte6){:target="_blank"} by December 11th.
 
-Registration is now closed.
+[whatever]: Registration is now closed.
 
 ## Topics and Program
 
 This begginer workshop will cover the following sessions:
 
-- Working with Linux;
-- Molecular visualization;
-- Protein-protein docking;
-- QM energy evaluation and optimization.
+- Machine learning demystified;
+- Protein-ligand docking and library preparation for virtual screening;
+- pKa calculations of proteins using the PypKa tool;
+- Coarse-grain simulation using the Martini 3 model.
 
-[Access the workshop timetable here!](/workshops/Workshop_10_2023_Schedule.png){:target="_blank"}
+[Access the workshop timetable here!](/workshops/Workshop_12_2023_Schedule.pdf){:target="_blank"}
 
 ## Lecturers
 
 - Francisco Fernandes (INESC-ID)
-- Rita Paiva Melo (IST)
-- Nícia Rosário-Ferreira (CNC-UC)
 - Sérgio F. Sousa (UCIBIO)
+- Miguel Machuqueiro (FCUL)
+- Manuel N. Melo (ITQB NOVA)
 
 [whatever]: Photos
 [whatever]: See the events' images [here!](https://3d-bioinfo-pt.github.io/edicoes_anteriores/intermediate_workshop_2022.html){:target="_blank"}
 
 ## Location
 
-The 2023 3D-BioInfo-PT Introductory Workshop will take place at [Faculty of Science and Tecnology at University of Coimbra](https://www.uc.pt/en/fctuc/).
+The 2023 3D-BioInfo-PT Intermediate Workshop will take place at [Faculty of Science and Tecnology at University of Coimbra](https://www.uc.pt/en/fctuc/).
 
 Calçada Martim de Freitas  
 3000-456 Coimbra  
