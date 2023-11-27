@@ -109,11 +109,11 @@ data-dashlane-frameid="330712481793" width="600" height="450"></iframe>
   </div>
 
   <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
-    <a target="https://www.redglead.com/"><img src="/images/sponsors/red_glead.jpg" alt="Red Glead" width="180"></a>
+    <a href="https://www.redglead.com/"><img src="/images/sponsors/red_glead.jpg" alt="Red Glead" width="180"></a>
   </div>
 
   <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
-    <a target="https://inductiva.ai/"><img src="/images/sponsors/inductiva-logo-black.svg" alt="Inductiva" width="200"></a>
+    <a href="https://inductiva.ai/"><img src="/images/sponsors/inductiva-logo-black.svg" alt="Inductiva" width="200"></a>
   </div>
 
 </div>
