@@ -78,32 +78,34 @@ data-dashlane-frameid="330712481793" width="600" height="450"></iframe>
 
 # Partners
 <div style="display:flex;align-items:center;justify-content:center;">
-  <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
+  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
     <a href="https://www.biodata.pt/" target="_blank"><img src="/images/BioData.png" alt="BioData.pt" width="130"></a>
   </div>
 
-  <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
+  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
     <a href="https://elixir-europe.org/about-us/who-we-are/nodes/portugal" target="_blank"><img src="/images/
 elixir_portugal.png" alt="Elixir Portugal" width="120"></a>
   </div>
 
-  <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
-    <a href="https://www.wallfuture.com/" target="_blank"><img src="/images/wall_future.png" alt="Wall 
-Future" width="200"></a>
+  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <a href="https://www.wallfuture.com/" target="_blank"><img src="/images/wall_future.png" alt="Wall Future" width="200"></a>
   </div>
 
+  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <a href="https://www.spbf.pt/" target="_blank"><img src="/images/sponsors/SPBf_high.jpg" alt="SPBf" width="180"></a>
+  </div>
 </div>
 
 <div style="display:flex;align-items:center;justify-content:center;">
-  <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
+  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
     <a href="http://www.uc.pt" target="_blank"><img src="/images/sponsors/logo_UC.jpg" alt="UC" width="130"></a>
   </div>
 
- <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
+ <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
    <a href="https://www.uc.pt/fctuc/" target="_blank"><img src="/images/sponsors/logo_fctuc.png" alt="FCTUC" width="300"></a>
  </div>
 
-  <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
+  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
     <a href="https://www.cnc.uc.pt/" target="_blank"><img src="/images/sponsors/logo_CNC.png" alt="CNC-UC" width="180"></a>
   </div>
   
