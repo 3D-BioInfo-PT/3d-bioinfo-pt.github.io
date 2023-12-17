@@ -10,15 +10,15 @@ image:
 
 ## Registration
 
-The meeting is free but requires registration. Please fill [this form](https://forms.gle/RTmLsHNTm6LHn4Ju8){:target="_blank"} by December 11th.
+[whatever]: The meeting is free but requires registration. Please fill [this form](https://forms.gle/RTmLsHNTm6LHn4Ju8){:target="_blank"} by December 11th.
 
-[whatever]: Registration is now closed.
+Registration is now closed.
 
 ## Topics and Program
 
 [Access the meeting program here!](/annual_meeting/3DBIOINFOPT_Meeting23_Program.pdf){:target="_blank"}
 
-[whatever]: Access the <b>Book of Abstracts</b> [here](Book_Abstracts_3DBIOINFOPT_Meeting23.pdf){:target="_blank"}!
+Access the <b>Book of Abstracts</b> [here](/annual_meeting/Book_Abstracts_3DBIOINFOPT_Meeting23.pdf){:target="_blank"}!
 
 ## Keynote Speakers
 
