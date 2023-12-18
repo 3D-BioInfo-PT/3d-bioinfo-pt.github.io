@@ -16,7 +16,7 @@ Registration is now closed.
 
 ## Topics and Program
 
-[Access the meeting program here!](/annual_meeting/3DBIOINFOPT_Meeting23_Program.pdf){:target="_blank"}
+[Access the meeting program here!](/annual_meeting/3DBIOINFOPT_Meeting23_FullProgram.pdf){:target="_blank"}
 
 Access the <b>Book of Abstracts</b> [here](/annual_meeting/Book_Abstracts_3DBIOINFOPT_Meeting23.pdf){:target="_blank"}!
 
