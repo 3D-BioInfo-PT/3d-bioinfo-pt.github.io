@@ -19,8 +19,8 @@ The workshop is free of charge but requires registration. Please fill [this form
 This Advanced workshop will cover the following sessions:
 - Alchemical free energy perturbation; Paulo Costa, FCUL
 - Enhanced sampling: Umbrella Sampling; Nuno Galamba, FCUL
-- Enhanced sampling: RE	; TBA
 - Peptide Binder Design and Scoring using RFdiffusion and AutoDock GNINA; Francisco Fernandes, INESC-IST
+- Enhanced sampling: RE	; TBA
 
 [Access the workshop timetable here!](/){:target="_blank"}
 
@@ -30,7 +30,7 @@ This Advanced workshop will cover the following sessions:
 
 ## Location
 
-The 2024 3D-BioInfo-PT Advanced Workshop will take place at [Faculty of Sciences of the University of Lisboa](https://ciencias.ulisboa.pt/en).
+The 2024 3D-BioInfo-PT Advanced Workshop will take place at [Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/en).
 
 C8 Building, Campo Grande
 1749-016 Lisboa  
@@ -49,6 +49,16 @@ The access to FCUL is quick and easy, particularly for those who arrive at the C
 # Local Organization Team
 
 - Miguel Machuqueiro
+- João Vitorino
+- João Sequeira
+- Marta Batista
+- Nuno Oliveira
+- Inês Pires
+- André Gomes
+- Sara Ferreira
+- Filipe Rodrigues
+- Rita Guerra
+- Bárbara Bahls
 
 
 
