@@ -10,21 +10,20 @@ image:
 
 ## Registration
 
-The workshop is free of charge but requires registration. Please fill [this form](https://forms.gle/){:target="_blank"} by March 10th.
+The workshop is free of charge but requires registration. Please fill [this form](https://forms.gle/){:target="_blank"} by March 17th.
 
-[whatever]: Registration is now open.
+[whatever]: Registration is now *almost* open.
 
-## Topics and Program
+## Tutorial topics
 
 This Advanced workshop will cover the following sessions:
-- TBA
+- Alchemical free energy perturbation; Paulo Costa, FCUL
+- Enhanced sampling: Umbrella Sampling; Nuno Galamba, FCUL
+- Enhanced sampling: RE	; TBA
+- Peptide Binder Design and Scoring using RFdiffusion and AutoDock GNINA; Francisco Fernandes, FCUB
 
 [Access the workshop timetable here!](/){:target="_blank"}
 
-## Lecturers 
-
-- Miguel Machuqueiro (FCUL)
-- More TBA.
 
 [whatever]: Photos
 [whatever]: See the events' images [here!](https://3d-bioinfo-pt.github.io/edicoes_anteriores/intermediate_workshop_2022.html){:target="_blank"}
