@@ -49,6 +49,7 @@ The access to FCUL is quick and easy, particularly for those who arrive at the C
 # Local Organization Team
 
 - Miguel Machuqueiro
+- Paulo Costa
 - João Vitorino
 - João Sequeira
 - Marta Batista
