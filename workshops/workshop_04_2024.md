@@ -81,6 +81,4 @@ elixir_portugal.png" alt="Elixir Portugal" width="120"></a>
 
  
  
- 
- 
-</div>
+
