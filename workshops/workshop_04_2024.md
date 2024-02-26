@@ -5,7 +5,7 @@ tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCUL]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: ../images/fcul-aeroview.jpg
+  feature: ../images/fcul-aeroview-slim.jpg
 ---
 
 ## Registration
