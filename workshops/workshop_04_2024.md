@@ -19,7 +19,7 @@ The workshop is free of charge but requires registration. Please fill [this form
 This Advanced workshop will cover the following sessions:
 - TBA
 
-[Access the workshop timetable here!](/workshops/Workshop_12_2023_Schedule.pdf){:target="_blank"}
+[Access the workshop timetable here!](/){:target="_blank"}
 
 ## Lecturers 
 
@@ -50,6 +50,7 @@ The access to FCUL is quick and easy, particularly for those who arrive at the C
 # Local Organization Team
 
 - Miguel Machuqueiro
+
 
 
 # Partners
