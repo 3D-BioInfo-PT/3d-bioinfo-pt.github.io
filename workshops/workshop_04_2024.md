@@ -20,7 +20,7 @@ This Advanced workshop will cover the following sessions:
 - Alchemical free energy perturbation; Paulo Costa, FCUL
 - Enhanced sampling: Umbrella Sampling; Nuno Galamba, FCUL
 - Enhanced sampling: RE	; TBA
-- Peptide Binder Design and Scoring using RFdiffusion and AutoDock GNINA; Francisco Fernandes, FCUB
+- Peptide Binder Design and Scoring using RFdiffusion and AutoDock GNINA; Francisco Fernandes, INESC-IST
 
 [Access the workshop timetable here!](/){:target="_blank"}
 
