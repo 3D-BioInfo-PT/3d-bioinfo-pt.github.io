@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Advanced Workshop: April 12th 2023 at ULisboa"
+title: "Advanced Workshop: April 12th 2024 at ULisboa"
 tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCUL]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
