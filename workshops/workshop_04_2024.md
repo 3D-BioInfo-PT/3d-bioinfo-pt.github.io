@@ -24,7 +24,7 @@ This Advanced workshop will cover the following sessions:
 - Peptide Binder Design and Scoring using RFdiffusion and AutoDock GNINA; Francisco Fernandes, INESC-IST
 - Enhanced sampling: RE	; TBA
 
-[Access the workshop timetable here!](/){:target="_blank"}
+<!--[Access the workshop timetable here!](/){:target="_blank"}-->
 
 
 [whatever]: Photos
