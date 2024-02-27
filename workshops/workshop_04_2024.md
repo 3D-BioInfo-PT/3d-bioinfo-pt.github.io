@@ -11,11 +11,12 @@ image:
 ## Registration
 
 The workshop is free of charge but requires registration. Registration will open soon!
+
 <!---
 [comment]: # (Please fill [this form](https://forms.gle/){:target="_blank"} by March 17th.)
-
 [whatever]: Registration is now *almost* open.
 -->
+
 ## Tutorial topics
 
 This Advanced workshop will cover the following sessions:
