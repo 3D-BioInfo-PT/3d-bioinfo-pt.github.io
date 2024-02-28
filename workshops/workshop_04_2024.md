@@ -48,10 +48,9 @@ The access to FCUL is quick and easy, particularly for those who arrive at the C
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d580.8053956253732!2d-9.157474362825841!3d38.757175393545836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1932e33660fb07%3A0x27596e642a1e3e84!2sBuilding%20C8%20-%20Faculty%20of%20Sciences%20of%20the%20University%20of%20Lisbon!5e0!3m2!1sen!2spt!4v1708963717194!5m2!1sen!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+<br />
 
-
-
-# Local Organization Team
+## Local Organization Team
 
 - Miguel Machuqueiro
 - Paulo Costa
@@ -66,10 +65,9 @@ The access to FCUL is quick and easy, particularly for those who arrive at the C
 - Rita Guerra
 - Bárbara Bahls
 
+<br />
 
-
-
-# Partners
+## Partners
 <div style="display:flex;align-items:center;justify-content:center;">
   <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
     <a href="https://www.biodata.pt/" target="_blank"><img src="/images/BioData.png" alt="BioData.pt" width="130"></a>
