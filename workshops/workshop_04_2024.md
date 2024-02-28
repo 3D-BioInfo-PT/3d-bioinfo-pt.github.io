@@ -20,8 +20,8 @@ The workshop is free of charge but requires registration. Registration will open
 ## Tutorial topics
 
 This Advanced workshop will cover the following sessions:
-- Alchemical free energy perturbation; Paulo Costa, FCUL
-- Enhanced sampling: Umbrella Sampling; Nuno Galamba, FCUL
+- Alchemical free energy perturbation; Paulo Costa & Andreia Fortuna, FCUL
+- Enhanced sampling: Umbrella Sampling; Nuno Galamba & Gabriel Martins, FCUL
 - Peptide Binder Design and Scoring using RFdiffusion and AutoDock GNINA; Francisco Fernandes, INESC-IST
 - Enhanced sampling: RE	; TBA
 
