@@ -28,13 +28,13 @@ This Advanced workshop will cover the following sessions:
 ## Event Program
 
 April 12th:
-10:00h -- Registration, Coffee & Biscuits
-10:30h -- Worshop 1 - Alchemical free energy perturbation; Paulo Costa & Andreia Fortuna, FCUL
-12:00h -- Lunch
-14:00h -- Worshop 2 - Enhanced sampling: Umbrella Sampling; Nuno Galamba & Gabriel Martins, FCUL
-15:30h -- Coffee Break
-16:00h -- Workshop 3 - Peptide Binder Design and Scoring using RFdiffusion and AutoDock GNINA; Francisco Fernandes, INESC-IST
-17:30h -- Closing
+- 10:00h -- Registration, Coffee & Biscuits
+- 10:30h -- Worshop 1 - Alchemical free energy perturbation; Paulo Costa & Andreia Fortuna, FCUL
+- 12:00h -- Lunch
+- 14:00h -- Worshop 2 - Enhanced sampling: Umbrella Sampling; Nuno Galamba & Gabriel Martins, FCUL
+- 15:30h -- Coffee Break
+- 16:00h -- Workshop 3 - Peptide Binder Design and Scoring using RFdiffusion and AutoDock GNINA; Francisco Fernandes, INESC-IST
+- 17:30h -- Closing
 
 On April 11th, there will be a social dinner for the participants staying overnight, that wish to partake in this activity (expenses not covered).
 
