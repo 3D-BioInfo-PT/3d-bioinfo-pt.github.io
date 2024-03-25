@@ -43,7 +43,7 @@ On April 11th, there will be a social dinner for the participants staying overni
 
 ## Location
 
-The 2024 3D-BioInfo-PT Advanced Workshop will take place at [Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/en).
+The 2024 3D-BioInfo-PT Advanced Workshop will take place at [Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/en) (Building C8, North Wing, 5th Floor, Room 8.5.50D).
 
 C8 Building, Campo Grande
 1749-016 Lisboa  
