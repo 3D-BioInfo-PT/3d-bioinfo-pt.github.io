@@ -98,23 +98,22 @@ The access to FCUL is quick and easy, particularly for those who arrive at the C
   <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
     <a href="https://www.ulisboa.pt/" target="_blank"><img src="/images/sponsors/logo_ulisboa.png" alt="ULisboa" width="180"></a>
   </div>
-       <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
-    <a href="https://bioisi.pt/" target="_blank"><img src="images/sponsors/logo_bioisi.png" alt="BioISI" width="120"></a>
+  <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
+    <a href="https://bioisi.pt/" target="_blank"><img src="/images/sponsors/logo_bioisi.png" alt="BioISI" width="120"></a>
   </div>
   <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
-    <a href="https://twin2pipsa.campus.ciencias.ulisboa.pt/" target="_blank"><img src="images/sponsors/logo_twin2pipsa.png" alt="twin2pipsa" width="180"></a>
+    <a href="https://twin2pipsa.campus.ciencias.ulisboa.pt/" target="_blank"><img src="/images/sponsors/logo_twin2pipsa.png" alt="twin2pipsa" width="180"></a>
   </div>
-    <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
+</div>
+<div style="display:flex;align-items:center;justify-content:center;">
+     <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
     <a href="https://pasteisdebelem.pt/" target="_blank"><img src="/images/sponsors/logo_PasteisBelem.png" alt="Pasteis Belem" width="130"></a>
   </div>
-  
   <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
-    <a href="https://superbockgroup.com/" target="_blank"><img src="images/sponsors/logo_super-bock-group.png" alt="Super Bock Group" width="140"></a>
+    <a href="https://superbockgroup.com/" target="_blank"><img src="/images/sponsors/logo_super-bock-group.png" alt="Super Bock Group" width="140"></a>
   </div>
-    </div>
- 
-
 </div>
+
  
  
  
