@@ -28,7 +28,9 @@ This Advanced workshop will cover the following sessions:
 ## Event Program
 
 April 12th:
-- 10:00h -- Registration, Coffee & Biscuits
+
+- 09:30h -- Registration, Coffee & Biscuits
+- 10:00h – TWIN2PIPSA Talk - Giulio Tesei "Data-driven modelling of the intrinsically disordered proteome"
 - 10:30h -- Worshop 1 - Alchemical free energy perturbation; Paulo Costa & Andreia Fortuna, FCUL
 - 12:00h -- Lunch
 - 14:00h -- Worshop 2 - Enhanced sampling: Umbrella Sampling; Nuno Galamba & Gabriel Martins, FCUL
