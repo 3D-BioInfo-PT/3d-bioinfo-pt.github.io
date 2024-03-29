@@ -89,18 +89,32 @@ The access to FCUL is quick and easy, particularly for those who arrive at the C
     <a href="https://elixir-europe.org/about-us/who-we-are/nodes/portugal" target="_blank"><img src="/images/
 elixir_portugal.png" alt="Elixir Portugal" width="120"></a>
   </div>
-
-  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
-    <a href="https://www.wallfuture.com/" target="_blank"><img src="/images/wall_future.png" alt="Wall Future" width="200"></a>
-  </div>
-
-  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
-    <a href="https://www.spbf.pt/" target="_blank"><img src="/images/sponsors/SPBf_high.jpg" alt="SPBf" width="180"></a>
+      <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
+    <a href="https://ciencias.ulisboa.pt/" target="_blank"><img src="images/sponsors/logo_FCUL.png" alt="Faculdade de Ciências da Universidade de Lisboa" width="180"></a>
   </div>
 </div>
 
+<div style="display:flex;align-items:center;justify-content:center;">
 
+  <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
+    <a href="https://www.ulisboa.pt/" target="_blank"><img src="/images/sponsors/logo_ulisboa.png" alt="ULisboa" width="280"></a>
+  </div>
+       <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
+    <a href="https://bioisi.pt/" target="_blank"><img src="images/sponsors/logo_bioisi.png" alt="BioISI" width="200"></a>
+  </div>
+  <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
+    <a href="https://twin2pipsa.campus.ciencias.ulisboa.pt/" target="_blank"><img src="images/sponsors/logo_twin2pipsa.png" alt="twin2pipsa" width="200"></a>
+  </div>
+    <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
+    <a href="https://pasteisdebelem.pt/" target="_blank"><img src="/images/sponsors/logo_PasteisBelem.png" alt="Pasteis Belem" width="130"></a>
+  </div>
   
+  <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
+    <a href="https://superbockgroup.com/" target="_blank"><img src="images/sponsors/logo_super-bock-group.png" alt="Super Bock Group" width="200"></a>
+  </div>
+ 
+
+</div>
  
  
  
