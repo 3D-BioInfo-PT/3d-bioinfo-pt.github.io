@@ -24,6 +24,7 @@ This Advanced workshop will cover the following sessions:
 - **Enhanced sampling: Umbrella Sampling**; Nuno Galamba & Gabriel Martins, FCUL
 - **Peptide Binder Design and Scoring using RFdiffusion and AutoDock GNINA**; Francisco Fernandes, INESC-IST
 
+Please mind that these workshops will take place at the Location specified below. They will **not** be online!
 <!--[Access the workshop timetable here!](/){:target="_blank"}-->
 ## Event Program
 
