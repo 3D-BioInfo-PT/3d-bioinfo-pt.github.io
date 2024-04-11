@@ -63,6 +63,10 @@ The access to FCUL is quick and easy, particularly for those who arrive at the C
 
 <br />
 
+## Accommodation
+
+We're pleased to announce a partnership between the 3D-Bioinfo-PT organization and Moov Hotel Lisboa Oriente for our upcoming conference. As a benefit for attendees, a 5% discount on accommodations at Moov Hotel Oriente is available. To redeem this offer, simply send an email to the conference organization.
+
 ## Local Organization Team
 
 - Miguel Machuqueiro
