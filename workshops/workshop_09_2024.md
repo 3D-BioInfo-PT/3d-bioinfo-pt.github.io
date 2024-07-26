@@ -10,8 +10,7 @@ image:
 
 ## Registration
 
-The workshop is free of charge but requires registration. Registration will open soon!
-<!---The workshop is free of charge but requires registration. Please register using [this form](LINK HERE ){:target="_blank"} by September 15th!
+The workshop is free of charge but requires registration. Please register using [this form](https://docs.google.com/forms/d/e/1FAIpQLSd2Taw4LBLeQcFJvzm1Kf-gU9zh-540isw4TOBlSUO7C79Sbw/viewform ){:target="_blank"} by September 15th!
 
 <!---
 [comment]: # (Please fill [this form](https://forms.gle/){:target="_blank"} by March 17th.)
