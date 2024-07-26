@@ -9,6 +9,13 @@ comments: false
 <link rel="stylesheet" href="/events/svgs.css">
 
 <hr>
+# Advanced Workshop: April 12th, 2024
+
+<a href="/workshops/workshop_04_2024" title="Click for more information!">
+<img alt="Qries" title="More information soon!" class="workshop" src="/images/workshop1-2024.svg" style="max-width: 650px; filter: invert(100%) sepia(100%) saturate(300%) hue-rotate(150deg) invert(100%);">
+</a>
+
+<hr>
 # Annual Meeting: December 18th, 2023
 
 <a href="/annual_meeting/annual_meeting_12_2023" title="Click for more information!">
