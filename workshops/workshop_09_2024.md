@@ -61,6 +61,7 @@ We're pleased to announce a partnership between the 3D-Bioinfo-PT organization a
 
 - Miguel Machuqueiro
 - Paulo Costa
+- Bruno Victor
 - João Vitorino
 - João Sequeira
 - Marta Batista
