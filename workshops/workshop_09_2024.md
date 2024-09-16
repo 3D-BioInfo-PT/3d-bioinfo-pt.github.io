@@ -19,7 +19,7 @@ The workshop is free of charge but requires registration. Please register using 
 
 ## Tutorial topics
 
-This Advanced workshop will cover the following sessions:
+This Beginner workshop will cover the following sessions:
 - **From Sequence to Protein Structure: AI vs Homology Modelling**; Rita Melo, C2TN - IST
 - **Molecular Docking Calculations**; Bruno Victor, CoLab AccelBio & Paulo Costa, FCUL
 - **Molecular Dynamics Simulations**; Miguel Machuqueiro, FCUL
