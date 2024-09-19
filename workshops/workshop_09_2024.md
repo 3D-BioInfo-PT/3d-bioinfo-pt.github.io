@@ -92,7 +92,7 @@ We're pleased to announce a partnership between the 3D-Bioinfo-PT organization a
 ## Partners
 <div style="display:flex;align-items:center;justify-content:center;">
   <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
-    <a href="https://www.biodata.pt/" target="_blank"><img src="/images/BioData.png" alt="BioData.pt" width="130"></a>
+    <a href="https://www.biodata.pt/" target="_blank"><img src="/images/sponsors/logo-biodata.png" alt="BioData.pt" width="130"></a>
   </div>
 
   <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
