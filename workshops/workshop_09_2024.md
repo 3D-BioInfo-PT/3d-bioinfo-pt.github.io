@@ -26,7 +26,16 @@ This Beginner workshop will cover the following sessions:
 
 Please mind that these workshops will take place at the Location specified below. They will **not** be online!
 <!--[Access the workshop timetable here!](/){:target="_blank"}-->
-## Event Program will be available soon!
+## Event Program 
+September 27th:
+
+09:30h – 10:00h – Registration, Coffee & Biscuits
+10:00h – 11:30h – Workshop 1 - From Sequence to Protein Structure: AI vs Homology Modelling; Rita Melo, C2TN - IST
+11:30h – 13:30h – Lunch (Free of Charge; C7 Building)
+13:30h – 15:00h – Workshop 2 - Molecular Docking Calculations; Bruno Victor, CoLab AccelBio & Paulo Costa, FCUL
+15:00h – 15:30h – Coffee Break
+15:30h – 17:00h – Workshop 3 - Molecular Dynamics Simulations; Miguel Machuqueiro, FCUL
+17:00h – Closing
 
 
 
