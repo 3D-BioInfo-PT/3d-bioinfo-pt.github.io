@@ -1,0 +1,144 @@
+---
+layout: page
+title: "3rd Annual Meeting: December 19th 2024 at ULisboa"
+tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCTUC]
+modified: 2014-08-08T20:53:07.573882-04:00
+comments: false
+image:
+  feature: ../images/fcul-aeroview-slim.jpg
+---
+
+## Registration
+
+[whatever]: The meeting is free but requires registration. Registrations will open soon! <!--- Please fill [this form](https://forms.gle/RTmLsHNTm6LHn4Ju8){:target="_blank"} by December 11th. -->
+
+
+## Topics and Program
+
+TBA
+
+<!--[Access the meeting program here!](/annual_meeting/3DBIOINFOPT_Meeting23_FullProgram.pdf){:target="_blank"}
+
+Access the <b>Book of Abstracts</b> [here](/annual_meeting/Book_Abstracts_3DBIOINFOPT_Meeting23.pdf){:target="_blank"}!--->
+
+## Keynote Speakers
+<!--
+<img src="/annual_meeting/RMelo.jpeg" alt="Rita Melo" width="150"/>  
+<b>Rita Melo</b>  
+Centro de Ciências e Tecnologias Nucleares, Instituto Superior Técnico, Universidade de Lisboa, Loures, Portugal.
+
+<img src="/annual_meeting/RJFerreira.jpg" alt="Ricardo J. Ferreira" width="150"/>  
+<b>Ricardo J. Ferreira</b>  
+Head of Computational Chemistry at Red Glead Discovery AB, Medicon Village, Lund, Sweden.
+
+<img src="/annual_meeting/HPenedones.jpg" alt="Hugo Penedones" width="150"/>  
+<b>Hugo Penedones</b>  
+Co-founder and CTO at Inductiva Research Labs, Porto, Portugal.
+
+[whatever]: Photos
+[whatever]: See the events' images [here!](https://3d-bioinfo-pt.github.io/edicoes_anteriores/intermediate_workshop_2022.html){:target="_blank"}
+-->
+## Location
+
+The 2024 3D-BioInfo-PT Annual Meeting will take place at [[Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/en) (Building C8, North Wing, 5th Floor, Room 8.5.50D).
+
+C8 Building, Campo Grande
+1749-016 Lisboa  
+Portugal  
+
+### GPS coordinates  
+Latitude: 39° 12' 25.2" (38.757 N)  
+Longitude: -9° 25' 19.2" (-9.157 W)  
+
+## How to get there?
+
+The access to FCUL is quick and easy, particularly for those who arrive at the Campo Grande metro station. From there, one can walk about 500m to FCUL.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d580.8053956253732!2d-9.157474362825841!3d38.757175393545836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1932e33660fb07%3A0x27596e642a1e3e84!2sBuilding%20C8%20-%20Faculty%20of%20Sciences%20of%20the%20University%20of%20Lisbon!5e0!3m2!1sen!2spt!4v1708963717194!5m2!1sen!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<br />
+
+## Accommodation
+
+We're pleased to announce a partnership between the 3D-Bioinfo-PT organization and Moov Hotel Lisboa Oriente for our upcoming conference. As a benefit for attendees, a 5% discount on accommodations at Moov Hotel Oriente is available. To redeem this offer, simply send an email to the conference organization.
+
+## Local Organization Team
+
+- Miguel Machuqueiro
+- Paulo Costa
+- Bruno Victor
+- João Vitorino
+- João Sequeira
+- Marta Batista
+- Nuno Oliveira
+- Inês Pires
+- André Gomes
+- Sara Ferreira
+- Filipe Rodrigues
+- Rita Guerra
+- Bárbara Bahls
+- Pedro Suzano
+
+<br />
+
+# Partners
+<div style="display:flex;align-items:center;justify-content:center;">
+  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <a href="https://www.biodata.pt/" target="_blank"><img src="/images/BioData.png" alt="BioData.pt" width="130"></a>
+  </div>
+
+  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <a href="https://elixir-europe.org/about-us/who-we-are/nodes/portugal" target="_blank"><img src="/images/elixir_portugal.png" alt="Elixir Portugal" width="120"></a>
+  </div>
+
+  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <a href="https://www.wallfuture.com/" target="_blank"><img src="/images/wall_future.png" alt="Wall Future" width="200"></a>
+  </div>
+
+  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <a href="https://www.spbf.pt/" target="_blank"><img src="/images/sponsors/SPBf_high.jpg" alt="SPBf" width="180"></a>
+  </div>
+
+</div>
+
+<div style="display:flex;align-items:center;justify-content:center;">
+  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <a href="https://ilof.tech/" target="_blank"><img src="/images/ILOF.jpg" alt="iLoF" width="120"></a>
+  </div>
+
+  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <a target="_blank"><img src="/images/purrai.png" alt="purrAI" width="190"></a>
+  </div>
+
+  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <a href="https://www.redglead.com/"><img src="/images/sponsors/red_glead.jpg" alt="Red Glead" width="180"></a>
+  </div>
+
+  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <a href="https://inductiva.ai/"><img src="/images/sponsors/inductiva-logo-black.svg" alt="Inductiva" width="200"></a>
+  </div>
+
+</div>
+
+<div style="display:flex;align-items:center;justify-content:center;">
+  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <a href="http://www.uc.pt" target="_blank"><img src="/images/sponsors/logo_UC.jpg" alt="UC" width="130"></a>
+  </div>
+
+ <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+   <a href="https://www.uc.pt/fctuc/" target="_blank"><img src="/images/sponsors/logo_fctuc.png" alt="FCTUC" width="300"></a>
+ </div>
+
+  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <a href="https://www.cnc.uc.pt/" target="_blank"><img src="/images/sponsors/logo_CNC.png" alt="CNC-UC" width="180"></a>
+  </div>
+  
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+</div>
