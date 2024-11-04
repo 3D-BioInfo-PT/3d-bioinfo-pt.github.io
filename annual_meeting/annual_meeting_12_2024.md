@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "3rd Annual Meeting: December 19th 2024 at ULisboa"
+title: "3rd Annual Meeting: December 20th 2024 at ULisboa"
 tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCTUC]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
