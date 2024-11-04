@@ -19,8 +19,6 @@ The workshop is free of charge but requires registration.  Registrations will op
 
 ## Tutorial topics
 
-TBA
-
 <!---
 This Intermediate workshop will cover the following sessions:
 - **From Sequence to Protein Structure: AI vs Homology Modelling**; Rita Melo, C2TN - IST
@@ -31,10 +29,12 @@ This Intermediate workshop will cover the following sessions:
 - **Predicting the Structure and Interaction of Biomolecules using AlphaFold 3** --- Francisco Fernandes
 - **Coarse-grain Molecular Dynamics using the Martini Forcefield** --- Manuel N. Melo
 - **Enhanced sampling: Meta-Dynamics** --- Tomás Silva
-- 
+
+  
 Please mind that these workshops will take place at the Location specified below. They will **not** be online!
 <!--[Access the workshop timetable here!](/){:target="_blank"}-->
 ## Event Program 
+
 
 TBA
 
