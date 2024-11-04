@@ -89,6 +89,7 @@ We're pleased to announce a partnership between the 3D-Bioinfo-PT organization a
 - Filipe Rodrigues
 - Rita Guerra
 - Bárbara Bahls
+- Pedro Suzano
 
 <br />
 
