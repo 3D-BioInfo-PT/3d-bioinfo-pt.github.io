@@ -12,7 +12,7 @@ comments: false
 <hr>
 # Annual Meeting: December 19th, 2024
 
-<a href="/annual_meeting/annual_meeting_12_2023" title="Click for more information!">
+<a href="/annual_meeting/annual_meeting_12_2024" title="Click for more information!">
 <img alt="Qries" src="/images/meeting-2024.svg" class="workshop" style="max-width: 650px; filter: invert(100%) sepia(100%) 
 saturate(300%) hue-rotate(0deg) invert(100%);">
 </a>
