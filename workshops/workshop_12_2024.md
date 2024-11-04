@@ -26,9 +26,15 @@ This Intermediate workshop will cover the following sessions:
 - **Molecular Docking Calculations**; Bruno Victor, CoLab AccelBio & Paulo Costa, FCUL
 - **Molecular Dynamics Simulations**; Miguel Machuqueiro, FCUL
 -->
+- **Predicting the Structure and Interaction of Biomolecules using AlphaFold 3** --- Francisco Fernandes
+- **Coarse-grain Molecular Dynamics using the Martini Forcefield** --- Manuel N. Melo
+- **Enhanced sampling: Meta-Dynamics** --- Tomás Silva
+- 
 Please mind that these workshops will take place at the Location specified below. They will **not** be online!
 <!--[Access the workshop timetable here!](/){:target="_blank"}-->
 ## Event Program 
+
+TBA
 <!---
 September 27th:
 
