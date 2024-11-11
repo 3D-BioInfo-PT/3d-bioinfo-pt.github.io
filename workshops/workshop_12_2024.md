@@ -33,7 +33,7 @@ This Intermediate workshop will cover the following sessions:
   
 Please mind that these workshops will take place at the Location specified below. They will **not** be online!
 <!--[Access the workshop timetable here!](/){:target="_blank"}-->
-## Event Program (Early Plan)
+## Event Program
 
 
 December 19th:
