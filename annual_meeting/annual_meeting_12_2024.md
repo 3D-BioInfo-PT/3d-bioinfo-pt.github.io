@@ -29,22 +29,7 @@ Access the <b>Book of Abstracts</b> [here](/annual_meeting/Book_Abstracts_3DBIOI
 ## Keynote Speakers
 
 To Be Announced...
-<!--
-<img src="/annual_meeting/RMelo.jpeg" alt="Rita Melo" width="150"/>  
-<b>Rita Melo</b>  
-Centro de Ciências e Tecnologias Nucleares, Instituto Superior Técnico, Universidade de Lisboa, Loures, Portugal.
 
-<img src="/annual_meeting/RJFerreira.jpg" alt="Ricardo J. Ferreira" width="150"/>  
-<b>Ricardo J. Ferreira</b>  
-Head of Computational Chemistry at Red Glead Discovery AB, Medicon Village, Lund, Sweden.
-
-<img src="/annual_meeting/HPenedones.jpg" alt="Hugo Penedones" width="150"/>  
-<b>Hugo Penedones</b>  
-Co-founder and CTO at Inductiva Research Labs, Porto, Portugal.
-
-[whatever]: Photos
-[whatever]: See the events' images [here!](https://3d-bioinfo-pt.github.io/edicoes_anteriores/intermediate_workshop_2022.html){:target="_blank"}
--->
 ## Location
 
 The 2024 3D-BioInfo-PT Annual Meeting will take place at [[Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/en) (Building C8, North Wing).
