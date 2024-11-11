@@ -15,7 +15,11 @@ image:
 
 ## Topics and Program
 
-TBA
+The Annual meeting will have place for both **oral presentations** and for **poster sessions** during the coffee break. 
+
+Lunch is planned to be in the Canteen of the University of Lisbon (Cantina Velha).
+
+The Full Program will be announced soon.
 
 <!--[Access the meeting program here!](/annual_meeting/3DBIOINFOPT_Meeting23_FullProgram.pdf){:target="_blank"}
 
@@ -40,7 +44,7 @@ Co-founder and CTO at Inductiva Research Labs, Porto, Portugal.
 -->
 ## Location
 
-The 2024 3D-BioInfo-PT Annual Meeting will take place at [[Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/en) (Building C8, North Wing, 5th Floor, Room 8.5.50D).
+The 2024 3D-BioInfo-PT Annual Meeting will take place at [[Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/en) (Building C8, North Wing).
 
 C8 Building, Campo Grande
 1749-016 Lisboa  
