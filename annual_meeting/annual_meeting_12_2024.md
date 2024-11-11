@@ -10,7 +10,7 @@ image:
 
 ## Registration
 
-[whatever]: The meeting is free but requires registration. Please fill [this form]([https://forms.gle/RTmLsHNTm6LHn4Ju8](https://docs.google.com/forms/d/e/1FAIpQLSfqFoWIMdGpdzS_XL4ivS_Ow7Dzyz6bbPxHdqCO08wlIDKnsQ/viewform?usp=sf_link)){:target="_blank"} by December 1st. <!---Registrations will open soon!  Please fill [this form](https://forms.gle/RTmLsHNTm6LHn4Ju8){:target="_blank"} by December 11th. -->
+[whatever]: The meeting is free but requires registration. Please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSfqFoWIMdGpdzS_XL4ivS_Ow7Dzyz6bbPxHdqCO08wlIDKnsQ/viewform?usp=sf_link){:target="_blank"} by December 1st. <!---Registrations will open soon!  Please fill [this form](https://forms.gle/RTmLsHNTm6LHn4Ju8){:target="_blank"} by December 11th. -->
 
 
 ## Topics and Program
