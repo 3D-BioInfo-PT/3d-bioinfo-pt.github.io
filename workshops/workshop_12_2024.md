@@ -26,17 +26,31 @@ This Intermediate workshop will cover the following sessions:
 - **Molecular Dynamics Simulations**; Miguel Machuqueiro, FCUL
 -->
 
-- **Predicting the Structure and Interaction of Biomolecules using AlphaFold 3** --- Francisco Fernandes
-- **Coarse-grain Molecular Dynamics using the Martini Forcefield** --- Manuel N. Melo
-- **Enhanced sampling: Meta-Dynamics** --- Tomás Silva
+- **Predicting the Structure and Interaction of Biomolecules using AlphaFold 3** --- Francisco Fernandes, INESC-IST
+- **Coarse-grain Molecular Dynamics using the Martini Forcefield** --- Manuel N. Melo, MOSTMICRO-ITQB NOVA
+- **Enhanced sampling: Meta-Dynamics** --- Tomás Silva, SBP-SISSA
 
   
 Please mind that these workshops will take place at the Location specified below. They will **not** be online!
 <!--[Access the workshop timetable here!](/){:target="_blank"}-->
-## Event Program 
+## Event Program (Early Plan)
 
 
-TBA
+December 19th:
+
+09:30h – 10:00h – Registration, Coffee & Biscuits
+
+10:00h – 11:30h – Workshop 1 - **Predicting the Structure and Interaction of Biomolecules using AlphaFold 3** --- Francisco Fernandes, INESC-IST
+
+11:30h – 13:30h – Lunch (Free of Charge)
+
+13:30h – 15:00h – Workshop 2 - **Coarse-grain Molecular Dynamics using the Martini Forcefield** --- Manuel N. Melo, MOSTMICRO-ITQB NOVA
+
+15:00h – 15:30h – Coffee Break
+
+15:30h – 17:00h – Workshop 3 - **Enhanced sampling: Meta-Dynamics** --- Tomás Silva, SBP-SISSA
+
+17:00h – Closing
 
 
 
