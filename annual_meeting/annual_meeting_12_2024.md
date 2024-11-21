@@ -61,6 +61,14 @@ We're pleased to announce a partnership between the 3D-Bioinfo-PT organization a
 - João Rodrigues, Schrodinger, Inc
 - Paulo Martel, Universidade do Algarve
 
+<img src="/annual_meeting/people/JRodrigues.jpg" alt="Rita Melo" width="150"/>  
+<b>João Rodrigues</b>  
+Schrodinger, Inc
+
+<img src="/annual_meeting/people/PMartel.jpeg" alt="Ricardo J. Ferreira" width="150"/>  
+<b>Paulo Martel</b>  
+Universidade do Algarve, Portugal
+
 ## Local Organization Team
 
 - Miguel Machuqueiro
