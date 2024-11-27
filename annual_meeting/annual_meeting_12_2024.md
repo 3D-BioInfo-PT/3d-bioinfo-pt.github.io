@@ -13,7 +13,7 @@ image:
 <!--[whatever]: -->
 
 The meeting is free but requires registration. Please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSeqs9T_F0yLxJ_VFPf48ZUfezPAcOxH-qZjwNpdL-CpYCaQpA/viewform?usp=sf_link){:target="_blank"} by **December 8th**. 
-Abstract submissions will close on **December 1st**. <!---Registrations will open soon!  Please fill [this form](https://forms.gle/RTmLsHNTm6LHn4Ju8){:target="_blank"} by December 11th. -->
+Abstract submissions will close on **December 6th**. <!---Registrations will open soon!  Please fill [this form](https://forms.gle/RTmLsHNTm6LHn4Ju8){:target="_blank"} by December 11th. -->
 
 
 ## Topics and Program
