@@ -63,7 +63,7 @@ Access the <b>Book of Abstracts</b> [here](/annual_meeting/Book_Abstracts_3DBIOI
 
 ## Keynote Speakers
 
-- Alexandra Carvalho ()
+- Alexandra Carvalho (Almac)
 - Catarina Carvalheda dos Santos (Isomorphic Labs, UK)
 - Tomás Silva (SISSA, Trieste, IT)
 
