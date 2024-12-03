@@ -22,7 +22,40 @@ The Annual meeting will have place for both **oral presentations** and for **pos
 
 Lunch is planned to be in the Canteen of the University of Lisbon (Cantina Velha).
 
-The Full Program will be announced soon.
+
+
+December 20th:
+
+08:30h – 09:30h – Registration
+
+09:30h – 10:15h – Keynote Speaker 1 (K1)
+
+10:15h – 11:00h – Coffee Break + Poster Session
+
+11:00h – 11:15h – Oral Communication 1 (O1)
+
+11:15h – 11:30h – Oral Communication 2 (O2)
+
+11:30h – 11:45h – Oral Communication 3 (O3)
+
+11:45h – 12:00h – Oral Communication 4 (O4)
+
+12:00h - 14:00h – Lunch + Poster session
+
+14:00h – 14:45h – Keynote Speaker 2 (K2)
+
+14:45h – 15:00h – Oral Communication 5 (O5)
+
+15:00h – 15:45h – Coffee Break + Poster Session
+
+15:45h – 16:30h – Keynote Speaker 3 (K3)
+
+16:30h – 16:45h – Oral Communication 6 (O6)
+
+16:45h – 17:00h – Oral Communication 7 (O7)
+
+17:00h – Closing Session
+
 
 <!--[Access the meeting program here!](/annual_meeting/3DBIOINFOPT_Meeting23_FullProgram.pdf){:target="_blank"}
 
@@ -34,7 +67,7 @@ To Be Announced...
 
 ## Location
 
-The 2024 3D-BioInfo-PT Annual Meeting will take place at [[Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/en) (Building C8, North Wing).
+The 2024 3D-BioInfo-PT Annual Meeting will take place at [[Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/en) (Room 6.2.56, Building C6, North Wing).
 
 C8 Building, Campo Grande
 1749-016 Lisboa  
