@@ -79,7 +79,7 @@ SISSA, Trieste, IT
 
 The 2024 3D-BioInfo-PT Annual Meeting will take place at [[Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/en) Room 6.2.56, Building C6. When facing the C6 bar, take the stairs on the right side and go up one floor.
 
-C8 Building, Campo Grande
+C6 Building, Campo Grande
 1749-016 Lisboa  
 Portugal  
 
@@ -91,7 +91,8 @@ Longitude: -9° 25' 19.2" (-9.157 W)
 
 The access to FCUL is quick and easy, particularly for those who arrive at the Campo Grande metro station. From there, one can walk about 500m to FCUL.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d580.8053956253732!2d-9.157474362825841!3d38.757175393545836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1932e33660fb07%3A0x27596e642a1e3e84!2sBuilding%20C8%20-%20Faculty%20of%20Sciences%20of%20the%20University%20of%20Lisbon!5e0!3m2!1sen!2spt!4v1708963717194!5m2!1sen!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d580.8053956253732!2d-9.157474362825841!3d38.757175393545836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1932e33660fb07%3A0x27596e642a1e3e84!2sBuilding%20C8%20-%20Faculty%20of%20Sciences%20of%20the%20University%20of%20Lisbon!5e0!3m2!1sen!2spt!4v1708963717194!5m2!1sen!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>-->
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3111.3671982554533!2d-9.160107823511055!3d38.75528115507631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1932e2dc27dd69%3A0x9c44c081f003864b!2sEdificio%20C6%20-%20Faculdade%20de%20Ci%C3%AAncias%20da%20Universidade%20de%20Lisboa!5e0!3m2!1sen!2spt!4v1734035851035!5m2!1sen!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <br />
 
