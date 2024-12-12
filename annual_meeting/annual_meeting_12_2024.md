@@ -25,35 +25,21 @@ Lunch will take place at ATFCUL in the C7 building, right next to the event.
 
 December 20th:
 
-08:30h – 09:30h – Registration
-
-09:30h – 10:15h – (K1) Alexandra Carvalho
-
-10:15h – 11:00h – Coffee Break + Poster Session
-
-11:00h – 11:15h – (O1) Carlos Costa “Computer-aided design and validation of novel affinity ligands towards the SARS-CoV-2 spike protein”
-
-11:15h – 11:30h – (O2) Sofia Oliveira “Using nonequilibrium simulations to understand drug resistance and allostery in proteins”
-
-11:30h – 11:45h – (O3) Pedro Moreira “Computational design of monobody binders to target viral therapeutical epitopes”
-
-11:45h – 12:00h – (O4) João Sequeira “ Force Field Integration in Constant-pH Molecular Dynamics”
-
-12:00h - 14:00h – Lunch + Poster session
-
-14:00h – 14:45h – (K2) Tomás Silva
-
-14:45h – 15:00h – (O5) Fernando Nunes ”An in-silico approach to the characterization of Suberin”
-
-15:00h – 15:45h – Coffee Break + Poster Session
-
-15:45h – 16:30h – (K3) Catarina Santos
-
-16:30h – 16:45h – (O6) Sara Ferreira “Tying and Untying the Knot: Insights into UCHL-1 Knotting Energetics”
-
-16:45h – 17:00h – (O7) Victor Hugo Mello “From structural variability to mechanical energetics of a molecular motor assembly”
-
-17:00h – Closing Session
+08:30h – 09:30h – Registration <br />
+09:30h – 10:15h – (K1) Alexandra Carvalho <br />
+10:15h – 11:00h – Coffee Break + Poster Session <br />
+11:00h – 11:15h – (O1) Carlos Costa “Computer-aided design and validation of novel affinity ligands towards the SARS-CoV-2 spike protein” <br />
+11:15h – 11:30h – (O2) Sofia Oliveira “Using nonequilibrium simulations to understand drug resistance and allostery in proteins” <br />
+11:30h – 11:45h – (O3) Pedro Moreira “Computational design of monobody binders to target viral therapeutical epitopes” <br />
+11:45h – 12:00h – (O4) João Sequeira “ Force Field Integration in Constant-pH Molecular Dynamics” <br />
+12:00h - 14:00h – Lunch + Poster session <br />
+14:00h – 14:45h – (K2) Tomás Silva <br />
+14:45h – 15:00h – (O5) Fernando Nunes ”An in-silico approach to the characterization of Suberin” <br />
+15:00h – 15:45h – Coffee Break + Poster Session <br />
+15:45h – 16:30h – (K3) Catarina Santos <br />
+16:30h – 16:45h – (O6) Sara Ferreira “Tying and Untying the Knot: Insights into UCHL-1 Knotting Energetics” <br />
+16:45h – 17:00h – (O7) Victor Hugo Mello “From structural variability to mechanical energetics of a molecular motor assembly” <br />
+17:00h – Closing Session <br />
 
 
 <!--[Access the meeting program here!](/annual_meeting/3DBIOINFOPT_Meeting23_FullProgram.pdf){:target="_blank"}
