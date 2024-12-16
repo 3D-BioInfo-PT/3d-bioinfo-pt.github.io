@@ -161,12 +161,4 @@ Work supported by UIDB/04046/2020 (DOI: 10.54499/UIDB/04046/2020 ) and UIDP/0404
     <a href="https://nicola.pt/" target="_blank"><img src="/images/sponsors/logo_nicola.jpg" alt="Nicola" width="200"></a>
   </div>
 
- 
- 
- 
-
- 
- 
- 
- 
 </div>
