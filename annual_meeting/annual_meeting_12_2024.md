@@ -148,14 +148,17 @@ Work supported by UIDB/04046/2020 (DOI: 10.54499/UIDB/04046/2020 ) and UIDP/0404
   </div>
 </div>
 <div style="display:flex;align-items:center;justify-content:center;">
-     <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
+  <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
     <a href="https://pasteisdebelem.pt/" target="_blank"><img src="/images/sponsors/logo_PasteisBelem.png" alt="Pasteis Belem" width="130"></a>
   </div>
   <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
     <a href="https://superbockgroup.com/" target="_blank"><img src="/images/sponsors/logo_super-bock-group.png" alt="Super Bock Group" width="200"></a>
   </div>
-    <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
+  <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
     <a href="https://accelbio.pt/" target="_blank"><img src="/images/sponsors/logo_accelbio.svg" alt="AccelBio" width="200"></a>
+  </div>
+   <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
+    <a href="https://nicola.pt/" target="_blank"><img src="/images/sponsors/logo_nicola.jpg" alt="Nicola" width="200"></a>
   </div>
 
  
