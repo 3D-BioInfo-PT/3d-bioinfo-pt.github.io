@@ -158,7 +158,7 @@ Work supported by UIDB/04046/2020 (DOI: 10.54499/UIDB/04046/2020 ) and UIDP/0404
     <a href="https://accelbio.pt/" target="_blank"><img src="/images/sponsors/logo_accelbio.svg" alt="AccelBio" width="200"></a>
   </div>
    <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
-    <a href="https://nicola.pt/" target="_blank"><img src="/images/sponsors/logo_nicola.jpg" alt="Nicola" width="200"></a>
+    <a href="https://nicola.pt/" target="_blank"><img src="/images/sponsors/logo_nicola.jpg" alt="Nicola" width="130"></a>
   </div>
 
 </div>
