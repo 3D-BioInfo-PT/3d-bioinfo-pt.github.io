@@ -29,9 +29,9 @@ December 20th:
 09:30h – 10:15h – **(K1) Alexandra Carvalho** <br />
 10:15h – 11:00h – **Coffee Break + Poster Session** <br />
 11:00h – 11:15h – **(O1) Carlos Costa “Computer-aided design and validation of novel affinity ligands towards the SARS-CoV-2 spike protein”** <br />
-11:15h – 11:30h – **(O2) Sofia Oliveira “Using nonequilibrium simulations to understand drug resistance and allostery in proteins”** <br />
+11:15h – 11:30h – **(O4) João Sequeira “ Force Field Integration in Constant-pH Molecular Dynamics”** <br />
 11:30h – 11:45h – **(O3) Pedro Moreira “Computational design of monobody binders to target viral therapeutical epitopes”** <br />
-11:45h – 12:00h – **(O4) João Sequeira “ Force Field Integration in Constant-pH Molecular Dynamics”** <br />
+11:45h – 12:00h – **(O2) Sofia Oliveira “Using nonequilibrium simulations to understand drug resistance and allostery in proteins”** <br />
 12:00h – 14:00h – **Lunch + Poster session** <br />
 14:00h – 14:45h – **(K2) Tomás Silva** <br />
 14:45h – 15:00h – **(O5) Fernando Nunes ”An in-silico approach to the characterization of Suberin”** <br />
