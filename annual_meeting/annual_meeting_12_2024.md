@@ -64,49 +64,49 @@ SISSA, Trieste, IT
 ## Photos
 
 <div style="display:flex;align-items:center;justify-content:center;">
-  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+  <div style="padding-left:5px; padding-right:5px; padding-top:5px; padding-bottom:5px">
     <a ><img src="/images/annual_meeting_2024/photo1.jpg" width="400"></a>
   </div>
-    <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <div style="padding-left:5px; padding-right:5px; padding-top:5px; padding-bottom:5px">
     <a ><img src="/images/annual_meeting_2024/photo2.jpg" width="400"></a>
   </div>
-    <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <div style="padding-left:5px; padding-right:5px; padding-top:5px; padding-bottom:5px">
     <a ><img src="/images/annual_meeting_2024/photo3.jpg" width="400"></a>
   </div>
 </div>
 
 <div style="display:flex;align-items:center;justify-content:center;">
-  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+  <div style="padding-left:5px; padding-right:5px; padding-top:5px; padding-bottom:5px">
     <a ><img src="/images/annual_meeting_2024/photo4.jpg" width="400"></a>
   </div>
-    <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <div style="padding-left:5px; padding-right:5px; padding-top:5px; padding-bottom:5px">
     <a ><img src="/images/annual_meeting_2024/photo5.jpg" width="400"></a>
   </div>
-    <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <div style="padding-left:5px; padding-right:5px; padding-top:5px; padding-bottom:5px">
     <a ><img src="/images/annual_meeting_2024/photo6.jpg" width="400"></a>
   </div>
 </div>
 
 <div style="display:flex;align-items:center;justify-content:center;">
-  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+  <div style="padding-left:5px; padding-right:5px; padding-top:5px; padding-bottom:5px">
     <a ><img src="/images/annual_meeting_2024/photo7.jpg" width="400"></a>
   </div>
-    <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <div style="padding-left:5px; padding-right:5px; padding-top:5px; padding-bottom:5px">
     <a ><img src="/images/annual_meeting_2024/photo8.jpg" width="400"></a>
   </div>
-    <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <div style="padding-left:5px; padding-right:5px; padding-top:5px; padding-bottom:5px">
     <a ><img src="/images/annual_meeting_2024/photo9.jpg" width="400"></a>
   </div>
 </div>
 
 <div style="display:flex;align-items:center;justify-content:center;">
-  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+  <div style="padding-left:5px; padding-right:5px; padding-top:5px; padding-bottom:5px">
     <a ><img src="/images/annual_meeting_2024/photo10.jpg" width="400"></a>
   </div>
-    <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <div style="padding-left:5px; padding-right:5px; padding-top:5px; padding-bottom:5px">
     <a ><img src="/images/annual_meeting_2024/photo11.jpg" width="400"></a>
   </div>
-    <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <div style="padding-left:5px; padding-right:5px; padding-top:5px; padding-bottom:5px">
     <a ><img src="/images/annual_meeting_2024/photo12.jpg" width="400"></a>
   </div>
 </div>
