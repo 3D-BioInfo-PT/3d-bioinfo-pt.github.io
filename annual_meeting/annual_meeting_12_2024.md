@@ -49,6 +49,7 @@ Access the <b>Book of Abstracts</b> [here](/annual_meeting/Book_Abstracts_3DBIOI
 ## Keynote Speakers
 
 
+<div style="display:flex;align-items:center;justify-content:center;">
 <img src="/annual_meeting/people/photo_Alexandra_Carvalho.png" alt="Alexandra Carvalho" width="150"/>  
 <b>Alexandra Carvalho</b>  
 Almac Sciences, UK
@@ -60,6 +61,7 @@ Isomorphic Labs, UK
 <img src="/annual_meeting/people/photo_Tomás_Silva.jpg" alt="Tomás Silva" width="150"/>  
 <b>Tomás Silva</b>  
 SISSA, Trieste, IT
+</div>
 
 ## Photos
 
