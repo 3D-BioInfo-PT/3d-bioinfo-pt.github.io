@@ -65,7 +65,7 @@ SISSA, Trieste, IT</a>
 ## Book of Abstracts
 
 <a href="/annual_meeting/files/book_of_abstracts24.pdf" download="bioinfo3d_book_of_abstracts24">
-  <img src="/annual_meeting/files/book_of_abstracts24.pdf" alt="bioinfo3d_book_of_abstracts24">
+  [Click to download]
 </a>
 
 ## Photos
