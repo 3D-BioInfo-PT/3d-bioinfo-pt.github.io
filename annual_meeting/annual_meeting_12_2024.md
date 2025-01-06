@@ -50,16 +50,16 @@ Access the <b>Book of Abstracts</b> [here](/annual_meeting/Book_Abstracts_3DBIOI
 
 
 <div style="display:flex;align-items:center;justify-content:center;">
-<a ><img src="/annual_meeting/people/photo_Alexandra_Carvalho.png" alt="Alexandra Carvalho" width="150"/>  
-<b>Alexandra Carvalho</b>  
+<a ><img src="/annual_meeting/people/photo_Alexandra_Carvalho.png" alt="Alexandra Carvalho" width="150"/>  </br>
+<b>Alexandra Carvalho</b>  </br>
 Almac Sciences, UK</a>
 
-<a ><img src="/annual_meeting/people/photo_Catarina_Santos.jpeg" alt="Catarina Carvalheda dos Santos" width="150"/>  
-<b>Catarina Carvalheda dos Santos</b>  
+<a ><img src="/annual_meeting/people/photo_Catarina_Santos.jpeg" alt="Catarina Carvalheda dos Santos" width="150"/>  </br>
+<b>Catarina Carvalheda dos Santos</b>  </br>
 Isomorphic Labs, UK</a>
 
-<a ><img src="/annual_meeting/people/photo_Tomás_Silva.jpg" alt="Tomás Silva" width="150"/>  
-<b>Tomás Silva</b>  
+<a ><img src="/annual_meeting/people/photo_Tomás_Silva.jpg" alt="Tomás Silva" width="150"/>  </br>
+<b>Tomás Silva</b>  </br>
 SISSA, Trieste, IT</a>
 </div>
 
