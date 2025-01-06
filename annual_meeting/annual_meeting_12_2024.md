@@ -61,6 +61,14 @@ Isomorphic Labs, UK
 <b>Tomás Silva</b>  
 SISSA, Trieste, IT
 
+## Photos
+
+<div style="display:flex;align-items:center;justify-content:center;">
+  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <a ><img src="/images/sponsors/logo_biodata_community.png" width="200"></a>
+  </div>
+</div>
+
 ## Location
 
 The 2024 3D-BioInfo-PT Annual Meeting will take place at [[Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/en) Room 6.2.56, Building C6. When facing the C6 bar, take the stairs on the right side and go up one floor.
