@@ -65,7 +65,7 @@ SISSA, Trieste, IT
 
 <div style="display:flex;align-items:center;justify-content:center;">
   <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
-    <a ><img src="/images/sponsors/logo_biodata_community.png" width="200"></a>
+    <a ><img src="/images/annual_meeting_2024/photo1.jpg" width="200"></a>
   </div>
 </div>
 
