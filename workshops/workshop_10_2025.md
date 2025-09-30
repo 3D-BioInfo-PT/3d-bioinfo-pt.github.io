@@ -5,7 +5,7 @@ tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCUL]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: ../images/ctn_banner.jpg
+  feature: ../images/ctn_banner_slim.jpg
 ---
 
 ## Registration
@@ -15,7 +15,7 @@ The workshop is free of charge but requires registration. Please register using 
 ## Tutorial Topics
 
 This advanced workshop will cover the following sessions:
-- **Introduction to QM/MM Simulations** --- Sérgio Sousa, FMUP/UC
+- **Quantum Mechanics Made Simple for the Life Sciences: Performing Simple Calculations with Chemical Accuracy in Biology** --- Sérgio Sousa, Universidade de Coimbra | BioSIM (LAQV/REQUIMTE)
 - **Designing Proteins with Large Language Models** --- Ana Filipa Rodrigues & Lucas Ferraz, LASIGE/FCUL
 - **Exploring Protein Language Models for Folding and Classification** --- Francisco Fernandes, PURR.AI
 
@@ -28,7 +28,7 @@ Please mind that these workshops will take place at the Location specified below
 
 October 24th:
 - 10:00h -– Registration, Coffee & Biscuits
-- 10:30h –– Workshop 1 - **Introduction to QM/MM Simulations** --- Sérgio Sousa, FMUP/UC
+- 10:30h –– Workshop 1 - **Quantum Mechanics Made Simple for the Life Sciences** --- Sérgio Sousa, UC|BioSIM
 - 12:00h -- Lunch Break <!--(Free of Charge)-->
 - 13:30h –- Workshop 2 - **Designing Proteins with Large Language Models** --- Ana Filipa Rodrigues & Lucas Ferraz, LASIGE/FCUL
 - 15:00h –– Coffee Break
@@ -48,11 +48,11 @@ Later after the sessions, there will be a social dinner for the participants tha
 
 The 2025 3D-BioInfo-PT Advanced Workshop will take place at [Campus Tecnológico e Nuclear, Pólo de Loures do IST](https://c2tn.tecnico.ulisboa.pt/) (Auditório room).
 
-Estrada Nacional 10 (Km 139.7)
-2695-066 Bobadela LRS
+Estrada Nacional 10 (Km 139.7)<br/>
+2695-066 Bobadela LRS<br/>
 Portugal
 ### GPS coordinates  
-Latitude:  38° 48' 41.06" N
+Latitude:  38° 48' 41.06" N<br/>
 Longitude: 09° 05' 36.10" W
 
 ## How to get there?
