@@ -5,7 +5,7 @@ tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCUL]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: ../images/ctn_banner_slim.jpg
+  feature: ../images/ist_banner_slim.jpg
 ---
 
 ## Registration
@@ -16,7 +16,7 @@ The workshop is free of charge but requires registration. Please register using 
 
 This advanced workshop will cover the following sessions:
 - **Quantum Mechanics Made Simple for the Life Sciences: Performing Simple Calculations with Chemical Accuracy in Biology** --- Sérgio Sousa, Universidade de Coimbra &#124; BioSIM (LAQV/REQUIMTE)
-- **Designing Proteins with Large Language Models** --- Ana Filipa Rodrigues & Lucas Ferraz, LASIGE/FCUL
+- **Designing Proteins with Large Language Models** --- Ana Filipa Rodrigues & João Lucas Ferraz, LASIGE/FCUL
 - **Exploring Protein Language Models for Folding and Classification** --- Francisco Fernandes, PURR.AI
 
 <!--
@@ -27,13 +27,13 @@ Please mind that these workshops will take place at the Location specified below
 ## Event Program
 
 October 24th:
-- 10:00h -– Registration, Coffee & Biscuits
-- 10:30h –– Workshop 1 - **Quantum Mechanics Made Simple for the Life Sciences** --- Sérgio Sousa, UC&#124;BioSIM
+- 10:00h -- Registration, Coffee & Biscuits
+- 10:30h -- Workshop 1 - **Quantum Mechanics Made Simple for the Life Sciences** --- Sérgio Sousa, UC&#124;BioSIM
 - 12:00h -- Lunch Break <!--(Free of Charge)-->
-- 13:30h –- Workshop 2 - **Designing Proteins with Large Language Models** --- Ana Filipa Rodrigues & Lucas Ferraz, LASIGE/FCUL
-- 15:00h –– Coffee Break
-- 15:30h -– Workshop 3 - **Exploring Protein Language Models for Folding and Classification** --- Francisco Fernandes, PURR.AI
-- 17:00h –- Closing
+- 13:30h -- Workshop 2 - **Designing Proteins with Large Language Models** --- Ana Rodrigues & Lucas Ferraz, LASIGE/FCUL
+- 15:00h -- Coffee Break
+- 15:30h -- Workshop 3 - **Exploring Protein Language Models for Folding and Classification** --- Francisco Fernandes, PURR.AI
+- 17:00h -- Closing
 
 <!--
 Later after the sessions, there will be a social dinner for the participants that wish to partake in this activity (expenses not covered). We welcome you all to join.
