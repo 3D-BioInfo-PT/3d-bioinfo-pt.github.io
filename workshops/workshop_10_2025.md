@@ -10,12 +10,12 @@ image:
 
 ## Registration
 
-The workshop is free of charge but requires registration. Please register using [this form](https://docs.google.com/forms/d/e/1FAIpQLScHGYlrrIL4m3bm1Z1vQdpNF6OZ83izfh0eJY5JA_MTtkao6w/viewform?usp=dialog){:target="_blank"} by October 20th!  
+The workshop is free of charge but requires registration. Please register using [this form](https://docs.google.com/forms/d/e/1FAIpQLScHGYlrrIL4m3bm1Z1vQdpNF6OZ83izfh0eJY5JA_MTtkao6w/viewform){:target="_blank"} by October 20th!  
 
 ## Tutorial Topics
 
 This advanced workshop will cover the following sessions:
-- **Quantum Mechanics Made Simple for the Life Sciences: Performing Simple Calculations with Chemical Accuracy in Biology** --- Sérgio Sousa, Universidade de Coimbra | BioSIM (LAQV/REQUIMTE)
+- **Quantum Mechanics Made Simple for the Life Sciences: Performing Simple Calculations with Chemical Accuracy in Biology** --- Sérgio Sousa, Universidade de Coimbra &#124; BioSIM (LAQV/REQUIMTE)
 - **Designing Proteins with Large Language Models** --- Ana Filipa Rodrigues & Lucas Ferraz, LASIGE/FCUL
 - **Exploring Protein Language Models for Folding and Classification** --- Francisco Fernandes, PURR.AI
 
@@ -28,7 +28,7 @@ Please mind that these workshops will take place at the Location specified below
 
 October 24th:
 - 10:00h -– Registration, Coffee & Biscuits
-- 10:30h –– Workshop 1 - **Quantum Mechanics Made Simple for the Life Sciences** --- Sérgio Sousa, UC|BioSIM
+- 10:30h –– Workshop 1 - **Quantum Mechanics Made Simple for the Life Sciences** --- Sérgio Sousa, UC&#124;BioSIM
 - 12:00h -- Lunch Break <!--(Free of Charge)-->
 - 13:30h –- Workshop 2 - **Designing Proteins with Large Language Models** --- Ana Filipa Rodrigues & Lucas Ferraz, LASIGE/FCUL
 - 15:00h –– Coffee Break
