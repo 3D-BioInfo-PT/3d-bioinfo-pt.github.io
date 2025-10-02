@@ -5,7 +5,7 @@ tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCUL]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 image:
-  feature: ../images/ist_banner_slim.jpg
+  feature: ../images/ist_banner_slim_upscaled.jpg
 ---
 
 ## Registration
@@ -35,9 +35,7 @@ October 24th:
 - 15:30h -- Workshop 3 - **Exploring Protein Language Models for Folding and Classification** --- Francisco Fernandes, PURR.AI
 - 17:00h -- Closing
 
-<!--
-Later after the sessions, there will be a social dinner for the participants that wish to partake in this activity (expenses not covered). We welcome you all to join.
--->
+Later after the sessions, there will be a dinner for the participants that wish to participate in this social activity (expenses not covered). We welcome you all to join.
 
 <!--
 [whatever]: Photos
@@ -88,7 +86,7 @@ We're pleased to announce a partnership between the 3D-Bioinfo-PT organization a
     <a href="https://biodata.pt/communities/3d-bioinfo" target="_blank"><img src="/images/sponsors/logo_biodata_community.png" alt="BioData.pt" width="200"></a>
   </div>
    <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
-    <a href="https://www.biodata.pt/" target="_blank"><img src="/images/sponsors/logo-biodata.png" alt="BioData.pt" width="200"></a>
+    <a href="https://www.biodata.pt/" target="_blank"><img src="/images/sponsors/logo-biodata.png" alt="BioData.pt" width="240"></a>
   </div>
   <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
     <a href="https://elixir-europe.org/about-us/who-we-are/nodes/portugal" target="_blank"><img src="/images/elixir_portugal.png" alt="Elixir Portugal" width="200"></a>
@@ -106,7 +104,13 @@ We're pleased to announce a partnership between the 3D-Bioinfo-PT organization a
     <a href="https://www.ulisboa.pt/" target="_blank"><img src="/images/sponsors/logo_ulisboa.png" alt="Universidade de Lisboa" width="200"></a>
   </div>
 </div>
-  
+
+<div style="display:flex;align-items:center;justify-content:center;">
+  <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
+    <a href="https://purrai.com/" target="_blank"><img src="/images/purrai.png" alt="PURR.AI" width="200"></a>
+  </div>
+</div>
+
 <!--
   <div style="display:flex;align-items:center;justify-content:center;">
     <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
