@@ -10,7 +10,7 @@ image:
 
 ## Registration
 
-The workshop is free of charge but requires registration. Please register using [this form](https://docs.google.com/forms/d/e/1FAIpQLScHGYlrrIL4m3bm1Z1vQdpNF6OZ83izfh0eJY5JA_MTtkao6w/viewform){:target="_blank"} by October 20th!  
+The workshop is free of charge but requires registration. Please register using [**this form**](https://docs.google.com/forms/d/e/1FAIpQLScHGYlrrIL4m3bm1Z1vQdpNF6OZ83izfh0eJY5JA_MTtkao6w/viewform){:target="_blank"} by October 22nd!  
 
 ## Tutorial Topics
 
