@@ -85,28 +85,26 @@ We're pleased to announce a partnership between the 3D-Bioinfo-PT organization a
 
 <div style="display:flex;align-items:center;justify-content:center;">
   <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
-    <a href="https://www.biodata.pt/" target="_blank"><img src="/images/sponsors/logo_biodata_community.png" alt="BioData.pt" width="130"></a>
+    <a href="https://biodata.pt/communities/3d-bioinfo" target="_blank"><img src="/images/sponsors/logo_biodata_community.png" alt="BioData.pt" width="200"></a>
   </div>
    <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
-    <a href="https://www.biodata.pt/" target="_blank"><img src="/images/sponsors/logo-biodata.png" alt="BioData.pt" width="130"></a>
+    <a href="https://www.biodata.pt/" target="_blank"><img src="/images/sponsors/logo-biodata.png" alt="BioData.pt" width="200"></a>
   </div>
   <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
-    <a href="https://elixir-europe.org/about-us/who-we-are/nodes/portugal" target="_blank"><img src="/images/elixir_portugal.png" alt="Elixir Portugal" width="120"></a>
+    <a href="https://elixir-europe.org/about-us/who-we-are/nodes/portugal" target="_blank"><img src="/images/elixir_portugal.png" alt="Elixir Portugal" width="200"></a>
   </div>
 </div>
 
 <div style="display:flex;align-items:center;justify-content:center;">
-
   <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
-    <a href="https://www.ulisboa.pt/" target="_blank"><img src="/images/sponsors/logo_ulisboa.png" alt="Universidade de Lisboa" width="200"></a>
+    <a href="https://ctn.tecnico.ulisboa.pt/" target="_blank"><img src="/images/sponsors/logo_ctn.png" alt="Centro de Ciências e Tecnologias Nucleares" width="200"></a>
   </div>
   <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
     <a href="https://tecnico.ulisboa.pt/" target="_blank"><img src="/images/sponsors/logo_ist.png" alt="Instituto Superior Técnico" width="200"></a>
   </div>
   <div style="padding-left:60px; padding-right:60px; padding-top:10px; padding-bottom:10px">
-    <a href="https://ctn.tecnico.ulisboa.pt/" target="_blank"><img src="/images/sponsors/logo_ctn.png" alt="Centro de Ciências e Tecnologias Nucleares" width="200"></a>
+    <a href="https://www.ulisboa.pt/" target="_blank"><img src="/images/sponsors/logo_ulisboa.png" alt="Universidade de Lisboa" width="200"></a>
   </div>
-
 </div>
   
 <!--
