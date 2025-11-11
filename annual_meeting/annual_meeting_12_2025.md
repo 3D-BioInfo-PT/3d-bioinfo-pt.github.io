@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "2nd Annual Meeting: December 18th 2023 at UCoimbra"
+title: "4th Annual Meeting: December 16th 2025 at UCoimbra"
 tags: [EJIBCE, FCT, SPB, ANBIOQ, DF, BSIM2, JEST, FCTUC]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
@@ -11,6 +11,7 @@ image:
 ## Registration
 
 (Opening soon)
+
 <!--
 [whatever]: The meeting is free but requires registration. Please fill [this form](https://forms.gle/RTmLsHNTm6LHn4Ju8){:target="_blank"} by December 11th.
 
@@ -20,6 +21,7 @@ Registration is now closed.
 ## Topics and Program
 
 (To be announced)
+
 <!--
 [Access the meeting program here!](/annual_meeting/3DBIOINFOPT_Meeting23_FullProgram.pdf){:target="_blank"}
 
