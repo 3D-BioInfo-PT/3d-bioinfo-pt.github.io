@@ -9,12 +9,11 @@ comments: false
 <link rel="stylesheet" href="svgs.css">
 
 <hr>
+# Annual Meeting: December 16th, 2025
 
-# Advanced Workshop: October 24th, 2025
-
-<a href="/workshops/workshop_10_2025" title="Click for more information!">
-<img alt="Qries" src="/images/workshop_10_2025.svg" class="workshop" style="max-width: 650px;
-filter: invert(100%) sepia(100%) saturate(300%) hue-rotate(150deg) invert(100%);">
+<a href="/annual_meeting/annual_meeting_12_2025" title="Click for more information!">
+<img alt="Qries" src="/images/meeting-2025.svg" class="workshop" style="max-width: 650px; filter: invert(100%) sepia(100%) 
+saturate(300%) hue-rotate(0deg) invert(100%);">
 </a>
 
 <hr>
