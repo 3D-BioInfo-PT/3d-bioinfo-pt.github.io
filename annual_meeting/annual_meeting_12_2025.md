@@ -30,20 +30,32 @@ Access the <b>Book of Abstracts</b> [here](/annual_meeting/Book_Abstracts_3DBIOI
 
 ## Keynote Speakers
 
-<img src="/annual_meeting/MMachuqueiro.png" alt="Miguel Machuqueiro" width="150"/>  
+<img src="/annual_meeting/people/MMachuqueiro.png" alt="Miguel Machuqueiro" width="150"/>  
 <b>Miguel Machuqueiro</b>
 <p><small>
-Assistant Professor in Computational Biochemistry at the Faculty of Sciences, University of Lisbon (Ciências@ULisboa), member of the executive board of BioISI and leader of the <a href="https://mms.rd.ciencias.ulisboa.pt">Computational Biophysics Lab</a>. His expertise spans biomolecular simulation, constant-pH MD, membrane biophysics, and electrostatics and participates in multiple cross-border collaborations and initiatives that promote the internationalization of Portuguese science. In 2023 and 2025, he received the Ciências@ULisboa Scientific Merit Award in Chemical Sciences & Technologies and in 2025, he was awarded the UL/CGD Scientífic Award in Biology, Biologic Eng., Biochemistry, and Biotechnology.
+Assistant Professor in Computational Biochemistry at the Faculty of Sciences, University of Lisbon (Ciências@ULisboa), member of the executive board of BioISI and leader of the <a href="https://mms.rd.ciencias.ulisboa.pt">Computational Biophysics Lab</a>. His expertise spans biomolecular simulation, constant-pH MD, membrane biophysics and electrostatics and participates in multiple cross-border collaborations and initiatives that promote the internationalization of Portuguese science. In 2023 and 2025, he received the Ciências@ULisboa Scientific Merit Award in Chemical Sciences & Technologies and in 2025, he was awarded the UL/CGD Scientífic Award in Biology, Biologic Eng., Biochemistry, and Biotechnology.
 </small></p>
 
-<img src="/annual_meeting/Placeholder.png" alt="Pedro Simões" width="150"/>  
-<b>Pedro Simões</b>  
-(Bio to be added soon)
+<img src="/annual_meeting/people/PSimoes.jpg" alt="Pedro Simões" width="150"/>  
+<b>Pedro Simões</b>
+<p><small>
+Assistant professor at the Chemical Engineering Department (DEQ) and researcher at the Chemical Engineering and Renewable Resources for Sustainability (CERES) at the Faculty of Science and Technology of the University of Coimbra (FCTUC).
+His expertise includes molecular modeling and simulation applied to Product Engineering, computational studies of nanostructured materials, high performance computational architectures dedicated to computational chemistry software and thermal analysis of materials.
+</small></p>
+
+<img src="/annual_meeting/people/ABarbosa.jpg" alt="Arménio Barbosa" width="150"/>  
+<b>Arménio Barbosa</b>
+<p><small>
+Arménio Barbosa holds a PhD in Multiscale Modeling at the University of Modena and Reggio Emilia (Unimore), IT, and a Degree in Biochemistry at the University of Porto, PT. Dr. Barbosa is currently a Researcher in Molecular Modelingat the NOVA School of Science and Technology (NOVA). He held three post-doctoral research positions in drug discovery at Unimore (2010); in computational approaches for the development of anticancer drug targets at the University of Bologna, Italy (2011-2014), in computational enzyme design and proteins for gas sensing at NOVA (2015-2018). Dr. Barbosa research interests are in multiscale modelling of small molecules, proteins and biomaterials. The main research area involves using molecular modeling tools to develop ligands for biopharmaceuticals purification, study protein-based materials, dynamic behavior of biomolecules and drug discovery.
+</small>
+</p>
 
 <!--
-<img src="/annual_meeting/Placeholder.png" alt="Arménio ???" width="150"/>  
-<b>Arménio ???</b>  
+<img src="/annual_meeting/people/Placeholder.png" alt="Person's Name" width="150"/>  
+<b>Person's Name/b>  
+<p><small>
 (Bio to be added)
+</small></p>
 -->
 
 <!--
@@ -92,17 +104,18 @@ data-dashlane-frameid="330712481793" width="600" height="450"></iframe>
 - Ana Amorim
 - Urszula Orzeł
 - Luana Afonso
+- Raquel Gouveia
 
 # Partners
 
 <div style="display:flex;align-items:center;justify-content:center;">
 
   <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
-    <a href="https://www.biodata.pt/" target="_blank"><img src="/images/BioData.png" alt="BioData.pt" width="130"></a>
+    <a href="https://www.biodata.pt/" target="_blank"><img src="/images/logo_biodata_new.jpg" alt="BioData.pt" width="130"></a>
   </div>
 
   <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
-    <a href="https://biodata.pt/communities/3d-bioinfo" target="_blank"><img src="/images/sponsors/logo_biodata_community.png" alt="3D-Bioinfo Community" width="130"></a>
+    <a href="https://biodata.pt/communities/3d-bioinfo" target="_blank"><img src="/images/logo_3dbioinfo_new.jpg" alt="3D-Bioinfo Community" width="130"></a>
   </div>
 
   <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
