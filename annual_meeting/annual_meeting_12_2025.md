@@ -10,13 +10,7 @@ image:
 
 ## Registration
 
-(Opening soon)
-
-<!--
-[whatever]: The meeting is free but requires registration. Please fill [this form](https://forms.gle/RTmLsHNTm6LHn4Ju8){:target="_blank"} by December 11th.
-
-Registration is now closed.
--->
+[whatever]: The meeting is free but requires registration. Please fill [this form](https://forms.gle/M2vYfPZdJfBR3ydv8){:target="_blank"} by Friday, December 12th.
 
 ## Topics and Program
 
@@ -65,7 +59,7 @@ Arménio Barbosa holds a PhD in Multiscale Modeling at the University of Modena 
 
 ## Location
 
-The 2025 3D-BioInfo-PT Annual Meeting will take place at [Faculty of Science and Tecnology at University of Coimbra](https://www.uc.pt/en/fctuc/).
+The 2025 3D-BioInfo-PT Annual Meeting will take place at [Faculty of Science and Tecnology at University of Coimbra](https://www.uc.pt/en/fctuc/dcv/).
 
 Calçada Martim de Freitas  
 3000-456 Coimbra  
@@ -111,7 +105,7 @@ data-dashlane-frameid="330712481793" width="600" height="450"></iframe>
 <div style="display:flex;align-items:center;justify-content:center;">
 
   <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
-    <a href="https://www.biodata.pt/" target="_blank"><img src="/images/logo_biodata_new.jpg" alt="BioData.pt" width="130"></a>
+    <a href="https://www.biodata.pt/" target="_blank"><img src="/images/sponsors/logo_biodata_community.png" alt="BioData.pt" width="130"></a>
   </div>
 
   <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
