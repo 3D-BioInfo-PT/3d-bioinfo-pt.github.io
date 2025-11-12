@@ -10,7 +10,7 @@ image:
 
 ## Registration
 
-The meeting is free but requires registration. Please fill [this form](https://forms.gle/M2vYfPZdJfBR3ydv8){:target="_blank"} by Friday, December 12th.
+The meeting is free but requires registration. Please fill [this form](https://forms.gle/M2vYfPZdJfBR3ydv8){:target="_blank"} by Saturday, December 6th.
 
 ## Topics and Program
 
