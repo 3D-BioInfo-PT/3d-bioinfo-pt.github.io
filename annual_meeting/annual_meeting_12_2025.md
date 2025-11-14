@@ -10,11 +10,15 @@ image:
 
 ## Registration
 
-The meeting is free but requires registration. Please fill [this form](https://forms.gle/M2vYfPZdJfBR3ydv8){:target="_blank"} by Saturday, December 6th.
+The meeting is free but requires registration. Please fill [**this form**](https://forms.gle/M2vYfPZdJfBR3ydv8){:target="_blank"} by Saturday, December 6th.
 
 ## Topics and Program
 
-(To be announced)
+Keynote sessions:
+
+- **On the Use of Molecular Simulation in Product Engineering** --- Pedro Nuno Simões, Universidade de Coimbra
+
+(Full program to be announced soon)
 
 <!--
 [Access the meeting program here!](/annual_meeting/3DBIOINFOPT_Meeting23_FullProgram.pdf){:target="_blank"}
@@ -33,14 +37,13 @@ Assistant Professor in Computational Biochemistry at the Faculty of Sciences, Un
 <img src="/annual_meeting/people/PSimoes.jpg" alt="Pedro Simões" width="150"/>  
 <b>Pedro Simões</b>
 <p><small>
-Assistant professor at the Chemical Engineering Department (DEQ) and researcher at the Chemical Engineering and Renewable Resources for Sustainability (CERES) at the Faculty of Science and Technology of the University of Coimbra (FCTUC).
-His expertise includes molecular modeling and simulation applied to Product Engineering, computational studies of nanostructured materials, high performance computational architectures dedicated to computational chemistry software and thermal analysis of materials.
+Pedro Nuno Simões (PNS) obtained his Ph.D. in Chemical Engineering from the University of Coimbra (UC) in 2001 and in recent years his research has focused on the application of advanced molecular modeling and simulation techniques, supported by high-performance computing (HPC), as a strategic means to advance fundamental knowledge in Chemical Product Engineering. He successfully secured funding for the establishment of an HPC facility at the Research Center of the Department of Chemical Engineering (CERES) at UC and has participated in several interdisciplinary R&D projects across diverse areas of Chemical and Biological Engineering and Materials Science. Within the Department of Chemical Engineering, PNS has held several management positions, including Vice-Director of the Department and Vice-Director of the former DEQ Research Center (CIEPQPF) and has served as Coordinator of the Doctoral Program in Chemical Engineering at UC since 2019.
 </small></p>
 
 <img src="/annual_meeting/people/ABarbosa.jpg" alt="Arménio Barbosa" width="150"/>  
 <b>Arménio Barbosa</b>
 <p><small>
-Arménio Barbosa holds a PhD in Multiscale Modeling at the University of Modena and Reggio Emilia (Unimore), IT, and a Degree in Biochemistry at the University of Porto, PT. Dr. Barbosa is currently a Researcher in Molecular Modelingat the NOVA School of Science and Technology (NOVA). He held three post-doctoral research positions in drug discovery at Unimore (2010); in computational approaches for the development of anticancer drug targets at the University of Bologna, Italy (2011-2014), in computational enzyme design and proteins for gas sensing at NOVA (2015-2018). Dr. Barbosa research interests are in multiscale modelling of small molecules, proteins and biomaterials. The main research area involves using molecular modeling tools to develop ligands for biopharmaceuticals purification, study protein-based materials, dynamic behavior of biomolecules and drug discovery.
+Assistant Professor in Biochemistry and Biophysics at the NOVA School of Science and Technology, NOVA University Lisbon, and a researcher at UCIBIO and i4HB. His expertise involves modelling and simulation of small molecules and biomolecules applied to biotechnology research, using molecular modeling tools to develop ligands for biopharmaceuticals purification, study protein-based materials, dynamic behavior of biomolecules and drug discovery.
 </small>
 </p>
 
