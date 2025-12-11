@@ -10,7 +10,12 @@ image:
 
 ## Registration
 
+Registration is now closed.
+
+1<!--
 The meeting is free but requires registration. Please fill [**this form**](https://forms.gle/M2vYfPZdJfBR3ydv8){:target="_blank"} by Saturday, December 6th.
+-->
+
 
 ## Topics and Program
 
@@ -34,7 +39,7 @@ Full program:
 - 12:30 - 14:00 -- Lunch 
 - 14:00 - 15:00 -- (K2) Pedro Simões --- **On the Use of Molecular Simulation in Product Engineering**
 - 15:00 - 15:15 -- (O6) André Gomes --- **From Chemistry to Code: Automating QM Workflows for Solubility Prediction**
-- 15:15 15:30 -- (O7) Ana Figueiredo --- **Computational Model of Phosphatidylinositol Protonation in Membranes**
+- 15:15 - 15:30 -- (O7) Ana Figueiredo --- **Computational Model of Phosphatidylinositol Protonation in Membranes**
 - 15:30 - 16:00 -- Coffee Break + Poster Session
 - 16:00 - 17:00 -- (K3) Arménio Barbosa --- **Computational Strategies in applied Molecular Recognition for Affinity Purification, Biomaterials and Drug Discovery**
 - 17:00 - 17:15 -- (O8) João Vitorino --- **Studying Protonation-Driven Dynamics in Class A GPCR Activation Mechanism Through Enhanced Sampling**
