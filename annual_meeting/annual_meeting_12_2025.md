@@ -30,18 +30,18 @@ Full program:
 - **08:30 - 09:30** -- Registration
 - **09:30 - 09:45** -- (O1) Fábio Martins --- **Molecular insights into HIV-1 Intasome-Human Nucleosome Interactions**
 - **09:45 - 10:00** -- (O2) João Boazinha --- **Hybrid AI / Physics-based modelling of Human Voltage-gated Channels for the Development of Isoform Specific Drug Design**
-- **10:00 - 11:00** -- **(K1)** Miguel Machuqueiro --- **Computational Methods to Capture pH Effects in Biomolecules**
+- **10:00 - 11:00** -- **(K1) Miguel Machuqueiro --- Computational Methods to Capture pH Effects in Biomolecules**
 - **11:00 - 11:30** -- Coffee Break + Poster Session
 - **11:30 - 11:45** -- (O3) Ana Amorim --- **GPCR target discovery via multiclass activity mapping with GPCR-A17 MAAP**
 - **11:45 - 12:00** -- (O4) Dmitrij Gritsok --- **Benchmarking Deep Learning Models for Viral Protein Assembly: A Comparative Case Study of the Monkeypox Envelope Protein A29L**
 - **12:00 - 12:15** -- (O5) Constança Ilunga --- **Design and characterization of MHETase mutants for improved activity and solubility in PET degradation**
 - **12:15 - 12:30** -- Poster session 
 - **12:30 - 14:00** -- Lunch 
-- **14:00 - 15:00** -- **(K2)** Pedro Simões --- **On the Use of Molecular Simulation in Product Engineering**
+- **14:00 - 15:00** -- **(K2) Pedro Simões --- On the Use of Molecular Simulation in Product Engineering**
 - **15:00 - 15:15** -- (O6) André Gomes --- **From Chemistry to Code: Automating QM Workflows for Solubility Prediction**
 - **15:15 - 15:30** -- (O7) Ana Figueiredo --- **Computational Model of Phosphatidylinositol Protonation in Membranes**
 - **15:30 - 16:00** -- Coffee Break + Poster Session
-- **16:00 - 17:00** -- **(K3)** Arménio Barbosa --- **Computational Strategies in applied Molecular Recognition for Affinity Purification, Biomaterials and Drug Discovery**
+- **16:00 - 17:00** -- **(K3) Arménio Barbosa --- Computational Strategies in applied Molecular Recognition for Affinity Purification, Biomaterials and Drug Discovery**
 - **17:00 - 17:15** -- (O8) João Vitorino --- **Studying Protonation-Driven Dynamics in Class A GPCR Activation Mechanism Through Enhanced Sampling**
 - **17:15 - 17:30** -- (O9) Sara Ferreira --- **Tied Up in Function: The Role of the Knot in UCH-L1 Activity**
 - **17:30** -- Closing Session
