@@ -166,7 +166,11 @@ data-dashlane-frameid="330712481793" width="600" height="450"></iframe>
 <div style="display:flex;align-items:center;justify-content:center;">
 
   <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
-    <a target="_blank"><img src="/images/purrai.png" alt="purrAI" width="190"></a>
+    <a target="_blank"><img src="/images/MoreiraLab.png" alt="MoreiraLab" width="190"></a>
+  </div>
+
+  <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
+    <a target="_blank"><img src="/images/purrai.png" alt="PURR.AI" width="190"></a>
   </div>
 
   <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
