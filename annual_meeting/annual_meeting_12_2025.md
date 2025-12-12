@@ -29,7 +29,7 @@ Full program:
 
 - **08:30 - 09:30** -- Registration
 - **09:30 - 09:45** -- (O1) Fábio Martins --- **Molecular insights into HIV-1 Intasome-Human Nucleosome Interactions**
-- **09:45 - 10:00** -- (O2) João Boazinha --- **Hybrid AI / Physics-based modelling of Human Voltage-gated Channels for the Development of Isoform Specific Drug Design**
+- **09:45 - 10:00** -- (O2) João Boazinha --- **Hybrid AI / Physics-based modelling of Human Voltage-gated Sodium Channels for the Development of Isoform Specific Drug Design**
 - **10:00 - 11:00** -- **(K1) Miguel Machuqueiro --- Computational Methods to Capture pH Effects in Biomolecules**
 - **11:00 - 11:30** -- Coffee Break + Poster Session
 - **11:30 - 11:45** -- (O3) Ana Amorim --- **GPCR target discovery via multiclass activity mapping with GPCR-A17 MAAP**
