@@ -10,11 +10,11 @@ image:
 
 ## Registration
 
-Registration is now closed.
-
 <!--
-The meeting is free but requires registration. Please fill [**this form**](https://forms.gle/M2vYfPZdJfBR3ydv8){:target="_blank"} by Saturday, December 6th.
+Registration is now closed.
 -->
+
+The meeting is free but requires registration. Please fill [**this form**](https://forms.gle/M2vYfPZdJfBR3ydv8){:target="_blank"} to register (still open!).
 
 
 ## Topics and Program
@@ -166,15 +166,15 @@ data-dashlane-frameid="330712481793" width="600" height="450"></iframe>
 <div style="display:flex;align-items:center;justify-content:center;">
 
   <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
-    <a target="_blank"><img src="/images/MoreiraLab.png" alt="MoreiraLab" width="120"></a>
+    <a href="http://www.moreiralab.com/" target="_blank"><img src="/images/MoreiraLab.png" alt="MoreiraLab" width="120"></a>
   </div>
 
   <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
-    <a target="_blank"><img src="/images/purrai.png" alt="PURR.AI" width="190"></a>
+    <a href="https://purrai.com/" target="_blank"><img src="/images/purrai.png" alt="PURR.AI" width="190"></a>
   </div>
 
   <div style="padding-left:40px; padding-right:40px; padding-top:5px; padding-bottom:5px">
-    <a target="_blank"><img src="/images/sponsors/logo_mms.png" alt="Machuqueiro Lab" width="190"></a>
+    <a href="https://mms.rd.ciencias.ulisboa.pt/" target="_blank"><img src="/images/sponsors/logo_mms.png" alt="Machuqueiro Lab" width="190"></a>
   </div>
 
 </div>
