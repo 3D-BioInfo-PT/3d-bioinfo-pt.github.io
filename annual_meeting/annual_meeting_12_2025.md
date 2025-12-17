@@ -8,6 +8,15 @@ image:
   feature: ../images/dcv_image.png
 ---
 
+
+## Meeting photos
+
+<div style="padding-left:5px; padding-right:5px; padding-top:5px; padding-bottom:5px">
+  <img src="/annual_meeting/Group%20photo%202025.jpg" alt="2025 Group Photo" width="75%">
+</div>
+
+Thank you for your presence and we hope to see you all next year!
+
 ## Registration
 
 Registration is now closed.
