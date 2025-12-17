@@ -10,11 +10,15 @@ image:
 
 ## Registration
 
-<!--
 Registration is now closed.
+
+<!--
+The meeting is free but requires registration. Please fill [**this form**](https://forms.gle/M2vYfPZdJfBR3ydv8){:target="_blank"} to register (still open!).
 -->
 
-The meeting is free but requires registration. Please fill [**this form**](https://forms.gle/M2vYfPZdJfBR3ydv8){:target="_blank"} to register (still open!).
+## Book of Abstracts
+
+Please download the [**Book of Abstracts**](/annual_meeting/2025_Book_Abstracts_3DBIOINFOPT_Meeting.pdf){:target="_blank"} here.
 
 
 ## Topics and Program
